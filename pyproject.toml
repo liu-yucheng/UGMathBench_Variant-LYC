@@ -1,17 +1,17 @@
 [project]
-name = "ugmathbench-variantlyc"
-version = "0.1.1"
+name = "ugmathbench-variant-lyc"
+version = "0.2.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "ai-math-sketchbook",
     "antlr4-python3-runtime==4.11",
     "autopep8>=2.3.2",
     "backoff>=2.2.1",
     "chardet>=7.4.3",
     "datasets>=5.0.0",
     "dotenv>=0.9.9",
+    "math-capable-agents",
     "numpy>=2.5.0",
     "openai>=2.44.0",
     "pylint>=4.0.6",
@@ -27,8 +27,8 @@ build-backend = "hatchling.build"
 [tool.hatch.metadata]
 allow-direct-references = true
 
-[tool.uv.sources]
-ai-math-sketchbook = { path = "../AI-Math-Sketchbook", editable = true }
-
 [tool.hatch.build.targets.wheel]
 packages = ["ugmb"]
+
+[tool.uv.sources]
+math-capable-agents = { path = "../Math-Capable-Agents", editable = true }
