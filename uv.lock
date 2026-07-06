@@ -3061,7 +3061,7 @@ wheels = [
 
 [[package]]
 name = "ugmathbench-variant-lyc"
-version = "0.2.0"
+version = "0.3.0"
 source = { editable = "." }
 dependencies = [
     { name = "antlr4-python3-runtime" },
