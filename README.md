@@ -1,15 +1,15 @@
-# [liu-yucheng/UGMathBench-VariantLYC](https://github.com/liu-yucheng/UGMathBench-VariantLYC)
+# UGMathBench_Variant-LYC
 
-(Variant LYC) Repo of UGMathBench: A Diverse and Dynamic Benchmark for Undergraduate-Level Mathematical Reasoning with Large Language Models.
+UGMB: UGMathBench variant LYC.
 
 # Custom Modifications
 
-- Modified to support AMS (AI Math Sketchbook) agent invocations.
+- Modified to support Math-Capable-Agents (MCA) agent invocations.
 - Modified to run on Windows 11.
 - Removed support for [`vllm`](https://github.com/vllm-project/vllm) local inference.
 
 # Usage Instructions
-## Install `uv` and Dependencies
+## Install Dependencies
 
 - [Install `uv`](https://docs.astral.sh/uv/getting-started/installation/).
 - [Install Python with `uv python install <python-version>`](https://docs.astral.sh/uv/guides/install-python/)
@@ -26,13 +26,11 @@
 
 # Open-source Licenses
 
-- [GitHub/liu-yucheng/UGMathBench-VariantLYC](https://github.com/liu-yucheng/UGMathBench-VariantLYC) (this software) is released under the GNU AGPL 3.0+ License.
+- This software, UGMathBench_Variant-LYC , is released under the GNU AGPL 3.0+ License.
   - The GNU AGPL 3.0+ License is available at `https://www.gnu.org/licenses/agpl-3.0.txt`.
-- [GitHub/liu-yucheng/UGMathBench-VariantLYC](https://github.com/liu-yucheng/UGMathBench-VariantLYC) (this software) is derived from the following open-source software.
-  - [GitHub/YangLabHKUST/UGMathBench](https://github.com/YangLabHKUST/UGMathBench).
-    - Released under the GNU GPL 3.0+ (or later) License.
-  - [huggingface/UGMathBench/ugmathbench](https://huggingface.co/datasets/UGMathBench/ugmathbench).
-    - Released under the GNU GPL 3.0+ (or later) License.
+- This software, UGMathBench_Variant-LYC , is derived from the following open-source software.
+  - [GitHub/YangLabHKUST/UGMathBench](https://github.com/YangLabHKUST/UGMathBench). Under the GNU GPL 3.0+ (or later) License.
+  - [huggingface/UGMathBench/ugmathbench](https://huggingface.co/datasets/UGMathBench/ugmathbench). Under the GNU GPL 3.0+ (or later) License.
 
 ---
 

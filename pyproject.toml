@@ -1,6 +1,6 @@
 [project]
 name = "ugmathbench-variant-lyc"
-version = "0.3.0"
+version = "0.4.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
@@ -31,4 +31,4 @@ allow-direct-references = true
 packages = ["ugmb"]
 
 [tool.uv.sources]
-math-capable-agents = { path = "../Math-Capable-Agents", editable = true }
+math-capable-agents = { path = "../Math-Capable-Agents-Toolchain/Math-Capable-Agents", editable = true }
