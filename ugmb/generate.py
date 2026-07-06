@@ -20,7 +20,7 @@ import json
 import requests
 from time import sleep
 import langchain.messages
-import ams.cmds.agent_v1.serve as _serve
+import mca.cmds.agent_v1.serve as _serve
 import random
 import codecs
 
@@ -303,7 +303,7 @@ if __name__ == "__main__":
     parser.add_argument('--model',
                         type=str,
                         help="The path of model to evaluate.",
-                        default="ams-agent-v1")
+                        default="mca-agent-v1")
     parser.add_argument('--subject',
                         type=str,
                         help="The subject to evaluate.",
