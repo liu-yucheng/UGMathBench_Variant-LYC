@@ -32,22 +32,22 @@ _ToolMessage = langchain.messages.ToolMessage
 _project_root_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), os.path.pardir))
 
 SUB_LIST = [
-    "Abstract_algebra",
+    "Abstract-Algebra",
     "Combinatorics",
     "Statistics",
     "Geometry",
-    "Set_theory_and_logic",
+    "Set-Theory-and-Logic",
     "Probability",
     "Arithmetic",
     "Trigonometry",
-    "Complex_analysis",
-    "Differential_equations",
-    "Calculus_-_single_variable",
-    "Linear_algebra",
-    "Calculus_-_multivariable",
+    "Complex-Analysis",
+    "Differential-Equations",
+    "Calculus-Single-Variable",
+    "Linear-Algebra",
+    "Calculus-Multivariable",
     "Algebra",
-    "Number_theory",
-    "Financial_mathematics"
+    "Number-Theory",
+    "Financial-Mathematics"
 ]
 VERSION_COUNT = 3
 
@@ -307,7 +307,7 @@ if __name__ == "__main__":
     parser.add_argument('--subject',
                         type=str,
                         help="The subject to evaluate.",
-                        default="Calculus_-_single_variable")
+                        default="Calculus-Single-Variable")
     parser.add_argument('--version',
                         type=int,
                         help="Random version to evaluate. -1 for all versions.",
