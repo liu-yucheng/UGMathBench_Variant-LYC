@@ -1,17 +1,31 @@
-import time
-from multiprocessing import Pipe, Process, Lock, Manager
-from typing import Optional
-from tqdm import tqdm
-from ugmb.utils import *
+# Importation rules.
+# 1st, import standard library modules.
+# 2nd, import 3rd party library modules.
+# 3rd, import project-local modules.
+# 4th, violate the above order only when violations are unavoidable.
+
 import argparse
-from ugmb.generate import random_seed, SUB_LIST, VERSION_COUNT
-import numpy as np
-from collections import defaultdict
-from ugmb.judge_marj import Judger
+import os.path
 import random
+import time
+from collections import defaultdict
+from multiprocessing import Lock, Manager, Pipe, Process
+from typing import Optional
+
+import numpy as np
+from tqdm import tqdm
+
+from ugmb_vlyc.generate import SUBJECTS, VERSION_COUNT, random_seed
+from ugmb_vlyc.judge_rule import Judger
+from ugmb_vlyc.utils import *
+
+# Declaration rules.
+# 1st, declare local aliases.
+# 2nd, declare private module attributes.
+# 3rd, declare public module attributes.
+# 4th, violate the above order only when violations are unavoidable.
 
 random.seed(random_seed)
-_project_root_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), os.path.pardir))
 ugmath_judger = Judger(strict_extract=True)
 
 def eval_for_single_item(data_item, precision=1e-8):
@@ -74,24 +88,8 @@ def eval_for_single_item(data_item, precision=1e-8):
     extracted_pred = ugmath_judger.split_by_comma(extracted_pred)
     extracted_pred = [ugmath_judger.norm_ans_str(item, at)
                       for item, at in zip(extracted_pred, data_item['answer_type'])]
-    flag = False
-    for item in data_item['answer_type']:
-        if item != "NV":
-            flag = True
-    if not flag:
-        for item in data_item['answer']:
-            try:
-                float(item)
-            except:
-                flag = True
-                continue
-    if not correctness and flag:
-        correctness, msg = ugmath_judger.aux_judge(data_item['completion'],
-                                                   data_item['answer'],
-                                                   data_item['problem'])
-    else:
-        msg = None
-    return correctness, gt, extracted_pred, msg
+
+    return correctness, gt, extracted_pred
 
 
 def map_result_to_data(data_list, check_result_list):
@@ -134,7 +132,6 @@ def map_result_to_data(data_list, check_result_list):
         data_item["normalized_gt"] = check_result[1]
         data_item["extraced_answer"] = check_result[2]
         data_item["correctness"] = check_result[0]
-        data_item['model_judge_msg'] = check_result[-1]
 
     return data_list
 
@@ -204,7 +201,7 @@ def eval_with_timeout(counter, lock, data_path, conn, precision=1e-8):
         parent_conn.send(data_item)
 
         # Wait the child 5 seconds
-        if parent_conn.poll(600):
+        if parent_conn.poll(5):
             return_data = parent_conn.recv()
             result_list.append(dict(index=curr_index, data=return_data))
         else:
@@ -355,8 +352,8 @@ def eval_file(data_path: str, save_path: str, precision: float = 1e-8, n_proc: i
         file.write("\nAcc for each Version:\n")
         file.write(combined_metrics_version.to_string(index=False))
         file.write(f'\n\naacc: {aacc: .4f}\t')
-        file.write(f'\teacc: {all_true_within_versions_count / len(version2data[str(1)]): .4f}')
-        file.write(f'\tcacc: {at_least_one_true_across_versions_count / len(version2data[str(1)]): .4f}')
+        file.write(f'\teacc: {all_true_within_versions_count/len(version2data[str(1)]): .4f}')
+        file.write(f'\tcacc: {at_least_one_true_across_versions_count/len(version2data[str(1)]): .4f}')
 
 
 if __name__ == "__main__":
@@ -368,20 +365,20 @@ if __name__ == "__main__":
                         type=str,
                         help="The subject to evaluate.",
                         default="all")
-    parser.add_argument('--output_dir', type=str, default=os.path.join(_project_root_dir, ".results"))
+    parser.add_argument('--output_dir', type=str, default=os.path.join(proj_root_dir, ".results"))
     parser.add_argument('--precision', type=float, default=1e-3)
     args = parser.parse_args()
     out_dir = os.path.join(args.output_dir, args.model_path.split("/")[-1])
 
     subjects = []
     if args.subject == "all":
-        subjects = SUB_LIST
+        subjects = SUBJECTS
     else:
         subjects = [args.subject]
 
     for subject in subjects:
         input_path = os.path.join(out_dir, f"{subject}.json")
-        output_path = os.path.join(out_dir, f"{subject}_eval_marj.json")
+        output_path = os.path.join(out_dir, f"{subject}_eval_rule.json")
         if os.path.exists(input_path):
             eval_file(
                 data_path=input_path,
@@ -394,18 +391,18 @@ if __name__ == "__main__":
 
     all_subjects_data = []
     for subject in subjects:
-        input_path = os.path.join(out_dir, subject + "_eval_marj.json")
+        input_path = os.path.join(out_dir, subject + "_eval_rule.json")
         if os.path.exists(input_path):
             all_subjects_data += read_json(input_path)
             print(f"{input_path = } data added.")
         else:
             print(f"{input_path = } does not exist.")
         print(f"{subject} results loaded!")
-    input_path = os.path.join(out_dir, "all_subjects_eval_marj.json")
+    input_path = os.path.join(out_dir, "all_subjects_eval_rule.json")
     with open(input_path, 'w+t', encoding="utf-8") as f:
         json.dump(all_subjects_data, f, indent=4)
     print(f"All subjects evaluation results saved to {input_path}")
-    output_path = os.path.join(out_dir, "all_subjects_eval_marj.json")
+    output_path = os.path.join(out_dir, "all_subjects_eval_rule.json")
     eval_file(
         data_path=input_path,
         save_path=output_path,

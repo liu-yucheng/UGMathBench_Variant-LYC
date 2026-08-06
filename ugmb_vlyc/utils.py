@@ -1,8 +1,17 @@
+# Importation rules.
+# 1st, import standard library modules.
+# 2nd, import 3rd party library modules.
+# 3rd, import project-local modules.
+# 4th, violate the above order only when violations are unavoidable.
+
 import json
-import chardet
 import os
 import re
-from datasets import load_dataset, concatenate_datasets
+from typing import Any, Callable
+
+import chardet
+import pandas as pd
+from datasets import concatenate_datasets, load_dataset
 from sympy import (
     E,
     FiniteSet,
@@ -21,9 +30,15 @@ from sympy.parsing.latex.errors import LaTeXParsingError
 from sympy.parsing.sympy_parser import parse_expr
 from sympy.utilities.exceptions import SymPyDeprecationWarning
 from tqdm import tqdm
-from typing import Any, Callable
-import pandas as pd
 
+# Declaration rules.
+# 1st, declare local aliases.
+# 2nd, declare private module attributes.
+# 3rd, declare public module attributes.
+# 4th, violate the above order only when violations are unavoidable.
+
+proj_root_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), os.path.pardir))
+"""Project root directory."""
 
 STRIP_STRS = [
     ":",
