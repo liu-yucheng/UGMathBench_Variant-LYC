@@ -1,37 +1,45 @@
-import json
-import os
-from typing import Optional, Tuple
-import argparse
-from ugmb.utils import *
+# Importation rules.
+# 1st, import standard library modules.
+# 2nd, import 3rd party library modules.
+# 3rd, import project-local modules.
+# 4th, violate the above order only when violations are unavoidable.
 
+import abc
+import argparse
+import codecs
+import json
 import logging
 import multiprocessing
-from openai import OpenAI, RateLimitError, APIStatusError
-from functools import partial
-from typing import List, Union
-from tqdm import tqdm
-import backoff
-import abc
-from tqdm import tqdm
-import re
-from typing import List, Union, Iterable
-import argparse
-import json
-import requests
-from time import sleep
-import langchain.messages
-import mca.cmds.agent_v1.serve as _serve
+import os
+import os.path
 import random
-import codecs
+from functools import partial
+from time import sleep
+from typing import override
+
+import backoff
+import langchain.messages
+import langchain_core.utils.uuid as _uuid
+import mca.cmds.agent_v1.serve as _serve
+import requests
+from openai import APIStatusError, RateLimitError
+from tqdm import tqdm
+
+from ugmb_vlyc.utils import *
+
+# Declaration rules.
+# 1st, declare local aliases.
+# 2nd, declare private module attributes.
+# 3rd, declare public module attributes.
+# 4th, violate the above order only when violations are unavoidable.
 
 random_seed = 0
 random.seed(random_seed)
 _HumanMessage = langchain.messages.HumanMessage
 _AIMessage = langchain.messages.AIMessage
 _ToolMessage = langchain.messages.ToolMessage
-_project_root_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), os.path.pardir))
 
-SUB_LIST = [
+SUBJECTS = [
     "Abstract-Algebra",
     "Combinatorics",
     "Statistics",
@@ -52,26 +60,28 @@ SUB_LIST = [
 VERSION_COUNT = 3
 
 
-class PredictorBase(object):
+class PredictorBase:
     @abc.abstractmethod
-    def generate(self, prompts: Union[List[str], str]) -> List[List[str]]:
+    def generate(self, prompts):
         pass
 
-    def perform_inference(self, batch: List[str]) -> List[str]:
+    def perform_inference(self, batch):
         # 20240424 cot-sc is disabled please use tag v1.0 for cot-sc evaluation
         return self.post_process(self.generate(batch))
 
-    def post_process(self, completions: List[str]):
+    def post_process(self, completions):
         return completions
 
-    @abc.abstractclassmethod
-    def __str__(self) -> str:
-        pass
+    @abc.abstractmethod
+    @override
+    def __str__(self):
+        return str(super())
 
 
 @backoff.on_exception(backoff.constant, RateLimitError, interval=60, logger=logging.getLogger())  # 超过qps暂停60秒
-def get_gpt_response(prompt, model='gpt-4-0613', max_tokens=2048, stop_tokens=[], temperature=0.0) -> str:
-    global client, headers
+def get_gpt_response(prompt, model='gpt-4-0613', max_tokens=2048, stop_tokens=None, temperature=0.0):
+    if stop_tokens is None:
+        stop_tokens = []
     try:
         payload = {
             "model": model,
@@ -118,7 +128,8 @@ def get_gpt_response(prompt, model='gpt-4-0613', max_tokens=2048, stop_tokens=[]
 
 
 def initialize_client(openai_api_key, openai_base_url):
-    global client, headers
+    global client
+    global headers
     # client = http.client.HTTPSConnection(openai_base_url)
     client = openai_base_url
     headers = {
@@ -135,7 +146,8 @@ class OpenAIPredictor(PredictorBase):
         self.openai_base_url = os.environ["OPENAI_API_KEY"]
         self.nproc = nproc
 
-    def generate(self, prompts: Union[List[str], str]) -> List[str]:
+    @override
+    def generate(self, prompts):
         with multiprocessing.Pool(
             processes=self.nproc,
             initializer=initialize_client, initargs=(
@@ -152,21 +164,22 @@ class OpenAIPredictor(PredictorBase):
             ))
         return completions
 
-    def __str__(self) -> str:
+    @override
+    def __str__(self):
         return f"<OpenAIPredictor>(model={self.gpt_series})"
 
 
 def generate(
-        model_path: str,
-        dataset_path: str,
-        output_path: str,
-        version: int = 0,
-        prompt: str = "raw",
-        nproc: int = 16,
-        test_part: Optional[Tuple[int, int]] = None,
-        test_count: int = 1,
-        random_seed: int | None = None,
-    ) -> None:
+        model_path,
+        dataset_path,
+        output_path,
+        version=0,
+        prompt="raw",
+        nproc=16,
+        test_part=None,
+        test_count=1,
+        random_seed=None,
+    ):
     """
     Generate model's response using vLLM. 
 
@@ -272,7 +285,12 @@ def generate(
         for index_, prompt_ in enumerate(prompts):
             input_messages = _HumanMessage(content=prompt_)
             print(f"Will do agent invocation {index_ + 1}/{len(prompts)}")
-            response = agent.invoke({"messages": input_messages})
+            thread_id = _uuid.uuid7()
+            config={"configurable": {"thread_id": str(thread_id)}}
+            response = agent.invoke(
+                {"messages": input_messages},
+                config=config,
+            )
             completion = codecs.decode(repr(response), "unicode_escape")
             completions.append(completion)
         # Save
@@ -316,7 +334,7 @@ if __name__ == "__main__":
                         type=str,
                         help="The prompt template to use in evaluation.",
                         default="raw")
-    parser.add_argument('--output_dir', type=str, default=os.path.join(_project_root_dir, ".results"))
+    parser.add_argument('--output_dir', type=str, default=os.path.join(proj_root_dir, ".results"))
     parser.add_argument('--nproc', type=int, default=16)
     parser.add_argument('--test_count', type=int, default=1)
     parser.add_argument('--random_seed', default=None)
@@ -326,17 +344,17 @@ if __name__ == "__main__":
     mkdir(out_dir)
     subjects = []
     if args.subject == "all":
-        subjects = SUB_LIST
+        subjects = SUBJECTS
     else:
         subjects = [args.subject]
 
     for subject in subjects:
         out_fn = os.path.join(out_dir, args.subject + ".json")
         if not os.path.exists(out_fn):
-            print(f"Start evaluating {args.model.split('/')[-1]} on {subject}---version {args.version}!")
+            print(f"Start evaluating {args.model.split('/')[-1]} on {subject} version {args.version}!")
             generate(
                 model_path=args.model,
-                dataset_path=os.path.join(_project_root_dir, ".data", subject + ".json"),
+                dataset_path=os.path.join(proj_root_dir, ".data", subject + ".json"),
                 version=args.version,
                 output_path=out_fn,
                 prompt=args.prompt,
