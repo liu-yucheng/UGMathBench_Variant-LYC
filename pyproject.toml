@@ -1,21 +1,19 @@
 [project]
 name = "ugmathbench-variant-lyc"
-version = "0.4.0"
+version = "0.5.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "antlr4-python3-runtime==4.11",
-    "autopep8>=2.3.2",
     "backoff>=2.2.1",
     "chardet>=7.4.3",
     "datasets>=5.0.0",
     "dotenv>=0.9.9",
+    "langchain-core>=1.4.8",
     "math-capable-agents",
     "numpy>=2.5.0",
     "openai>=2.44.0",
-    "pylint>=4.0.6",
-    "pyreadline3>=3.5.6",
     "requests>=2.34.2",
     "tqdm>=4.68.3",
 ]
@@ -28,7 +26,14 @@ build-backend = "hatchling.build"
 allow-direct-references = true
 
 [tool.hatch.build.targets.wheel]
-packages = ["ugmb"]
+packages = ["ugmb_vlyc"]
 
 [tool.uv.sources]
-math-capable-agents = { path = "../Math-Capable-Agents-Toolchain/Math-Capable-Agents", editable = true }
+math-capable-agents = { path = "../Math-Capable-Agents", editable = true }
+
+[dependency-groups]
+dev = [
+    "pyreadline3>=3.5.6",
+    "ruff>=0.16.1",
+    "ty>=0.0.65",
+]

@@ -1,20 +1,52 @@
-import sympy as sp
-from sympy import simplify, Eq, sympify, Pow, N, Mul, trigsimp, S
-from sympy.parsing.latex import parse_latex
+# Importation rules.
+# 1st, import standard library modules.
+# 2nd, import 3rd party library modules.
+# 3rd, import project-local modules.
+# 4th, violate the above order only when violations are unavoidable.
+
+import math
+import os.path
+import random
 import re
 import signal
-import math
-import random
-from sympy.calculus.util import continuous_domain
+import time
+
+import dotenv
+import httpx
 import numpy as np
-from ugmb.utils import *
+import openai
+import sympy as sp
+from openai import OpenAI, RateLimitError
+from sympy import Eq, Mul, N, Pow, S, simplify, sympify, trigsimp
+from sympy.calculus.util import continuous_domain
+from sympy.parsing.latex import parse_latex
 
+from ugmb_vlyc.utils import *
 
+# Declaration rules.
+# 1st, declare local aliases.
+# 2nd, declare private module attributes.
+# 3rd, declare public module attributes.
+# 4th, violate the above order only when violations are unavoidable.
+
+_dotenv_path = os.path.join(proj_root_dir, ".env")
+_dotenv_configs = dotenv.dotenv_values(_dotenv_path)
+_api_key = _dotenv_configs["siliconflow_china.api_key"]
+_base_url = _dotenv_configs["siliconflow_china.base_url"]
+_text_model = _dotenv_configs["siliconflow_china.default_text_model"]
 EXCLUDE_TYPE = ["UOL", "OL"]
 
 
+def initialize_client():
+    global client
+    httpx_client = httpx.Client(verify=False)
+    # os.environ["OPENAI_BASE_URL"] = ""
+    # os.environ["OPENAI_API_KEY"] = ""
+    client = OpenAI(http_client=httpx_client, api_key=_api_key, base_url=_base_url)
+
+
 class Judger:
-    def __init__(self, strict_extract=False):
+    def __init__(self, strict_extract=False, judge_model=_text_model):
         # TODO: add strict_extract as args in generate.py or evaluate.py
         self.judgment_methods = {
             "UOL": self.judge_unordered_list,
@@ -33,6 +65,7 @@ class Judger:
         self.num_samples = 100  # number of numbers sampled from domain of definition each time
         self.num_times = 3  # times repeated to evaluate expression if it has variables
         self.strict_extract = strict_extract
+        self.judge_model = judge_model
 
     def normalize_answer(self, final_answer):
         # TODO: add other normalize answer pattern
@@ -89,7 +122,7 @@ class Judger:
             ans_item = self.clean(ans_item)
 
             # bool
-            if ans_type == "TF":
+            if ans_type == "TF" or ans_type == "OL" or ans_type == "UOL":
                 ans_bool = norm_str2bool(ans_item)
                 if ans_bool is not None:
                     new_ans_list.append(str(ans_bool))
@@ -109,30 +142,6 @@ class Judger:
         if len(new_ans_list) == 1:
             return new_ans_list[0]
         return "(" + ", ".join(new_ans_list) + ")"
-        """
-        ans = str(ans)
-        ans = ans.replace("\n", "")  # no answer must need \n
-        ans = ans.strip()
-
-        # remove impropriate trailing punctuations
-        ans = self.clean(ans)
-
-        # cornor cases
-
-        # bool
-        ans_bool = norm_str2bool(ans)
-        if ans_bool is not None:
-            return str(ans_bool)
-
-        # weekdays
-        ans_weekday = norm_str2weekday(ans)
-        if ans_weekday is not None:
-            return ans_weekday
-
-        # math normalize
-        ans = self.norm_math_str(ans)
-        return ans
-        """
 
     def eq(self, ref: str, ans: str) -> bool:
         """Check if reference answer and prediction answer are **literally** equal."""
@@ -399,6 +408,11 @@ class Judger:
             ):
                 string = string.replace(ineq, ",")
 
+        # deal with abs
+        if "\\abs(" in string:
+            string = string.replace("\\abs(", "Abs(")
+            string = parse_expr(string).evalf()
+
         return string
 
     # 在进行数值计算前，需要将sympy中的pi符号替换为pi的近似数值
@@ -413,6 +427,18 @@ class Judger:
         ans = self.clean_trailing(ans)
 
         return ans
+
+    def normalize_abs_latex(self, expr):
+        """
+        Converts LaTeX absolute value expressions from \\abs{...} or \\abs(...) to \\Abs{...}
+        """
+        # Replace \abs{...} with \Abs{...}
+        expr = re.sub(r'\\abs\s*{([^}]*)}', r'\\Abs{\1}', expr)
+
+        # Replace \abs(...) with \Abs{...}
+        expr = re.sub(r'\\abs\s*\(([^)]*)\)', r'\\Abs{\1}', expr)
+
+        return expr
 
     def clean_preceding(
         self,
@@ -439,26 +465,6 @@ class Judger:
         # extract answer wrapped in \boxed{} from models' output
         # TODO: add other extraction pattern
         # last boxed only
-        """
-        match = re.search(r'\\boxed{', text)
-        if match:
-            start_index = match.end()
-            end_index = start_index
-            stack = 1
-            while stack > 0 and end_index < len(text):
-                if text[end_index] == '{':
-                    stack += 1
-                elif text[end_index] == '}':
-                    stack -= 1
-                end_index += 1
-            if stack == 0:
-                content = text[start_index:end_index - 1]
-                if not content:
-                    return text
-                else:
-                    content = self.normalize_answer(content)
-                    return content
-        """
         content = remove_boxed(last_boxed_only_string(text))
         if content == None:
             match = re.search(r'\\boxed{', text)
@@ -669,8 +675,8 @@ class Judger:
             bool: True/False
         """
         # assert len(gold) == len(type_sequence) == len(options)
-        if len(gold) != len(type_sequence) or len(gold) != len(options) or len(options) != len(type_sequence):
-            print(gold)
+        # if len(gold) != len(type_sequence) or len(gold) != len(options) or len(options) != len(type_sequence):
+        #    print(gold)
 
         extracted_pred = self.extract_ans(pred)
         if not extracted_pred:  # no boxed answer in model's output
@@ -707,6 +713,51 @@ class Judger:
             except:
                 return False
         return True
+
+    def aux_judge(self, pred, gold, question):
+        initialize_client()
+        with open(os.path.join(proj_root_dir, ".data", "judge_prompt_v3.txt"), 'r') as file:
+            judge_prompt = file.read()
+        # if gold == None:
+        #    return False, None
+        if pred == None:
+            return False, None
+
+        judge_prompt = judge_prompt.replace("{{problem}}", question).replace(
+            "{{Reference Answer}}", ", ".join(gold)).replace("{{Solution}}", pred)
+        success = False
+        while not success:
+            try:
+                response = client.chat.completions.create(
+                    model=self.judge_model,
+                    messages=[
+                        {
+                            "role": "user",
+                            "content": judge_prompt,
+                        },
+                    ],
+                    max_tokens=1024,
+                    temperature=0.0,
+                    n=1
+                )
+                res = response.choices[0].message.content
+            except openai.APIError:
+                time.sleep(random.randint(1, 30))
+                print(f"APIError了。")
+            except Exception as e:
+                time.sleep(random.randint(1, 30))
+                print(f"{e}")
+            else:
+                success = True
+                break
+        try:
+            correctness = res.split("## Justification")[0].split("## Equivalence Judgement")[-1].strip()
+        except Exception as e:
+            print(e)
+        if correctness == "TRUE":
+            return True, res
+        else:
+            return False, res
 
     def is_equal(self, ans, gold, options=[], exclude=None):
         answer_type_list = self.judgment_methods.keys()
@@ -834,11 +885,19 @@ class Judger:
 
     def judge_equation(self, pred, gold, **kwargs):
         def simplify_equation(latex_eq):
-            lhs, rhs = latex_eq.split('=')
+            try:
+                lhs, rhs = latex_eq.split('=')
+            except:
+                lhs = latex_eq
+                rhs = "0"
+
             lhs_expr = parse_latex(lhs)
             rhs_expr = parse_latex(rhs)
             equation = Eq(lhs_expr, rhs_expr)
-            simplified_eq = simplify(equation.lhs - equation.rhs)
+            try:
+                simplified_eq = simplify(equation.lhs - equation.rhs)
+            except:
+                simplified_eq = simplify(lhs_expr - rhs_expr)
             return simplified_eq
         try:
             expr1_sym = simplify_equation(pred)
@@ -854,7 +913,8 @@ class Judger:
                     return True
                 else:
                     return False
-        except:
+        except Exception as e:
+            print(e)
             return False
 
     def judge_expression(self, pred, gold, **kwargs):
@@ -997,107 +1057,107 @@ if __name__ == "__main__":
 
     # test numerical value
 
-    gold = ['1.01']
-    pred = "\\boxed{1.01}"
+    # gold = ['1.01']
+    # pred = "\\boxed{1.01}"
 
-    gold = ["\\sin(43.5558*\\pi/180)"]
-    pred = "\\boxed{0.6890606866870983}"
+    # gold = ["\\sin(43.5558*\\pi/180)"]
+    # pred = "\\boxed{0.6890606866870983}"
 
-    gold = ["\\sqrt{3}"]
-    pred = "\\boxed{1.7320508075688772}"
+    # gold = ["\\sqrt{3}"]
+    # pred = "\\boxed{1.7320508075688772}"
 
     # TODO: asin -> arcsin; abs
-    gold = ["\\sqrt{3}", "\\sin(43.5558*\\pi/180)", "arcsin(1)", "arcsin{1}"]
-    pred = "\\boxed{1.7320508075688772,0.6890606866870983, \\pi/2, \\pi/2}"
+    # gold = ["\\sqrt{3}", "\\sin(43.5558*\\pi/180)", "arcsin(1)", "arcsin{1}"]
+    # pred = "\\boxed{1.7320508075688772,0.6890606866870983, \\pi/2, \\pi/2}"
     # pred = "\\boxed{0.6890606866870983, 1.7320508075688772}"
-    ts = ['NV', "NV", "NV", "NV"]
+    # ts = ['NV', "NV", "NV", "NV"]
 
     # print(judger.judge(pred, gold, ts))
     # print(judger.auto_judge(pred, gold))
 
-    gold = ["sin(43.5558*\\pi/180)"]
-    pred = "\\boxed{0.6890606866870983}"
-    ts = ["NV"]
+    # gold = ["sin(43.5558*\\pi/180)"]
+    # pred = "\\boxed{0.6890606866870983}"
+    # ts = ["NV"]
 
-    gold = ["sin(43.5558*pi/180)"]
-    pred = "\\boxed{0.6890606866870983}"
-    ts = ["NV"]
+    # gold = ["sin(43.5558*pi/180)"]
+    # pred = "\\boxed{0.6890606866870983}"
+    # ts = ["NV"]
 
     # test 3e+5
-    gold = ["1.5e+3"]
-    pred = "\\boxed{1500}"
-    ts = ["NV"]
-    aaa = [[]]
+    # gold = ["1.5e+3"]
+    # pred = "\\boxed{1500}"
+    # ts = ["NV"]
+    # aaa = [[]]
     # print(judger.judge(pred, gold, ts, aaa))
 
-    gold = ["1.5E+3"]
-    pred = "\\boxed{1500}"
-    ts = ["NV"]
-    aaa = [[]]
+    # gold = ["1.5E+3"]
+    # pred = "\\boxed{1500}"
+    # ts = ["NV"]
+    # aaa = [[]]
     # print(judger.judge(pred, gold, ts, aaa))
 
     # gold = ["\\abs(-1)"]
     # pred = "\\boxed{1}"
     # ts = ["NV"]
-    # print(judger.judge(pred, gold, ts))
+    # print(judger.judge(pred, gold, ts, [[]]))
     # print(judger.auto_judge(pred, gold))
 
     # test MC with sinlge choice
 
-    gold = ['A', "C", "B"]
-    pred = "\\boxed{A, C, B}"
-    ts = ['MCS', 'MCS', 'MCS']
+    # gold = ['A', "C", "B"]
+    # pred = "\\boxed{A, C, B}"
+    # ts = ['MCS', 'MCS', 'MCS']
     # print(judger.judge(pred, gold, ts))
     # print(judger.auto_judge(pred, gold))
 
     # test MC with multiple choices
-    gold = ["ACE", "BC"]
-    pred = "\\boxed{ACE, BC}"
-    ts = ["MCM", "MCM"]
+    # gold = ["ACE", "BC"]
+    # pred = "\\boxed{ACE, BC}"
+    # ts = ["MCM", "MCM"]
 
-    gold = ["AEC", "CB"]
-    pred = "\\boxed{ACE, BC}"
-    ts = ["MCM", "MCM"]
+    # gold = ["AEC", "CB"]
+    # pred = "\\boxed{ACE, BC}"
+    # ts = ["MCM", "MCM"]
 
     # print(judger.judge(pred, gold, ts))
     # print(judger.auto_judge(pred, gold))
 
     # test HI
-    gold = ["T", "F", "converge"]
-    pred = "\\boxed{T, F, converge}"
-    ts = ["HI", "HI", "HI"]
+    # gold = ["T", "F", "converge"]
+    # pred = "\\boxed{T, F, converge}"
+    # ts = ["HI", "HI", "HI"]
 
-    gold = ["[cos(C)]^2-[sin(C)]^2"]
-    pred = "\\boxed{cos(C)^2 - sin(C)^2}"
-    ts = ["EX"]
+    # gold = ["[cos(C)]^2-[sin(C)]^2"]
+    # pred = "\\boxed{cos(C)^2 - sin(C)^2}"
+    # ts = ["EX"]
 
-    gold = ["2*6x"]
-    pred = "\\boxed{12x}"
-    ts = ["EX"]
-    aaa = [[]]
+    # gold = ["2*6x"]
+    # pred = "\\boxed{12x}"
+    # ts = ["EX"]
+    # aaa = [[]]
     # print(judger.judge(pred, gold, ts, options=aaa))
     # print(judger.auto_judge(pred, gold))
 
     # test equation
-    gold = ["y = 8"]
-    pred = "\\boxed{y = 8}"
-    ts = ['EQ']
+    # gold = ["y = 8"]
+    # pred = "\\boxed{y = 8}"
+    # ts = ['EQ']
 
-    # print(judger.judge(pred, gold, ts))
+    # print(judger.judge(pred, gold, ts, [[]]))
     # print(judger.auto_judge(pred, gold))
 
     # test expression
-    gold = ["\\cos(\\pi/2*(x+1))+2"]
-    pred = "\\boxed{1 + 1 - \\sin(\\pi/2*x)}"
-    ts = ['EX']
+    # gold = ["\\cos(\\pi/2*(x+1))+2"]
+    # pred = "\\boxed{1 + 1 - \\sin(\\pi/2*x)}"
+    # ts = ['EX']
 
     # print(judger.judge(pred, gold, ts))
     # print(judger.auto_judge(pred, gold))
 
     # test TF
-    gold = ["T", "F"]
-    pred = "\\boxed{Yes, FALSE}"
-    ts = ["TF", "TF"]
+    # gold = ["T", "F"]
+    # pred = "\\boxed{Yes, FALSE}"
+    # ts = ["TF", "TF"]
     # print(judger.judge(pred, gold, ts))
 
     # test OL
@@ -1105,47 +1165,47 @@ if __name__ == "__main__":
     pred = "\\boxed{(pi, No)}"
     ts = ["OL"]
     aaa = [[]]
-    # print(judger.judge(pred, gold, ts, aaa))
+    print(judger.judge(pred, gold, ts, aaa))
 
     # test set as UOL
-    gold = ["{3.1415926535898, F}"]
-    pred = "\\boxed{(pi, No)}"
-    ts = ["UOL"]
-    aaa = [[]]
+    # gold = ["{3.1415926535898, F}"]
+    # pred = "\\boxed{(pi, No)}"
+    # ts = ["UOL"]
+    # aaa = [[]]
     # print(judger.judge(pred, gold, ts, aaa))
 
     # test special OL
-    gold = ["(e, x1)"]
-    pred = "\\boxed{(e, x)}"
-    ts = ["OL"]
-    aaa = [[]]
+    # gold = ["(e, x1)"]
+    # pred = "\\boxed{(e, x)}"
+    # ts = ["OL"]
+    # aaa = [[]]
     # print(judger.judge(pred, gold, ts, aaa))
 
     # test UOL
-    gold = ["3.1415926535898, F"]
-    pred = "\\boxed{(No, pi)}"
-    ts = ["UOL"]
+    # gold = ["3.1415926535898, F"]
+    # pred = "\\boxed{(No, pi)}"
+    # ts = ["UOL"]
     # print(judger.judge(pred, gold, ts))
 
     # extract answer
-    gold = ["0",
-            "121",
-            "20",
-            "5",
-            "93",
-            "28",
-            "0.24",
-            "0.04"]
-    pred = "(a) $t^5$: Since $t^2 = 11$, we have $t^5 = t^3 \\cdot t^2 = t^3 \\cdot 11 = (t^2 \\cdot t) \\cdot 11 = (11 \\cdot t) \\cdot 11 = 121t$. Therefore, $t^5 = \\boxed{0} + \\boxed{121}t$.\n\n(b) $(6-t)(7+2t)$: Expanding, we get $(6-t)(7+2t) = 42 + 12t - 7t - 2t^2 = 42 + 5t - 2 \\cdot 11 = 42 + 5t - 22 = 20 + 5t$. Therefore, $(6-t)(7+2t) = \\boxed{20} + \\boxed{5}t$.\n\n(c) $(7+2t)^2$: Expanding, we get $(7+2t)^2 = 49 + 28t + 4t^2 = 49 + 28t + 4 \\cdot 11 = 49 + 28t + 44 = 93 + 28t$. Therefore, $(7+2t)^2 = \\boxed{93} + \\boxed{28}t$.\n\n(d) $1/(6-t)$: Since $t^2 = 11$, we have $1/(6-t) = 1/(6-t) \\cdot (6+t)/(6+t) = (6+t)/((6-t)(6+t)) = (6+t)/(36-t^2) = (6+t)/(36-11) = (6+t)/25 = 6/25 + t/25$. Therefore, $1/(6-t) = \\boxed{\\frac{6}{25}} + \\boxed{\\frac{1}{25}}t$.\n\nThe final answers are $\\boxed{0, 121, 20, 5, 93, 28, \\frac{6}{25}, \\frac{1}{25}}$."
-    ts = ["NV", "NV", "NV", "NV", "NV", "NV", "NV", "NV"]
-    aaa = [[], [], [], [], [], [], [], []]
+    # gold = ["0",
+    #        "121",
+    #        "20",
+    #        "5",
+    #        "93",
+    #        "28",
+    #        "0.24",
+    #        "0.04"]
+    # pred = "(a) $t^5$: Since $t^2 = 11$, we have $t^5 = t^3 \\cdot t^2 = t^3 \\cdot 11 = (t^2 \\cdot t) \\cdot 11 = (11 \\cdot t) \\cdot 11 = 121t$. Therefore, $t^5 = \\boxed{0} + \\boxed{121}t$.\n\n(b) $(6-t)(7+2t)$: Expanding, we get $(6-t)(7+2t) = 42 + 12t - 7t - 2t^2 = 42 + 5t - 2 \\cdot 11 = 42 + 5t - 22 = 20 + 5t$. Therefore, $(6-t)(7+2t) = \\boxed{20} + \\boxed{5}t$.\n\n(c) $(7+2t)^2$: Expanding, we get $(7+2t)^2 = 49 + 28t + 4t^2 = 49 + 28t + 4 \\cdot 11 = 49 + 28t + 44 = 93 + 28t$. Therefore, $(7+2t)^2 = \\boxed{93} + \\boxed{28}t$.\n\n(d) $1/(6-t)$: Since $t^2 = 11$, we have $1/(6-t) = 1/(6-t) \\cdot (6+t)/(6+t) = (6+t)/((6-t)(6+t)) = (6+t)/(36-t^2) = (6+t)/(36-11) = (6+t)/25 = 6/25 + t/25$. Therefore, $1/(6-t) = \\boxed{\\frac{6}{25}} + \\boxed{\\frac{1}{25}}t$.\n\nThe final answers are $\\boxed{0, 121, 20, 5, 93, 28, \\frac{6}{25}, \\frac{1}{25}}$."
+    # ts = ["NV", "NV", "NV", "NV", "NV", "NV", "NV", "NV"]
+    # aaa = [[], [], [], [], [], [], [], []]
     # print(judger.judge(pred, gold, ts, aaa))
 
     # test multivariable
-    gold = ["(-1, 2, 3) + t(2, -2, -2)"]
-    pred = "\\boxed{2t(1, -1, -1) + (-1, 2, 3)}"
-    ts = ['EX']
-    aaa = [[]]
+    # gold = ["(-1, 2, 3) + t(2, -2, -2)"]
+    # pred = "\\boxed{2t(1, -1, -1) + (-1, 2, 3)}"
+    # ts = ['EX']
+    # aaa = [[]]
     # print(judger.judge(pred, gold, ts, aaa))
 
     # test geometry wrong case
@@ -1177,8 +1237,8 @@ if __name__ == "__main__":
     # print(judger.judge(pred, gold, ts, aaa))
 
     # test set as UOL
-    pred = "\\boxed{\\{2, 4, 8\\}, \\{1, 2, 3, 4, 7, 8\\}}"
-    gold = ["(2, 4, 8)", "(1, 2, 3, 4, 7, 8)"]
-    ts = ["UOL", "UOL"]
-    aaa = [[], []]
-    print(judger.judge(pred, gold, ts, aaa))
+    # pred = "\\boxed{\\{2, 4, 8\\}, \\{1, 2, 3, 4, 7, 8\\}}"
+    # gold = ["(2, 4, 8)", "(1, 2, 3, 4, 7, 8)"]
+    # ts = ["UOL", "UOL"]
+    # aaa = [[], []]
+    # print(judger.judge(pred, gold, ts, aaa))
