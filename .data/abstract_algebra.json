@@ -1,7 +1,7 @@
 [
     {
-        "id": "Abstract_algebra_0000",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0000",
+        "subject": "abstract_algebra",
         "topic": "Fields and polynomials",
         "subtopic": "Polynomials",
         "level": "3",
@@ -76,8 +76,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0001",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0001",
+        "subject": "abstract_algebra",
         "topic": "Fields and polynomials",
         "subtopic": "Polynomials",
         "level": "4",
@@ -180,8 +180,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0002",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0002",
+        "subject": "abstract_algebra",
         "topic": "Fields and polynomials",
         "subtopic": "Polynomials",
         "level": "",
@@ -220,8 +220,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0003",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0003",
+        "subject": "abstract_algebra",
         "topic": "Groups",
         "subtopic": "Group axioms",
         "level": "3",
@@ -261,8 +261,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0004",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0004",
+        "subject": "abstract_algebra",
         "topic": "Groups",
         "subtopic": "Group axioms",
         "level": "3",
@@ -365,8 +365,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0005",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0005",
+        "subject": "abstract_algebra",
         "topic": "Groups",
         "subtopic": "Group axioms",
         "level": "3",
@@ -406,8 +406,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0006",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0006",
+        "subject": "abstract_algebra",
         "topic": "Groups",
         "subtopic": "Subgroups",
         "level": "3",
@@ -455,8 +455,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0007",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0007",
+        "subject": "abstract_algebra",
         "topic": "Groups",
         "subtopic": "Subgroups",
         "level": "3",
@@ -532,8 +532,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0008",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0008",
+        "subject": "abstract_algebra",
         "topic": "Groups",
         "subtopic": "Subgroups",
         "level": "3",
@@ -582,8 +582,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0009",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0009",
+        "subject": "abstract_algebra",
         "topic": "Groups",
         "subtopic": "Subgroups",
         "level": "4",
@@ -625,8 +625,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0010",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0010",
+        "subject": "abstract_algebra",
         "topic": "Groups",
         "subtopic": "Cyclic groups",
         "level": "3",
@@ -666,8 +666,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0011",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0011",
+        "subject": "abstract_algebra",
         "topic": "Groups",
         "subtopic": "Cyclic groups",
         "level": "3",
@@ -716,8 +716,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0012",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0012",
+        "subject": "abstract_algebra",
         "topic": "Groups",
         "subtopic": "Cyclic groups",
         "level": "4",
@@ -758,8 +758,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0013",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0013",
+        "subject": "abstract_algebra",
         "topic": "Groups",
         "subtopic": "Cyclic groups",
         "level": "6",
@@ -800,8 +800,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0014",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0014",
+        "subject": "abstract_algebra",
         "topic": "Groups",
         "subtopic": "Cyclic groups",
         "level": "4",
@@ -843,8 +843,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0015",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0015",
+        "subject": "abstract_algebra",
         "topic": "Groups",
         "subtopic": "Cyclic groups",
         "level": "2",
@@ -884,8 +884,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0017",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0017",
+        "subject": "abstract_algebra",
         "topic": "Groups",
         "subtopic": "Product of groups",
         "level": "4",
@@ -925,8 +925,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0018",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0018",
+        "subject": "abstract_algebra",
         "topic": "Groups",
         "subtopic": "Product of groups",
         "level": "4",
@@ -966,8 +966,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0019",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0019",
+        "subject": "abstract_algebra",
         "topic": "Groups",
         "subtopic": "Cosets, Lagrange's theorem, and normality",
         "level": "2",
@@ -1015,8 +1015,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0020",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0020",
+        "subject": "abstract_algebra",
         "topic": "Groups",
         "subtopic": "Cosets, Lagrange's theorem, and normality",
         "level": "2",
@@ -1065,8 +1065,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0022",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0022",
+        "subject": "abstract_algebra",
         "topic": "Groups",
         "subtopic": "Cosets, Lagrange's theorem, and normality",
         "level": "6",
@@ -1105,8 +1105,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0023",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0023",
+        "subject": "abstract_algebra",
         "topic": "Groups",
         "subtopic": "Cosets, Lagrange's theorem, and normality",
         "level": "2",
@@ -1154,8 +1154,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0024",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0024",
+        "subject": "abstract_algebra",
         "topic": "Groups",
         "subtopic": "Homomorphisms",
         "level": "6",
@@ -1215,8 +1215,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0025",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0025",
+        "subject": "abstract_algebra",
         "topic": "Groups",
         "subtopic": "Group actions",
         "level": "6",
@@ -1256,8 +1256,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0026",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0026",
+        "subject": "abstract_algebra",
         "topic": "Groups",
         "subtopic": "Group actions",
         "level": "6",
@@ -1297,8 +1297,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0027",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0027",
+        "subject": "abstract_algebra",
         "topic": "Groups",
         "subtopic": "Group actions",
         "level": "4",
@@ -1480,8 +1480,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0028",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0028",
+        "subject": "abstract_algebra",
         "topic": "Rings",
         "subtopic": "Ring axioms",
         "level": "2",
@@ -1538,8 +1538,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0029",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0029",
+        "subject": "abstract_algebra",
         "topic": "Rings",
         "subtopic": "Ring axioms",
         "level": "3",
@@ -1605,8 +1605,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0030",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0030",
+        "subject": "abstract_algebra",
         "topic": "Rings",
         "subtopic": "Ring axioms",
         "level": "3",
@@ -1664,8 +1664,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0031",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0031",
+        "subject": "abstract_algebra",
         "topic": "Rings",
         "subtopic": "Units and zero divisors",
         "level": "4",
@@ -1723,8 +1723,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0032",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0032",
+        "subject": "abstract_algebra",
         "topic": "Rings",
         "subtopic": "Units and zero divisors",
         "level": "3",
@@ -1781,8 +1781,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0033",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0033",
+        "subject": "abstract_algebra",
         "topic": "Rings",
         "subtopic": "Units and zero divisors",
         "level": "4",
@@ -1903,8 +1903,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0034",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0034",
+        "subject": "abstract_algebra",
         "topic": "Rings",
         "subtopic": "Units and zero divisors",
         "level": "2",
@@ -2007,8 +2007,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0035",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0035",
+        "subject": "abstract_algebra",
         "topic": "Rings",
         "subtopic": "Units and zero divisors",
         "level": "3",
@@ -2047,8 +2047,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0036",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0036",
+        "subject": "abstract_algebra",
         "topic": "Rings",
         "subtopic": "Units and zero divisors",
         "level": "6",
@@ -2088,8 +2088,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0037",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0037",
+        "subject": "abstract_algebra",
         "topic": "Rings",
         "subtopic": "Ideals and homomorphisms",
         "level": "6",
@@ -2146,8 +2146,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0038",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0038",
+        "subject": "abstract_algebra",
         "topic": "Rings",
         "subtopic": "Ideals and homomorphisms",
         "level": "2",
@@ -2204,8 +2204,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0039",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0039",
+        "subject": "abstract_algebra",
         "topic": "Rings",
         "subtopic": "Ideals and homomorphisms",
         "level": "3",
@@ -2244,8 +2244,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0040",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0040",
+        "subject": "abstract_algebra",
         "topic": "Rings",
         "subtopic": "Ideals and homomorphisms",
         "level": "3",
@@ -2294,8 +2294,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0041",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0041",
+        "subject": "abstract_algebra",
         "topic": "Rings",
         "subtopic": "Ideals and homomorphisms",
         "level": "2",
@@ -2352,8 +2352,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0042",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0042",
+        "subject": "abstract_algebra",
         "topic": "Rings",
         "subtopic": "Quotient rings and polynomial rings",
         "level": "5",
@@ -2393,8 +2393,8 @@
         ]
     },
     {
-        "id": "Abstract_algebra_0043",
-        "subject": "Abstract_algebra",
+        "id": "abstract_algebra_0043",
+        "subject": "abstract_algebra",
         "topic": "Rings",
         "subtopic": "Quotient rings and polynomial rings",
         "level": "3",
