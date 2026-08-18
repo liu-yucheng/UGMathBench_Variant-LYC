@@ -1,7 +1,7 @@
 [
     {
-        "id": "Set_theory_and_logic_0000",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0000",
+        "subject": "set_theory_and_logic",
         "topic": "Operations on sets",
         "subtopic": "Boolean operations on sets",
         "level": "3",
@@ -60,8 +60,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0001",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0001",
+        "subject": "set_theory_and_logic",
         "topic": "Operations on sets",
         "subtopic": "Boolean operations on sets",
         "level": "3",
@@ -112,8 +112,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0002",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0002",
+        "subject": "set_theory_and_logic",
         "topic": "Operations on sets",
         "subtopic": "Boolean operations on sets",
         "level": "2",
@@ -182,8 +182,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0003",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0003",
+        "subject": "set_theory_and_logic",
         "topic": "Operations on sets",
         "subtopic": "Boolean operations on sets",
         "level": "2",
@@ -301,8 +301,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0004",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0004",
+        "subject": "set_theory_and_logic",
         "topic": "Operations on sets",
         "subtopic": "Boolean operations on sets",
         "level": "3",
@@ -434,8 +434,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0005",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0005",
+        "subject": "set_theory_and_logic",
         "topic": "Operations on sets",
         "subtopic": "Boolean operations on sets",
         "level": "2",
@@ -483,8 +483,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0006",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0006",
+        "subject": "set_theory_and_logic",
         "topic": "Operations on sets",
         "subtopic": "Boolean operations on sets",
         "level": "2",
@@ -652,8 +652,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0007",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0007",
+        "subject": "set_theory_and_logic",
         "topic": "Operations on sets",
         "subtopic": "Boolean operations on sets",
         "level": "2",
@@ -735,8 +735,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0008",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0008",
+        "subject": "set_theory_and_logic",
         "topic": "Operations on sets",
         "subtopic": "Boolean operations on sets",
         "level": "2",
@@ -806,8 +806,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0009",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0009",
+        "subject": "set_theory_and_logic",
         "topic": "Operations on sets",
         "subtopic": "Boolean operations on sets",
         "level": "2",
@@ -873,8 +873,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0010",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0010",
+        "subject": "set_theory_and_logic",
         "topic": "Operations on sets",
         "subtopic": "Boolean operations on sets",
         "level": "4",
@@ -949,8 +949,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0011",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0011",
+        "subject": "set_theory_and_logic",
         "topic": "Operations on sets",
         "subtopic": "Boolean operations on sets",
         "level": "2",
@@ -998,8 +998,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0012",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0012",
+        "subject": "set_theory_and_logic",
         "topic": "Operations on sets",
         "subtopic": "Boolean operations on sets",
         "level": "3",
@@ -1058,8 +1058,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0013",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0013",
+        "subject": "set_theory_and_logic",
         "topic": "Operations on sets",
         "subtopic": "Boolean operations on sets",
         "level": "3",
@@ -1139,8 +1139,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0014",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0014",
+        "subject": "set_theory_and_logic",
         "topic": "Operations on sets",
         "subtopic": "Membership tables",
         "level": "2",
@@ -1394,8 +1394,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0015",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0015",
+        "subject": "set_theory_and_logic",
         "topic": "Operations on sets",
         "subtopic": "Products",
         "level": "2",
@@ -1528,8 +1528,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0016",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0016",
+        "subject": "set_theory_and_logic",
         "topic": "Operations on sets",
         "subtopic": "Power sets",
         "level": "3",
@@ -1606,8 +1606,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0017",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0017",
+        "subject": "set_theory_and_logic",
         "topic": "Operations on sets",
         "subtopic": "Cardinality",
         "level": "5",
@@ -1648,8 +1648,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0018",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0018",
+        "subject": "set_theory_and_logic",
         "topic": "Relations between sets",
         "subtopic": "Subset",
         "level": "2",
@@ -1730,8 +1730,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0019",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0019",
+        "subject": "set_theory_and_logic",
         "topic": "Relations between sets",
         "subtopic": "Subset",
         "level": "2",
@@ -1786,8 +1786,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0020",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0020",
+        "subject": "set_theory_and_logic",
         "topic": "Relations between sets",
         "subtopic": "Subset",
         "level": "2",
@@ -1842,8 +1842,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0021",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0021",
+        "subject": "set_theory_and_logic",
         "topic": "Relations between sets",
         "subtopic": "Subset",
         "level": "2",
@@ -1898,8 +1898,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0022",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0022",
+        "subject": "set_theory_and_logic",
         "topic": "Relations between sets",
         "subtopic": "Subset",
         "level": "3",
@@ -1956,8 +1956,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0023",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0023",
+        "subject": "set_theory_and_logic",
         "topic": "Relations between sets",
         "subtopic": "Properties of relations",
         "level": "4",
@@ -2098,8 +2098,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0024",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0024",
+        "subject": "set_theory_and_logic",
         "topic": "Relations between sets",
         "subtopic": "Properties of relations",
         "level": "4",
@@ -2183,8 +2183,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0025",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0025",
+        "subject": "set_theory_and_logic",
         "topic": "Relations between sets",
         "subtopic": "Properties of relations",
         "level": "4",
@@ -2271,8 +2271,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0026",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0026",
+        "subject": "set_theory_and_logic",
         "topic": "Relations between sets",
         "subtopic": "Properties of relations",
         "level": "4",
@@ -2413,8 +2413,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0027",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0027",
+        "subject": "set_theory_and_logic",
         "topic": "Relations between sets",
         "subtopic": "Properties of relations",
         "level": "3",
@@ -2474,8 +2474,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0029",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0029",
+        "subject": "set_theory_and_logic",
         "topic": "Functions",
         "subtopic": "Injective, surjective, bijective",
         "level": "4",
@@ -2532,8 +2532,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0030",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0030",
+        "subject": "set_theory_and_logic",
         "topic": "Functions",
         "subtopic": "Image and inverse image",
         "level": "4",
@@ -2585,8 +2585,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0031",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0031",
+        "subject": "set_theory_and_logic",
         "topic": "Functions",
         "subtopic": "Image and inverse image",
         "level": "4",
@@ -2638,8 +2638,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0032",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0032",
+        "subject": "set_theory_and_logic",
         "topic": "Functions",
         "subtopic": "Image and inverse image",
         "level": "4",
@@ -2691,8 +2691,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0033",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0033",
+        "subject": "set_theory_and_logic",
         "topic": "Functions",
         "subtopic": "Image and inverse image",
         "level": "4",
@@ -2744,8 +2744,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0035",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0035",
+        "subject": "set_theory_and_logic",
         "topic": "Propositional logic",
         "subtopic": "Translation",
         "level": "5",
@@ -2875,8 +2875,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0036",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0036",
+        "subject": "set_theory_and_logic",
         "topic": "Propositional logic",
         "subtopic": "Translation",
         "level": "2",
@@ -2980,8 +2980,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0037",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0037",
+        "subject": "set_theory_and_logic",
         "topic": "Propositional logic",
         "subtopic": "Translation",
         "level": "2",
@@ -3084,8 +3084,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0038",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0038",
+        "subject": "set_theory_and_logic",
         "topic": "Propositional logic",
         "subtopic": "Translation",
         "level": "2",
@@ -3206,8 +3206,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0039",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0039",
+        "subject": "set_theory_and_logic",
         "topic": "Propositional logic",
         "subtopic": "Operations on propositions",
         "level": "2",
@@ -3275,8 +3275,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0040",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0040",
+        "subject": "set_theory_and_logic",
         "topic": "Propositional logic",
         "subtopic": "Operations on propositions",
         "level": "2",
@@ -3551,8 +3551,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0041",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0041",
+        "subject": "set_theory_and_logic",
         "topic": "Propositional logic",
         "subtopic": "Operations on propositions",
         "level": "2",
@@ -3779,8 +3779,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0042",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0042",
+        "subject": "set_theory_and_logic",
         "topic": "Propositional logic",
         "subtopic": "Operations on propositions",
         "level": "2",
@@ -4007,8 +4007,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0043",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0043",
+        "subject": "set_theory_and_logic",
         "topic": "Propositional logic",
         "subtopic": "Operations on propositions",
         "level": "2",
@@ -4292,8 +4292,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0044",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0044",
+        "subject": "set_theory_and_logic",
         "topic": "Propositional logic",
         "subtopic": "Operations on propositions",
         "level": "2",
@@ -4422,8 +4422,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0045",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0045",
+        "subject": "set_theory_and_logic",
         "topic": "Propositional logic",
         "subtopic": "Truth tables",
         "level": "2",
@@ -4588,8 +4588,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0046",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0046",
+        "subject": "set_theory_and_logic",
         "topic": "Propositional logic",
         "subtopic": "Truth tables",
         "level": "2",
@@ -5001,8 +5001,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0047",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0047",
+        "subject": "set_theory_and_logic",
         "topic": "Propositional logic",
         "subtopic": "Rules of inference",
         "level": "5",
@@ -5165,8 +5165,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0048",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0048",
+        "subject": "set_theory_and_logic",
         "topic": "Propositional logic",
         "subtopic": "Rules of inference",
         "level": "5",
@@ -5305,8 +5305,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0049",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0049",
+        "subject": "set_theory_and_logic",
         "topic": "Propositional logic",
         "subtopic": "Rules of inference",
         "level": "5",
@@ -5457,8 +5457,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0050",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0050",
+        "subject": "set_theory_and_logic",
         "topic": "Propositional logic",
         "subtopic": "Rules of inference",
         "level": "5",
@@ -5520,8 +5520,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0051",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0051",
+        "subject": "set_theory_and_logic",
         "topic": "Propositional logic",
         "subtopic": "Rules of inference",
         "level": "5",
@@ -5583,8 +5583,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0052",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0052",
+        "subject": "set_theory_and_logic",
         "topic": "Propositional logic",
         "subtopic": "Rules of inference",
         "level": "2",
@@ -5747,8 +5747,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0053",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0053",
+        "subject": "set_theory_and_logic",
         "topic": "First order logic",
         "subtopic": "Predicates",
         "level": "2",
@@ -5862,8 +5862,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0054",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0054",
+        "subject": "set_theory_and_logic",
         "topic": "First order logic",
         "subtopic": "Predicates",
         "level": "2",
@@ -5965,8 +5965,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0055",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0055",
+        "subject": "set_theory_and_logic",
         "topic": "First order logic",
         "subtopic": "Predicates",
         "level": "2",
@@ -6080,8 +6080,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0056",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0056",
+        "subject": "set_theory_and_logic",
         "topic": "First order logic",
         "subtopic": "Translation",
         "level": "3",
@@ -6123,8 +6123,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0057",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0057",
+        "subject": "set_theory_and_logic",
         "topic": "First order logic",
         "subtopic": "Translation",
         "level": "3",
@@ -6166,8 +6166,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0058",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0058",
+        "subject": "set_theory_and_logic",
         "topic": "First order logic",
         "subtopic": "Translation",
         "level": "3",
@@ -6227,8 +6227,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0059",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0059",
+        "subject": "set_theory_and_logic",
         "topic": "First order logic",
         "subtopic": "Translation",
         "level": "5",
@@ -6291,8 +6291,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0060",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0060",
+        "subject": "set_theory_and_logic",
         "topic": "First order logic",
         "subtopic": "Translation",
         "level": "5",
@@ -6358,8 +6358,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0061",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0061",
+        "subject": "set_theory_and_logic",
         "topic": "First order logic",
         "subtopic": "Translation",
         "level": "",
@@ -6461,8 +6461,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0062",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0062",
+        "subject": "set_theory_and_logic",
         "topic": "First order logic",
         "subtopic": "Translation",
         "level": "",
@@ -6540,8 +6540,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0063",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0063",
+        "subject": "set_theory_and_logic",
         "topic": "First order logic",
         "subtopic": "Translation",
         "level": "2",
@@ -6619,8 +6619,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0064",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0064",
+        "subject": "set_theory_and_logic",
         "topic": "First order logic",
         "subtopic": "Translation",
         "level": "2",
@@ -6723,8 +6723,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0065",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0065",
+        "subject": "set_theory_and_logic",
         "topic": "First order logic",
         "subtopic": "Translation",
         "level": "2",
@@ -6800,8 +6800,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0066",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0066",
+        "subject": "set_theory_and_logic",
         "topic": "First order logic",
         "subtopic": "Translation",
         "level": "2",
@@ -6877,8 +6877,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0067",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0067",
+        "subject": "set_theory_and_logic",
         "topic": "First order logic",
         "subtopic": "Semantics of quantifiers",
         "level": "2",
@@ -7017,8 +7017,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0068",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0068",
+        "subject": "set_theory_and_logic",
         "topic": "First order logic",
         "subtopic": "Semantics of quantifiers",
         "level": "2",
@@ -7121,8 +7121,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0069",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0069",
+        "subject": "set_theory_and_logic",
         "topic": "Pattern matching",
         "subtopic": "Numeric",
         "level": "4",
@@ -7177,8 +7177,8 @@
         ]
     },
     {
-        "id": "Set_theory_and_logic_0070",
-        "subject": "Set_theory_and_logic",
+        "id": "set_theory_and_logic_0070",
+        "subject": "set_theory_and_logic",
         "topic": "Pattern matching",
         "subtopic": "Numeric",
         "level": "4",

@@ -1,8 +1,8 @@
 [
     {
-        "id": "Algebra_0000",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0000",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Properties",
         "level": "2",
         "keywords": [
@@ -40,9 +40,9 @@
         ]
     },
     {
-        "id": "Algebra_0001",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0001",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Properties",
         "level": "1",
         "keywords": [
@@ -83,9 +83,9 @@
         ]
     },
     {
-        "id": "Algebra_0002",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0002",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Properties",
         "level": "3",
         "keywords": [
@@ -260,9 +260,9 @@
         ]
     },
     {
-        "id": "Algebra_0003",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0003",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Properties",
         "level": "2",
         "keywords": [
@@ -426,9 +426,9 @@
         ]
     },
     {
-        "id": "Algebra_0004",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0004",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Properties",
         "level": "1",
         "keywords": [
@@ -553,9 +553,9 @@
         ]
     },
     {
-        "id": "Algebra_0005",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0005",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Properties",
         "level": "2",
         "keywords": [
@@ -647,9 +647,9 @@
         ]
     },
     {
-        "id": "Algebra_0006",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0006",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Properties",
         "level": "1",
         "keywords": [],
@@ -730,9 +730,9 @@
         ]
     },
     {
-        "id": "Algebra_0007",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0007",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Properties",
         "level": "2",
         "keywords": [
@@ -788,9 +788,9 @@
         ]
     },
     {
-        "id": "Algebra_0008",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0008",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Properties",
         "level": "2",
         "keywords": [
@@ -828,9 +828,9 @@
         ]
     },
     {
-        "id": "Algebra_0009",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0009",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Properties",
         "level": "2",
         "keywords": [
@@ -899,10 +899,10 @@
         ]
     },
     {
-        "id": "Algebra_0010",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
-        "subtopic": "Algebraic expressions",
+        "id": "algebra_0010",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
+        "subtopic": "algebraic expressions",
         "level": "5",
         "keywords": [],
         "problem_v1": "The number of students enrolled in math courses at Portland Community College has grown over the years. The formulas\n$\\begin{aligned}M&=0.53x+4.8 & \\qquad&& W&=0.49x+5.2\\end{aligned}$ describe the numbers (of thousands) of men and women enrolled in math courses at PCC $x$ years after 2005. Give a simplified formula for the total number $T$ of thousands of students at PCC taking math classes $x$ years after 2005. Be sure to give the entire formula, starting with $T=$. [ANS]",
@@ -937,10 +937,10 @@
         ]
     },
     {
-        "id": "Algebra_0011",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
-        "subtopic": "Algebraic expressions",
+        "id": "algebra_0011",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
+        "subtopic": "algebraic expressions",
         "level": "2",
         "keywords": [
             "expression",
@@ -978,10 +978,10 @@
         ]
     },
     {
-        "id": "Algebra_0012",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
-        "subtopic": "Algebraic expressions",
+        "id": "algebra_0012",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
+        "subtopic": "algebraic expressions",
         "level": "2",
         "keywords": [
             "solve",
@@ -1032,10 +1032,10 @@
         ]
     },
     {
-        "id": "Algebra_0013",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
-        "subtopic": "Algebraic expressions",
+        "id": "algebra_0013",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
+        "subtopic": "algebraic expressions",
         "level": "3",
         "keywords": [
             "algebra",
@@ -1074,10 +1074,10 @@
         ]
     },
     {
-        "id": "Algebra_0014",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
-        "subtopic": "Algebraic expressions",
+        "id": "algebra_0014",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
+        "subtopic": "algebraic expressions",
         "level": "2",
         "keywords": [
             "algebra",
@@ -1116,10 +1116,10 @@
         ]
     },
     {
-        "id": "Algebra_0015",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
-        "subtopic": "Algebraic expressions",
+        "id": "algebra_0015",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
+        "subtopic": "algebraic expressions",
         "level": "3",
         "keywords": [
             "algebra",
@@ -1158,10 +1158,10 @@
         ]
     },
     {
-        "id": "Algebra_0016",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
-        "subtopic": "Algebraic expressions",
+        "id": "algebra_0016",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
+        "subtopic": "algebraic expressions",
         "level": "2",
         "keywords": [
             "algebra"
@@ -1207,13 +1207,13 @@
         ]
     },
     {
-        "id": "Algebra_0017",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
-        "subtopic": "Algebraic expressions",
+        "id": "algebra_0017",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
+        "subtopic": "algebraic expressions",
         "level": "2",
         "keywords": [
-            "Algebraic fractions"
+            "algebraic fractions"
         ],
         "problem_v1": "Write the expression as a single fraction. Simplify your answer.\n$\\begin{array}{cccc}\\hline &  \\frac{6}{a}+\\frac{5}{b}=& & [ANS] [ANS] \\\\ \\hline \\end{array}$",
         "answer_v1": [
@@ -1256,10 +1256,10 @@
         ]
     },
     {
-        "id": "Algebra_0018",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
-        "subtopic": "Algebraic expressions",
+        "id": "algebra_0018",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
+        "subtopic": "algebraic expressions",
         "level": "2",
         "keywords": [
             "Expressions"
@@ -1305,10 +1305,10 @@
         ]
     },
     {
-        "id": "Algebra_0019",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
-        "subtopic": "Algebraic expressions",
+        "id": "algebra_0019",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
+        "subtopic": "algebraic expressions",
         "level": "2",
         "keywords": [
             "Expressions"
@@ -1354,10 +1354,10 @@
         ]
     },
     {
-        "id": "Algebra_0020",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
-        "subtopic": "Algebraic expressions",
+        "id": "algebra_0020",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
+        "subtopic": "algebraic expressions",
         "level": "2",
         "keywords": [
             "Expressions"
@@ -1394,10 +1394,10 @@
         ]
     },
     {
-        "id": "Algebra_0021",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
-        "subtopic": "Algebraic expressions",
+        "id": "algebra_0021",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
+        "subtopic": "algebraic expressions",
         "level": "2",
         "keywords": [
             "Equations"
@@ -1515,10 +1515,10 @@
         ]
     },
     {
-        "id": "Algebra_0022",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
-        "subtopic": "Algebraic expressions",
+        "id": "algebra_0022",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
+        "subtopic": "algebraic expressions",
         "level": "2",
         "keywords": [
             "Equations"
@@ -1555,10 +1555,10 @@
         ]
     },
     {
-        "id": "Algebra_0023",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
-        "subtopic": "Algebraic expressions",
+        "id": "algebra_0023",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
+        "subtopic": "algebraic expressions",
         "level": "2",
         "keywords": [
             "real numbers"
@@ -1595,10 +1595,10 @@
         ]
     },
     {
-        "id": "Algebra_0024",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
-        "subtopic": "Algebraic expressions",
+        "id": "algebra_0024",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
+        "subtopic": "algebraic expressions",
         "level": "2",
         "keywords": [
             "real numbers"
@@ -1635,10 +1635,10 @@
         ]
     },
     {
-        "id": "Algebra_0025",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
-        "subtopic": "Algebraic expressions",
+        "id": "algebra_0025",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
+        "subtopic": "algebraic expressions",
         "level": "1",
         "keywords": [
             "prealgebra",
@@ -1811,10 +1811,10 @@
         ]
     },
     {
-        "id": "Algebra_0026",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
-        "subtopic": "Algebraic expressions",
+        "id": "algebra_0026",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
+        "subtopic": "algebraic expressions",
         "level": "2",
         "keywords": [
             "prealgebra",
@@ -1852,10 +1852,10 @@
         ]
     },
     {
-        "id": "Algebra_0027",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
-        "subtopic": "Algebraic expressions",
+        "id": "algebra_0027",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
+        "subtopic": "algebraic expressions",
         "level": "2",
         "keywords": [
             "prealgebra",
@@ -1929,10 +1929,10 @@
         ]
     },
     {
-        "id": "Algebra_0028",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
-        "subtopic": "Algebraic expressions",
+        "id": "algebra_0028",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
+        "subtopic": "algebraic expressions",
         "level": "1",
         "keywords": [
             "prealgebra",
@@ -1970,10 +1970,10 @@
         ]
     },
     {
-        "id": "Algebra_0029",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
-        "subtopic": "Algebraic expressions",
+        "id": "algebra_0029",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
+        "subtopic": "algebraic expressions",
         "level": "4",
         "keywords": [
             "prealgebra",
@@ -2021,9 +2021,9 @@
         ]
     },
     {
-        "id": "Algebra_0031",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0031",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Evaluating expressions",
         "level": "2",
         "keywords": [
@@ -2062,9 +2062,9 @@
         ]
     },
     {
-        "id": "Algebra_0032",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0032",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Evaluating expressions",
         "level": "3",
         "keywords": [
@@ -2107,9 +2107,9 @@
         ]
     },
     {
-        "id": "Algebra_0033",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0033",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Evaluating expressions",
         "level": "2",
         "keywords": [
@@ -2149,9 +2149,9 @@
         ]
     },
     {
-        "id": "Algebra_0034",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0034",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Evaluating expressions",
         "level": "1",
         "keywords": [
@@ -2192,9 +2192,9 @@
         ]
     },
     {
-        "id": "Algebra_0036",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0036",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Evaluating expressions",
         "level": "3",
         "keywords": [
@@ -2234,9 +2234,9 @@
         ]
     },
     {
-        "id": "Algebra_0037",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0037",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Evaluating expressions",
         "level": "3",
         "keywords": [
@@ -2277,9 +2277,9 @@
         ]
     },
     {
-        "id": "Algebra_0038",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0038",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Evaluating expressions",
         "level": "3",
         "keywords": [
@@ -2328,9 +2328,9 @@
         ]
     },
     {
-        "id": "Algebra_0039",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0039",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Evaluating expressions",
         "level": "3",
         "keywords": [
@@ -2380,9 +2380,9 @@
         ]
     },
     {
-        "id": "Algebra_0040",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0040",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Evaluating expressions",
         "level": "3",
         "keywords": [
@@ -2423,9 +2423,9 @@
         ]
     },
     {
-        "id": "Algebra_0041",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0041",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Evaluating expressions",
         "level": "1",
         "keywords": [
@@ -2466,9 +2466,9 @@
         ]
     },
     {
-        "id": "Algebra_0042",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0042",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Evaluating expressions",
         "level": "3",
         "keywords": [
@@ -2508,13 +2508,13 @@
         ]
     },
     {
-        "id": "Algebra_0043",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0043",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Evaluating expressions",
         "level": "1",
         "keywords": [
-            "Algebra",
+            "algebra",
             "Celsius/Farenheit"
         ],
         "problem_v1": "Your friend from Paris arrives in New York and the forecast is for a low of 53 and a high of 77 degrees Fahrenheit. What is the forecasted low temperature in Celsius? [ANS]\nWhat is the foceasted high temperature in Celsius? [ANS]",
@@ -2558,9 +2558,9 @@
         ]
     },
     {
-        "id": "Algebra_0044",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0044",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Evaluating expressions",
         "level": "2",
         "keywords": [
@@ -2598,9 +2598,9 @@
         ]
     },
     {
-        "id": "Algebra_0045",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0045",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Evaluating expressions",
         "level": "2",
         "keywords": [
@@ -2648,9 +2648,9 @@
         ]
     },
     {
-        "id": "Algebra_0046",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0046",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Evaluating expressions",
         "level": "2",
         "keywords": [],
@@ -2686,9 +2686,9 @@
         ]
     },
     {
-        "id": "Algebra_0047",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0047",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Evaluating expressions",
         "level": "3",
         "keywords": [],
@@ -2724,9 +2724,9 @@
         ]
     },
     {
-        "id": "Algebra_0048",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0048",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Evaluating expressions",
         "level": "2",
         "keywords": [],
@@ -2777,9 +2777,9 @@
         ]
     },
     {
-        "id": "Algebra_0049",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0049",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Evaluating expressions",
         "level": "2",
         "keywords": [],
@@ -2830,9 +2830,9 @@
         ]
     },
     {
-        "id": "Algebra_0050",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0050",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Evaluating expressions",
         "level": "2",
         "keywords": [],
@@ -2877,9 +2877,9 @@
         ]
     },
     {
-        "id": "Algebra_0051",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0051",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Evaluating expressions",
         "level": "2",
         "keywords": [
@@ -2926,9 +2926,9 @@
         ]
     },
     {
-        "id": "Algebra_0052",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0052",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Evaluating expressions",
         "level": "2",
         "keywords": [
@@ -2966,9 +2966,9 @@
         ]
     },
     {
-        "id": "Algebra_0053",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0053",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Evaluating expressions",
         "level": "2",
         "keywords": [
@@ -3087,9 +3087,9 @@
         ]
     },
     {
-        "id": "Algebra_0054",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0054",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Evaluating expressions",
         "level": "2",
         "keywords": [
@@ -3127,9 +3127,9 @@
         ]
     },
     {
-        "id": "Algebra_0055",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0055",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Evaluating expressions",
         "level": "3",
         "keywords": [
@@ -3169,9 +3169,9 @@
         ]
     },
     {
-        "id": "Algebra_0056",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0056",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Inequalities and intervals",
         "level": "2",
         "keywords": [
@@ -3222,9 +3222,9 @@
         ]
     },
     {
-        "id": "Algebra_0057",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0057",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Inequalities and intervals",
         "level": "3",
         "keywords": [
@@ -3350,9 +3350,9 @@
         ]
     },
     {
-        "id": "Algebra_0058",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0058",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Inequalities and intervals",
         "level": "",
         "keywords": [
@@ -3390,9 +3390,9 @@
         ]
     },
     {
-        "id": "Algebra_0059",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0059",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Inequalities and intervals",
         "level": "2",
         "keywords": [
@@ -3430,9 +3430,9 @@
         ]
     },
     {
-        "id": "Algebra_0060",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0060",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Inequalities and intervals",
         "level": "3",
         "keywords": [
@@ -3557,9 +3557,9 @@
         ]
     },
     {
-        "id": "Algebra_0061",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0061",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Simplifying expressions",
         "level": "4",
         "keywords": [
@@ -3607,9 +3607,9 @@
         ]
     },
     {
-        "id": "Algebra_0062",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0062",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Simplifying expressions",
         "level": "2",
         "keywords": [
@@ -3657,9 +3657,9 @@
         ]
     },
     {
-        "id": "Algebra_0063",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0063",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Simplifying expressions",
         "level": "3",
         "keywords": [
@@ -3717,9 +3717,9 @@
         ]
     },
     {
-        "id": "Algebra_0064",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0064",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Simplifying expressions",
         "level": "3",
         "keywords": [
@@ -3758,9 +3758,9 @@
         ]
     },
     {
-        "id": "Algebra_0065",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0065",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Simplifying expressions",
         "level": "2",
         "keywords": [
@@ -3799,9 +3799,9 @@
         ]
     },
     {
-        "id": "Algebra_0066",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0066",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Simplifying expressions",
         "level": "2",
         "keywords": [
@@ -3839,9 +3839,9 @@
         ]
     },
     {
-        "id": "Algebra_0067",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0067",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Simplifying expressions",
         "level": "2",
         "keywords": [
@@ -3879,9 +3879,9 @@
         ]
     },
     {
-        "id": "Algebra_0068",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0068",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Simplifying expressions",
         "level": "2",
         "keywords": [
@@ -3928,9 +3928,9 @@
         ]
     },
     {
-        "id": "Algebra_0069",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0069",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Simplifying expressions",
         "level": "2",
         "keywords": [
@@ -3978,9 +3978,9 @@
         ]
     },
     {
-        "id": "Algebra_0070",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0070",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Solving linear equations in one variable",
         "level": "2",
         "keywords": [
@@ -4019,9 +4019,9 @@
         ]
     },
     {
-        "id": "Algebra_0071",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0071",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Solving linear equations in one variable",
         "level": "2",
         "keywords": [],
@@ -4057,9 +4057,9 @@
         ]
     },
     {
-        "id": "Algebra_0072",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0072",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Solving linear equations in one variable",
         "level": "2",
         "keywords": [],
@@ -4104,9 +4104,9 @@
         ]
     },
     {
-        "id": "Algebra_0073",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0073",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Solving linear equations in one variable",
         "level": "1",
         "keywords": [
@@ -4144,9 +4144,9 @@
         ]
     },
     {
-        "id": "Algebra_0074",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0074",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Solving linear equations in one variable",
         "level": "3",
         "keywords": [
@@ -4184,9 +4184,9 @@
         ]
     },
     {
-        "id": "Algebra_0076",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0076",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Isolating variables",
         "level": "3",
         "keywords": [
@@ -4236,9 +4236,9 @@
         ]
     },
     {
-        "id": "Algebra_0077",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0077",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Isolating variables",
         "level": "1",
         "keywords": [
@@ -4309,9 +4309,9 @@
         ]
     },
     {
-        "id": "Algebra_0078",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0078",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Scientific notation",
         "level": "3",
         "keywords": [
@@ -4352,9 +4352,9 @@
         ]
     },
     {
-        "id": "Algebra_0079",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0079",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Scientific notation",
         "level": "2",
         "keywords": [
@@ -4395,9 +4395,9 @@
         ]
     },
     {
-        "id": "Algebra_0080",
-        "subject": "Algebra",
-        "topic": "Algebra of real numbers and simplifying expressions",
+        "id": "algebra_0080",
+        "subject": "algebra",
+        "topic": "algebra of real numbers and simplifying expressions",
         "subtopic": "Scientific notation",
         "level": "2",
         "keywords": [
@@ -4435,8 +4435,8 @@
         ]
     },
     {
-        "id": "Algebra_0081",
-        "subject": "Algebra",
+        "id": "algebra_0081",
+        "subject": "algebra",
         "topic": "Absolute value expressions and functions",
         "subtopic": "Solving equations with absolute values",
         "level": "2",
@@ -4502,8 +4502,8 @@
         ]
     },
     {
-        "id": "Algebra_0082",
-        "subject": "Algebra",
+        "id": "algebra_0082",
+        "subject": "algebra",
         "topic": "Absolute value expressions and functions",
         "subtopic": "Solving equations with absolute values",
         "level": "3",
@@ -4643,8 +4643,8 @@
         ]
     },
     {
-        "id": "Algebra_0083",
-        "subject": "Algebra",
+        "id": "algebra_0083",
+        "subject": "algebra",
         "topic": "Absolute value expressions and functions",
         "subtopic": "Solving equations with absolute values",
         "level": "2",
@@ -4688,8 +4688,8 @@
         ]
     },
     {
-        "id": "Algebra_0084",
-        "subject": "Algebra",
+        "id": "algebra_0084",
+        "subject": "algebra",
         "topic": "Absolute value expressions and functions",
         "subtopic": "Solving equations with absolute values",
         "level": "2",
@@ -4739,8 +4739,8 @@
         ]
     },
     {
-        "id": "Algebra_0085",
-        "subject": "Algebra",
+        "id": "algebra_0085",
+        "subject": "algebra",
         "topic": "Absolute value expressions and functions",
         "subtopic": "Solving equations with absolute values",
         "level": "2",
@@ -4790,8 +4790,8 @@
         ]
     },
     {
-        "id": "Algebra_0086",
-        "subject": "Algebra",
+        "id": "algebra_0086",
+        "subject": "algebra",
         "topic": "Absolute value expressions and functions",
         "subtopic": "Solving equations with absolute values",
         "level": "2",
@@ -4831,8 +4831,8 @@
         ]
     },
     {
-        "id": "Algebra_0087",
-        "subject": "Algebra",
+        "id": "algebra_0087",
+        "subject": "algebra",
         "topic": "Absolute value expressions and functions",
         "subtopic": "Solving equations with absolute values",
         "level": "4",
@@ -4873,8 +4873,8 @@
         ]
     },
     {
-        "id": "Algebra_0088",
-        "subject": "Algebra",
+        "id": "algebra_0088",
+        "subject": "algebra",
         "topic": "Absolute value expressions and functions",
         "subtopic": "Absolute value inequalities",
         "level": "3",
@@ -4915,13 +4915,13 @@
         ]
     },
     {
-        "id": "Algebra_0090",
-        "subject": "Algebra",
+        "id": "algebra_0090",
+        "subject": "algebra",
         "topic": "Absolute value expressions and functions",
         "subtopic": "Absolute value inequalities",
         "level": "2",
         "keywords": [
-            "Algebra",
+            "algebra",
             "Inequalities",
             "inequalities"
         ],
@@ -4966,8 +4966,8 @@
         ]
     },
     {
-        "id": "Algebra_0092",
-        "subject": "Algebra",
+        "id": "algebra_0092",
+        "subject": "algebra",
         "topic": "Absolute value expressions and functions",
         "subtopic": "Applications using absolute values",
         "level": "2",
@@ -5004,8 +5004,8 @@
         ]
     },
     {
-        "id": "Algebra_0093",
-        "subject": "Algebra",
+        "id": "algebra_0093",
+        "subject": "algebra",
         "topic": "Absolute value expressions and functions",
         "subtopic": "Applications using absolute values",
         "level": "2",
@@ -5045,8 +5045,8 @@
         ]
     },
     {
-        "id": "Algebra_0094",
-        "subject": "Algebra",
+        "id": "algebra_0094",
+        "subject": "algebra",
         "topic": "Properties of exponents, rational exponents and radicals",
         "subtopic": "Properties of exponents",
         "level": "2",
@@ -5116,8 +5116,8 @@
         ]
     },
     {
-        "id": "Algebra_0095",
-        "subject": "Algebra",
+        "id": "algebra_0095",
+        "subject": "algebra",
         "topic": "Properties of exponents, rational exponents and radicals",
         "subtopic": "Properties of exponents",
         "level": "2",
@@ -5159,8 +5159,8 @@
         ]
     },
     {
-        "id": "Algebra_0096",
-        "subject": "Algebra",
+        "id": "algebra_0096",
+        "subject": "algebra",
         "topic": "Properties of exponents, rational exponents and radicals",
         "subtopic": "Properties of exponents",
         "level": "2",
@@ -5201,8 +5201,8 @@
         ]
     },
     {
-        "id": "Algebra_0097",
-        "subject": "Algebra",
+        "id": "algebra_0097",
+        "subject": "algebra",
         "topic": "Properties of exponents, rational exponents and radicals",
         "subtopic": "Properties of exponents",
         "level": "2",
@@ -5243,8 +5243,8 @@
         ]
     },
     {
-        "id": "Algebra_0098",
-        "subject": "Algebra",
+        "id": "algebra_0098",
+        "subject": "algebra",
         "topic": "Properties of exponents, rational exponents and radicals",
         "subtopic": "Properties of exponents",
         "level": "2",
@@ -5293,8 +5293,8 @@
         ]
     },
     {
-        "id": "Algebra_0099",
-        "subject": "Algebra",
+        "id": "algebra_0099",
+        "subject": "algebra",
         "topic": "Properties of exponents, rational exponents and radicals",
         "subtopic": "Properties of exponents",
         "level": "2",
@@ -5334,8 +5334,8 @@
         ]
     },
     {
-        "id": "Algebra_0100",
-        "subject": "Algebra",
+        "id": "algebra_0100",
+        "subject": "algebra",
         "topic": "Properties of exponents, rational exponents and radicals",
         "subtopic": "Properties of exponents",
         "level": "2",
@@ -5375,8 +5375,8 @@
         ]
     },
     {
-        "id": "Algebra_0101",
-        "subject": "Algebra",
+        "id": "algebra_0101",
+        "subject": "algebra",
         "topic": "Properties of exponents, rational exponents and radicals",
         "subtopic": "Properties of exponents",
         "level": "2",
@@ -5424,8 +5424,8 @@
         ]
     },
     {
-        "id": "Algebra_0102",
-        "subject": "Algebra",
+        "id": "algebra_0102",
+        "subject": "algebra",
         "topic": "Properties of exponents, rational exponents and radicals",
         "subtopic": "Properties of exponents",
         "level": "3",
@@ -5462,8 +5462,8 @@
         ]
     },
     {
-        "id": "Algebra_0103",
-        "subject": "Algebra",
+        "id": "algebra_0103",
+        "subject": "algebra",
         "topic": "Properties of exponents, rational exponents and radicals",
         "subtopic": "Properties of exponents",
         "level": "3",
@@ -5503,8 +5503,8 @@
         ]
     },
     {
-        "id": "Algebra_0104",
-        "subject": "Algebra",
+        "id": "algebra_0104",
+        "subject": "algebra",
         "topic": "Properties of exponents, rational exponents and radicals",
         "subtopic": "Properties of exponents",
         "level": "2",
@@ -5553,8 +5553,8 @@
         ]
     },
     {
-        "id": "Algebra_0105",
-        "subject": "Algebra",
+        "id": "algebra_0105",
+        "subject": "algebra",
         "topic": "Properties of exponents, rational exponents and radicals",
         "subtopic": "Properties of rational exponents and radicals",
         "level": "2",
@@ -5593,8 +5593,8 @@
         ]
     },
     {
-        "id": "Algebra_0106",
-        "subject": "Algebra",
+        "id": "algebra_0106",
+        "subject": "algebra",
         "topic": "Properties of exponents, rational exponents and radicals",
         "subtopic": "Properties of rational exponents and radicals",
         "level": "2",
@@ -5643,8 +5643,8 @@
         ]
     },
     {
-        "id": "Algebra_0107",
-        "subject": "Algebra",
+        "id": "algebra_0107",
+        "subject": "algebra",
         "topic": "Properties of exponents, rational exponents and radicals",
         "subtopic": "Properties of rational exponents and radicals",
         "level": "2",
@@ -5693,8 +5693,8 @@
         ]
     },
     {
-        "id": "Algebra_0108",
-        "subject": "Algebra",
+        "id": "algebra_0108",
+        "subject": "algebra",
         "topic": "Properties of exponents, rational exponents and radicals",
         "subtopic": "Properties of rational exponents and radicals",
         "level": "2",
@@ -5734,8 +5734,8 @@
         ]
     },
     {
-        "id": "Algebra_0109",
-        "subject": "Algebra",
+        "id": "algebra_0109",
+        "subject": "algebra",
         "topic": "Properties of exponents, rational exponents and radicals",
         "subtopic": "Properties of rational exponents and radicals",
         "level": "2",
@@ -5774,8 +5774,8 @@
         ]
     },
     {
-        "id": "Algebra_0110",
-        "subject": "Algebra",
+        "id": "algebra_0110",
+        "subject": "algebra",
         "topic": "Properties of exponents, rational exponents and radicals",
         "subtopic": "Properties of rational exponents and radicals",
         "level": "3",
@@ -5812,8 +5812,8 @@
         ]
     },
     {
-        "id": "Algebra_0111",
-        "subject": "Algebra",
+        "id": "algebra_0111",
+        "subject": "algebra",
         "topic": "Properties of exponents, rational exponents and radicals",
         "subtopic": "Properties of rational exponents and radicals",
         "level": "3",
@@ -5859,8 +5859,8 @@
         ]
     },
     {
-        "id": "Algebra_0112",
-        "subject": "Algebra",
+        "id": "algebra_0112",
+        "subject": "algebra",
         "topic": "Properties of exponents, rational exponents and radicals",
         "subtopic": "Properties of rational exponents and radicals",
         "level": "2",
@@ -5900,8 +5900,8 @@
         ]
     },
     {
-        "id": "Algebra_0113",
-        "subject": "Algebra",
+        "id": "algebra_0113",
+        "subject": "algebra",
         "topic": "Cartesian coordinate system",
         "subtopic": "Plotting points",
         "level": "1",
@@ -6028,8 +6028,8 @@
         ]
     },
     {
-        "id": "Algebra_0114",
-        "subject": "Algebra",
+        "id": "algebra_0114",
+        "subject": "algebra",
         "topic": "Cartesian coordinate system",
         "subtopic": "Plotting points",
         "level": "2",
@@ -6071,8 +6071,8 @@
         ]
     },
     {
-        "id": "Algebra_0115",
-        "subject": "Algebra",
+        "id": "algebra_0115",
+        "subject": "algebra",
         "topic": "Cartesian coordinate system",
         "subtopic": "Plotting points",
         "level": "2",
@@ -6199,8 +6199,8 @@
         ]
     },
     {
-        "id": "Algebra_0116",
-        "subject": "Algebra",
+        "id": "algebra_0116",
+        "subject": "algebra",
         "topic": "Cartesian coordinate system",
         "subtopic": "Plotting points",
         "level": "2",
@@ -6260,8 +6260,8 @@
         ]
     },
     {
-        "id": "Algebra_0117",
-        "subject": "Algebra",
+        "id": "algebra_0117",
+        "subject": "algebra",
         "topic": "Cartesian coordinate system",
         "subtopic": "Plotting points",
         "level": "3",
@@ -6453,8 +6453,8 @@
         ]
     },
     {
-        "id": "Algebra_0118",
-        "subject": "Algebra",
+        "id": "algebra_0118",
+        "subject": "algebra",
         "topic": "Cartesian coordinate system",
         "subtopic": "Midpoint and distance formulas",
         "level": "3",
@@ -6494,8 +6494,8 @@
         ]
     },
     {
-        "id": "Algebra_0119",
-        "subject": "Algebra",
+        "id": "algebra_0119",
+        "subject": "algebra",
         "topic": "Cartesian coordinate system",
         "subtopic": "Midpoint and distance formulas",
         "level": "2",
@@ -6535,8 +6535,8 @@
         ]
     },
     {
-        "id": "Algebra_0120",
-        "subject": "Algebra",
+        "id": "algebra_0120",
+        "subject": "algebra",
         "topic": "Cartesian coordinate system",
         "subtopic": "Midpoint and distance formulas",
         "level": "2",
@@ -6591,8 +6591,8 @@
         ]
     },
     {
-        "id": "Algebra_0121",
-        "subject": "Algebra",
+        "id": "algebra_0121",
+        "subject": "algebra",
         "topic": "Cartesian coordinate system",
         "subtopic": "Midpoint and distance formulas",
         "level": "2",
@@ -6643,8 +6643,8 @@
         ]
     },
     {
-        "id": "Algebra_0122",
-        "subject": "Algebra",
+        "id": "algebra_0122",
+        "subject": "algebra",
         "topic": "Cartesian coordinate system",
         "subtopic": "Midpoint and distance formulas",
         "level": "3",
@@ -6684,8 +6684,8 @@
         ]
     },
     {
-        "id": "Algebra_0123",
-        "subject": "Algebra",
+        "id": "algebra_0123",
+        "subject": "algebra",
         "topic": "Cartesian coordinate system",
         "subtopic": "Midpoint and distance formulas",
         "level": "2",
@@ -6726,8 +6726,8 @@
         ]
     },
     {
-        "id": "Algebra_0124",
-        "subject": "Algebra",
+        "id": "algebra_0124",
+        "subject": "algebra",
         "topic": "Cartesian coordinate system",
         "subtopic": "Circles",
         "level": "3",
@@ -6786,8 +6786,8 @@
         ]
     },
     {
-        "id": "Algebra_0125",
-        "subject": "Algebra",
+        "id": "algebra_0125",
+        "subject": "algebra",
         "topic": "Cartesian coordinate system",
         "subtopic": "Graphs of equations",
         "level": "2",
@@ -6863,8 +6863,8 @@
         ]
     },
     {
-        "id": "Algebra_0126",
-        "subject": "Algebra",
+        "id": "algebra_0126",
+        "subject": "algebra",
         "topic": "Cartesian coordinate system",
         "subtopic": "Graphs of equations",
         "level": "2",
@@ -6982,8 +6982,8 @@
         ]
     },
     {
-        "id": "Algebra_0127",
-        "subject": "Algebra",
+        "id": "algebra_0127",
+        "subject": "algebra",
         "topic": "Factoring",
         "subtopic": "Factoring: common factors",
         "level": "3",
@@ -7024,8 +7024,8 @@
         ]
     },
     {
-        "id": "Algebra_0128",
-        "subject": "Algebra",
+        "id": "algebra_0128",
+        "subject": "algebra",
         "topic": "Factoring",
         "subtopic": "Factoring: common factors",
         "level": "3",
@@ -7067,8 +7067,8 @@
         ]
     },
     {
-        "id": "Algebra_0129",
-        "subject": "Algebra",
+        "id": "algebra_0129",
+        "subject": "algebra",
         "topic": "Factoring",
         "subtopic": "Factoring: common factors",
         "level": "3",
@@ -7126,8 +7126,8 @@
         ]
     },
     {
-        "id": "Algebra_0130",
-        "subject": "Algebra",
+        "id": "algebra_0130",
+        "subject": "algebra",
         "topic": "Factoring",
         "subtopic": "Factoring: common factors",
         "level": "2",
@@ -7191,8 +7191,8 @@
         ]
     },
     {
-        "id": "Algebra_0131",
-        "subject": "Algebra",
+        "id": "algebra_0131",
+        "subject": "algebra",
         "topic": "Factoring",
         "subtopic": "Factoring: common factors",
         "level": "2",
@@ -7256,8 +7256,8 @@
         ]
     },
     {
-        "id": "Algebra_0132",
-        "subject": "Algebra",
+        "id": "algebra_0132",
+        "subject": "algebra",
         "topic": "Factoring",
         "subtopic": "Factoring: common factors",
         "level": "3",
@@ -7305,8 +7305,8 @@
         ]
     },
     {
-        "id": "Algebra_0133",
-        "subject": "Algebra",
+        "id": "algebra_0133",
+        "subject": "algebra",
         "topic": "Factoring",
         "subtopic": "Factoring: common factors",
         "level": "3",
@@ -7354,8 +7354,8 @@
         ]
     },
     {
-        "id": "Algebra_0134",
-        "subject": "Algebra",
+        "id": "algebra_0134",
+        "subject": "algebra",
         "topic": "Factoring",
         "subtopic": "Factoring by grouping",
         "level": "2",
@@ -7406,8 +7406,8 @@
         ]
     },
     {
-        "id": "Algebra_0135",
-        "subject": "Algebra",
+        "id": "algebra_0135",
+        "subject": "algebra",
         "topic": "Factoring",
         "subtopic": "Factoring trinomials",
         "level": "2",
@@ -7446,8 +7446,8 @@
         ]
     },
     {
-        "id": "Algebra_0136",
-        "subject": "Algebra",
+        "id": "algebra_0136",
+        "subject": "algebra",
         "topic": "Factoring",
         "subtopic": "Factoring trinomials",
         "level": "2",
@@ -7488,8 +7488,8 @@
         ]
     },
     {
-        "id": "Algebra_0137",
-        "subject": "Algebra",
+        "id": "algebra_0137",
+        "subject": "algebra",
         "topic": "Factoring",
         "subtopic": "Factoring: special forms",
         "level": "2",
@@ -7528,8 +7528,8 @@
         ]
     },
     {
-        "id": "Algebra_0138",
-        "subject": "Algebra",
+        "id": "algebra_0138",
+        "subject": "algebra",
         "topic": "Factoring",
         "subtopic": "Factoring: special forms",
         "level": "2",
@@ -7578,8 +7578,8 @@
         ]
     },
     {
-        "id": "Algebra_0139",
-        "subject": "Algebra",
+        "id": "algebra_0139",
+        "subject": "algebra",
         "topic": "Factoring",
         "subtopic": "Factoring polynomials: general",
         "level": "3",
@@ -7618,8 +7618,8 @@
         ]
     },
     {
-        "id": "Algebra_0141",
-        "subject": "Algebra",
+        "id": "algebra_0141",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Definition, concept",
         "level": "2",
@@ -7686,8 +7686,8 @@
         ]
     },
     {
-        "id": "Algebra_0142",
-        "subject": "Algebra",
+        "id": "algebra_0142",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Definition, concept",
         "level": "1",
@@ -7790,8 +7790,8 @@
         ]
     },
     {
-        "id": "Algebra_0143",
-        "subject": "Algebra",
+        "id": "algebra_0143",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Definition, concept",
         "level": "2",
@@ -7849,8 +7849,8 @@
         ]
     },
     {
-        "id": "Algebra_0144",
-        "subject": "Algebra",
+        "id": "algebra_0144",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Function notation",
         "level": "3",
@@ -7926,8 +7926,8 @@
         ]
     },
     {
-        "id": "Algebra_0145",
-        "subject": "Algebra",
+        "id": "algebra_0145",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Function notation",
         "level": "2",
@@ -7976,8 +7976,8 @@
         ]
     },
     {
-        "id": "Algebra_0146",
-        "subject": "Algebra",
+        "id": "algebra_0146",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Function notation",
         "level": "2",
@@ -8035,8 +8035,8 @@
         ]
     },
     {
-        "id": "Algebra_0147",
-        "subject": "Algebra",
+        "id": "algebra_0147",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Function notation",
         "level": "2",
@@ -8087,8 +8087,8 @@
         ]
     },
     {
-        "id": "Algebra_0148",
-        "subject": "Algebra",
+        "id": "algebra_0148",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Function notation",
         "level": "1",
@@ -8138,8 +8138,8 @@
         ]
     },
     {
-        "id": "Algebra_0149",
-        "subject": "Algebra",
+        "id": "algebra_0149",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Function notation",
         "level": "2",
@@ -8207,8 +8207,8 @@
         ]
     },
     {
-        "id": "Algebra_0150",
-        "subject": "Algebra",
+        "id": "algebra_0150",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Function notation",
         "level": "2",
@@ -8260,8 +8260,8 @@
         ]
     },
     {
-        "id": "Algebra_0151",
-        "subject": "Algebra",
+        "id": "algebra_0151",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Function notation",
         "level": "1",
@@ -8304,8 +8304,8 @@
         ]
     },
     {
-        "id": "Algebra_0152",
-        "subject": "Algebra",
+        "id": "algebra_0152",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Function notation",
         "level": "2",
@@ -8373,8 +8373,8 @@
         ]
     },
     {
-        "id": "Algebra_0153",
-        "subject": "Algebra",
+        "id": "algebra_0153",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Function notation",
         "level": "2",
@@ -8422,8 +8422,8 @@
         ]
     },
     {
-        "id": "Algebra_0154",
-        "subject": "Algebra",
+        "id": "algebra_0154",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Function notation",
         "level": "3",
@@ -8462,8 +8462,8 @@
         ]
     },
     {
-        "id": "Algebra_0155",
-        "subject": "Algebra",
+        "id": "algebra_0155",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Function notation",
         "level": "2",
@@ -8529,8 +8529,8 @@
         ]
     },
     {
-        "id": "Algebra_0156",
-        "subject": "Algebra",
+        "id": "algebra_0156",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Function notation",
         "level": "3",
@@ -8567,8 +8567,8 @@
         ]
     },
     {
-        "id": "Algebra_0157",
-        "subject": "Algebra",
+        "id": "algebra_0157",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Function notation",
         "level": "2",
@@ -8610,8 +8610,8 @@
         ]
     },
     {
-        "id": "Algebra_0158",
-        "subject": "Algebra",
+        "id": "algebra_0158",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Graphs",
         "level": "2",
@@ -8653,13 +8653,13 @@
         ]
     },
     {
-        "id": "Algebra_0159",
-        "subject": "Algebra",
+        "id": "algebra_0159",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Graphs",
         "level": "2",
         "keywords": [
-            "Algebra",
+            "algebra",
             "Rational Functions"
         ],
         "problem_v1": "Consider the function f(x)=\\frac{x}{\\sqrt{16-x^2}} a) Determine the domain of the function. Note: Write the answer in interval notation. If the answer involves more than one interval write the intervals separated by the union symbol, U. If needed enter $\\infty$ as infinity and $-\\infty$ as-infinity. Domain=[ANS]\nb) Find the vertical asymptote(s). If there is more than one vertical asymptote give a list of the $x$-values separated by commas. If there are no vertical asymptotes type in None. $x=$ [ANS]",
@@ -8703,8 +8703,8 @@
         ]
     },
     {
-        "id": "Algebra_0160",
-        "subject": "Algebra",
+        "id": "algebra_0160",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Graphs",
         "level": "2",
@@ -8760,8 +8760,8 @@
         ]
     },
     {
-        "id": "Algebra_0161",
-        "subject": "Algebra",
+        "id": "algebra_0161",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Domain and range",
         "level": "3",
@@ -8837,8 +8837,8 @@
         ]
     },
     {
-        "id": "Algebra_0162",
-        "subject": "Algebra",
+        "id": "algebra_0162",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Domain and range",
         "level": "2",
@@ -8879,8 +8879,8 @@
         ]
     },
     {
-        "id": "Algebra_0163",
-        "subject": "Algebra",
+        "id": "algebra_0163",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Piecewise functions",
         "level": "2",
@@ -8953,8 +8953,8 @@
         ]
     },
     {
-        "id": "Algebra_0164",
-        "subject": "Algebra",
+        "id": "algebra_0164",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Piecewise functions",
         "level": "2",
@@ -9032,8 +9032,8 @@
         ]
     },
     {
-        "id": "Algebra_0165",
-        "subject": "Algebra",
+        "id": "algebra_0165",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Piecewise functions",
         "level": "2",
@@ -9111,8 +9111,8 @@
         ]
     },
     {
-        "id": "Algebra_0166",
-        "subject": "Algebra",
+        "id": "algebra_0166",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Piecewise functions",
         "level": "",
@@ -9190,8 +9190,8 @@
         ]
     },
     {
-        "id": "Algebra_0167",
-        "subject": "Algebra",
+        "id": "algebra_0167",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Compositions and combinations of functions",
         "level": "1",
@@ -9257,8 +9257,8 @@
         ]
     },
     {
-        "id": "Algebra_0168",
-        "subject": "Algebra",
+        "id": "algebra_0168",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Compositions and combinations of functions",
         "level": "3",
@@ -9307,8 +9307,8 @@
         ]
     },
     {
-        "id": "Algebra_0169",
-        "subject": "Algebra",
+        "id": "algebra_0169",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Compositions and combinations of functions",
         "level": "2",
@@ -9348,8 +9348,8 @@
         ]
     },
     {
-        "id": "Algebra_0170",
-        "subject": "Algebra",
+        "id": "algebra_0170",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Compositions and combinations of functions",
         "level": "2",
@@ -9489,8 +9489,8 @@
         ]
     },
     {
-        "id": "Algebra_0171",
-        "subject": "Algebra",
+        "id": "algebra_0171",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Compositions and combinations of functions",
         "level": "3",
@@ -9591,8 +9591,8 @@
         ]
     },
     {
-        "id": "Algebra_0172",
-        "subject": "Algebra",
+        "id": "algebra_0172",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Compositions and combinations of functions",
         "level": "3",
@@ -9644,8 +9644,8 @@
         ]
     },
     {
-        "id": "Algebra_0173",
-        "subject": "Algebra",
+        "id": "algebra_0173",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Compositions and combinations of functions",
         "level": "2",
@@ -9686,8 +9686,8 @@
         ]
     },
     {
-        "id": "Algebra_0174",
-        "subject": "Algebra",
+        "id": "algebra_0174",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Compositions and combinations of functions",
         "level": "3",
@@ -9746,8 +9746,8 @@
         ]
     },
     {
-        "id": "Algebra_0175",
-        "subject": "Algebra",
+        "id": "algebra_0175",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Difference quotient",
         "level": "3",
@@ -9831,8 +9831,8 @@
         ]
     },
     {
-        "id": "Algebra_0176",
-        "subject": "Algebra",
+        "id": "algebra_0176",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Difference quotient",
         "level": "4",
@@ -9873,8 +9873,8 @@
         ]
     },
     {
-        "id": "Algebra_0177",
-        "subject": "Algebra",
+        "id": "algebra_0177",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Difference quotient",
         "level": "3",
@@ -9931,8 +9931,8 @@
         ]
     },
     {
-        "id": "Algebra_0178",
-        "subject": "Algebra",
+        "id": "algebra_0178",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Interpretation and applications",
         "level": "3",
@@ -9982,8 +9982,8 @@
         ]
     },
     {
-        "id": "Algebra_0179",
-        "subject": "Algebra",
+        "id": "algebra_0179",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Interpretation and applications",
         "level": "5",
@@ -10079,8 +10079,8 @@
         ]
     },
     {
-        "id": "Algebra_0180",
-        "subject": "Algebra",
+        "id": "algebra_0180",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Interpretation and applications",
         "level": "4",
@@ -10134,8 +10134,8 @@
         ]
     },
     {
-        "id": "Algebra_0181",
-        "subject": "Algebra",
+        "id": "algebra_0181",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Interpretation and applications",
         "level": "3",
@@ -10192,8 +10192,8 @@
         ]
     },
     {
-        "id": "Algebra_0182",
-        "subject": "Algebra",
+        "id": "algebra_0182",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Interpretation and applications",
         "level": "3",
@@ -10235,8 +10235,8 @@
         ]
     },
     {
-        "id": "Algebra_0183",
-        "subject": "Algebra",
+        "id": "algebra_0183",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Interpretation and applications",
         "level": "5",
@@ -10303,8 +10303,8 @@
         ]
     },
     {
-        "id": "Algebra_0184",
-        "subject": "Algebra",
+        "id": "algebra_0184",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Interpretation and applications",
         "level": "2",
@@ -10444,8 +10444,8 @@
         ]
     },
     {
-        "id": "Algebra_0185",
-        "subject": "Algebra",
+        "id": "algebra_0185",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Interpretation and applications",
         "level": "3",
@@ -10549,8 +10549,8 @@
         ]
     },
     {
-        "id": "Algebra_0186",
-        "subject": "Algebra",
+        "id": "algebra_0186",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Interpretation and applications",
         "level": "2",
@@ -10636,8 +10636,8 @@
         ]
     },
     {
-        "id": "Algebra_0187",
-        "subject": "Algebra",
+        "id": "algebra_0187",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Interpretation and applications",
         "level": "3",
@@ -10870,8 +10870,8 @@
         ]
     },
     {
-        "id": "Algebra_0188",
-        "subject": "Algebra",
+        "id": "algebra_0188",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Interpretation and applications",
         "level": "5",
@@ -11079,8 +11079,8 @@
         ]
     },
     {
-        "id": "Algebra_0189",
-        "subject": "Algebra",
+        "id": "algebra_0189",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Interpretation and applications",
         "level": "3",
@@ -11186,8 +11186,8 @@
         ]
     },
     {
-        "id": "Algebra_0190",
-        "subject": "Algebra",
+        "id": "algebra_0190",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Interpretation and applications",
         "level": "5",
@@ -11257,8 +11257,8 @@
         ]
     },
     {
-        "id": "Algebra_0191",
-        "subject": "Algebra",
+        "id": "algebra_0191",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Interpretation and applications",
         "level": "3",
@@ -11319,8 +11319,8 @@
         ]
     },
     {
-        "id": "Algebra_0192",
-        "subject": "Algebra",
+        "id": "algebra_0192",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Interpretation and applications",
         "level": "2",
@@ -11421,8 +11421,8 @@
         ]
     },
     {
-        "id": "Algebra_0193",
-        "subject": "Algebra",
+        "id": "algebra_0193",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Interpretation and applications",
         "level": "5",
@@ -11487,8 +11487,8 @@
         ]
     },
     {
-        "id": "Algebra_0194",
-        "subject": "Algebra",
+        "id": "algebra_0194",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Interpretation and applications",
         "level": "3",
@@ -11682,8 +11682,8 @@
         ]
     },
     {
-        "id": "Algebra_0195",
-        "subject": "Algebra",
+        "id": "algebra_0195",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Interpretation and applications",
         "level": "5",
@@ -11735,8 +11735,8 @@
         ]
     },
     {
-        "id": "Algebra_0196",
-        "subject": "Algebra",
+        "id": "algebra_0196",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Interpretation and applications",
         "level": "5",
@@ -11779,13 +11779,13 @@
         ]
     },
     {
-        "id": "Algebra_0197",
-        "subject": "Algebra",
+        "id": "algebra_0197",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Interpretation and applications",
         "level": "2",
         "keywords": [
-            "Algebra",
+            "algebra",
             "Functions",
             "Domain"
         ],
@@ -11839,8 +11839,8 @@
         ]
     },
     {
-        "id": "Algebra_0198",
-        "subject": "Algebra",
+        "id": "algebra_0198",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Interpretation and applications",
         "level": "3",
@@ -11880,8 +11880,8 @@
         ]
     },
     {
-        "id": "Algebra_0199",
-        "subject": "Algebra",
+        "id": "algebra_0199",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Interpretation and applications",
         "level": "5",
@@ -11965,8 +11965,8 @@
         ]
     },
     {
-        "id": "Algebra_0200",
-        "subject": "Algebra",
+        "id": "algebra_0200",
+        "subject": "algebra",
         "topic": "Functions",
         "subtopic": "Interpretation and applications",
         "level": "4",
@@ -12064,8 +12064,8 @@
         ]
     },
     {
-        "id": "Algebra_0201",
-        "subject": "Algebra",
+        "id": "algebra_0201",
+        "subject": "algebra",
         "topic": "Transformations of functions and graphs",
         "subtopic": "Shifts: vertical and horizontal",
         "level": "3",
@@ -12152,8 +12152,8 @@
         ]
     },
     {
-        "id": "Algebra_0202",
-        "subject": "Algebra",
+        "id": "algebra_0202",
+        "subject": "algebra",
         "topic": "Transformations of functions and graphs",
         "subtopic": "Shifts: vertical and horizontal",
         "level": "2",
@@ -12204,8 +12204,8 @@
         ]
     },
     {
-        "id": "Algebra_0203",
-        "subject": "Algebra",
+        "id": "algebra_0203",
+        "subject": "algebra",
         "topic": "Transformations of functions and graphs",
         "subtopic": "Shifts: vertical and horizontal",
         "level": "2",
@@ -12598,8 +12598,8 @@
         ]
     },
      {
-        "id": "Algebra_0205",
-        "subject": "Algebra",
+        "id": "algebra_0205",
+        "subject": "algebra",
         "topic": "Transformations of functions and graphs",
         "subtopic": "Shifts: vertical and horizontal",
         "level": "2",
@@ -12641,8 +12641,8 @@
         ]
     },
     {
-        "id": "Algebra_0206",
-        "subject": "Algebra",
+        "id": "algebra_0206",
+        "subject": "algebra",
         "topic": "Transformations of functions and graphs",
         "subtopic": "Scale changes: vertical and horizontal",
         "level": "3",
@@ -12738,8 +12738,8 @@
         ]
     },
     {
-        "id": "Algebra_0207",
-        "subject": "Algebra",
+        "id": "algebra_0207",
+        "subject": "algebra",
         "topic": "Transformations of functions and graphs",
         "subtopic": "Shift and scale change",
         "level": "3",
@@ -12868,8 +12868,8 @@
         ]
     },
     {
-        "id": "Algebra_0208",
-        "subject": "Algebra",
+        "id": "algebra_0208",
+        "subject": "algebra",
         "topic": "Transformations of functions and graphs",
         "subtopic": "Shift and scale change",
         "level": "3",
@@ -13046,8 +13046,8 @@
         ]
     },
     {
-        "id": "Algebra_0209",
-        "subject": "Algebra",
+        "id": "algebra_0209",
+        "subject": "algebra",
         "topic": "Transformations of functions and graphs",
         "subtopic": "Shift and scale change",
         "level": "3",
@@ -13115,8 +13115,8 @@
         ]
     },
     {
-        "id": "Algebra_0210",
-        "subject": "Algebra",
+        "id": "algebra_0210",
+        "subject": "algebra",
         "topic": "Transformations of functions and graphs",
         "subtopic": "Symmetry: even, odd, neither",
         "level": "2",
@@ -13318,8 +13318,8 @@
         ]
     },
     {
-        "id": "Algebra_0211",
-        "subject": "Algebra",
+        "id": "algebra_0211",
+        "subject": "algebra",
         "topic": "Transformations of functions and graphs",
         "subtopic": "Symmetry: even, odd, neither",
         "level": "2",
@@ -13389,8 +13389,8 @@
         ]
     },
     {
-        "id": "Algebra_0212",
-        "subject": "Algebra",
+        "id": "algebra_0212",
+        "subject": "algebra",
         "topic": "Transformations of functions and graphs",
         "subtopic": "Symmetry: even, odd, neither",
         "level": "3",
@@ -13493,8 +13493,8 @@
         ]
     },
     {
-        "id": "Algebra_0213",
-        "subject": "Algebra",
+        "id": "algebra_0213",
+        "subject": "algebra",
         "topic": "Transformations of functions and graphs",
         "subtopic": "Symmetry: even, odd, neither",
         "level": "3",
@@ -13580,8 +13580,8 @@
         ]
     },
     {
-        "id": "Algebra_0214",
-        "subject": "Algebra",
+        "id": "algebra_0214",
+        "subject": "algebra",
         "topic": "Transformations of functions and graphs",
         "subtopic": "Three or more transformations",
         "level": "3",
@@ -13636,8 +13636,8 @@
         ]
     },
     {
-        "id": "Algebra_0215",
-        "subject": "Algebra",
+        "id": "algebra_0215",
+        "subject": "algebra",
         "topic": "Transformations of functions and graphs",
         "subtopic": "Vertical shifts",
         "level": "3",
@@ -13769,8 +13769,8 @@
         ]
     },
     {
-        "id": "Algebra_0216",
-        "subject": "Algebra",
+        "id": "algebra_0216",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Finding the slope",
         "level": "2",
@@ -13811,13 +13811,13 @@
         ]
     },
     {
-        "id": "Algebra_0217",
-        "subject": "Algebra",
+        "id": "algebra_0217",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Finding the slope",
         "level": "2",
         "keywords": [
-            "Algebra",
+            "algebra",
             "Lines"
         ],
         "problem_v1": "Find the slope of the line passing through the points $(a,5 a+2)$ and $(a+h,5(a+2 h)+2)$.\nThe slope is [ANS]",
@@ -13852,8 +13852,8 @@
         ]
     },
     {
-        "id": "Algebra_0218",
-        "subject": "Algebra",
+        "id": "algebra_0218",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Finding the slope",
         "level": "2",
@@ -13893,8 +13893,8 @@
         ]
     },
     {
-        "id": "Algebra_0219",
-        "subject": "Algebra",
+        "id": "algebra_0219",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Parallel and perpendicular lines",
         "level": "3",
@@ -13931,8 +13931,8 @@
         ]
     },
     {
-        "id": "Algebra_0220",
-        "subject": "Algebra",
+        "id": "algebra_0220",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Equations of lines: slope-intercept form",
         "level": "3",
@@ -13989,8 +13989,8 @@
         ]
     },
     {
-        "id": "Algebra_0221",
-        "subject": "Algebra",
+        "id": "algebra_0221",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Equations of lines: general",
         "level": "3",
@@ -14030,8 +14030,8 @@
         ]
     },
     {
-        "id": "Algebra_0222",
-        "subject": "Algebra",
+        "id": "algebra_0222",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Linear functions",
         "level": "2",
@@ -14073,8 +14073,8 @@
         ]
     },
     {
-        "id": "Algebra_0223",
-        "subject": "Algebra",
+        "id": "algebra_0223",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Linear functions",
         "level": "3",
@@ -14162,8 +14162,8 @@
         ]
     },
     {
-        "id": "Algebra_0224",
-        "subject": "Algebra",
+        "id": "algebra_0224",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Linear functions",
         "level": "3",
@@ -14207,8 +14207,8 @@
         ]
     },
     {
-        "id": "Algebra_0226",
-        "subject": "Algebra",
+        "id": "algebra_0226",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Linear functions",
         "level": "3",
@@ -14248,8 +14248,8 @@
         ]
     },
     {
-        "id": "Algebra_0227",
-        "subject": "Algebra",
+        "id": "algebra_0227",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Linear equations",
         "level": "1",
@@ -14308,8 +14308,8 @@
         ]
     },
     {
-        "id": "Algebra_0228",
-        "subject": "Algebra",
+        "id": "algebra_0228",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Linear equations",
         "level": "4",
@@ -14375,8 +14375,8 @@
         ]
     },
     {
-        "id": "Algebra_0229",
-        "subject": "Algebra",
+        "id": "algebra_0229",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Linear equations",
         "level": "3",
@@ -14425,8 +14425,8 @@
         ]
     },
     {
-        "id": "Algebra_0230",
-        "subject": "Algebra",
+        "id": "algebra_0230",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Linear equations",
         "level": "2",
@@ -14475,8 +14475,8 @@
         ]
     },
     {
-        "id": "Algebra_0231",
-        "subject": "Algebra",
+        "id": "algebra_0231",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Linear equations",
         "level": "2",
@@ -14525,8 +14525,8 @@
         ]
     },
     {
-        "id": "Algebra_0232",
-        "subject": "Algebra",
+        "id": "algebra_0232",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Linear inequalities",
         "level": "4",
@@ -14587,8 +14587,8 @@
         ]
     },
     {
-        "id": "Algebra_0234",
-        "subject": "Algebra",
+        "id": "algebra_0234",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Linear inequalities",
         "level": "3",
@@ -14645,8 +14645,8 @@
         ]
     },
     {
-        "id": "Algebra_0235",
-        "subject": "Algebra",
+        "id": "algebra_0235",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Linear inequalities",
         "level": "3",
@@ -14687,8 +14687,8 @@
         ]
     },
     {
-        "id": "Algebra_0236",
-        "subject": "Algebra",
+        "id": "algebra_0236",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Graphs of lines",
         "level": "3",
@@ -14759,8 +14759,8 @@
         ]
     },
     {
-        "id": "Algebra_0237",
-        "subject": "Algebra",
+        "id": "algebra_0237",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -14800,8 +14800,8 @@
         ]
     },
     {
-        "id": "Algebra_0238",
-        "subject": "Algebra",
+        "id": "algebra_0238",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -14855,8 +14855,8 @@
         ]
     },
     {
-        "id": "Algebra_0239",
-        "subject": "Algebra",
+        "id": "algebra_0239",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -14910,8 +14910,8 @@
         ]
     },
     {
-        "id": "Algebra_0240",
-        "subject": "Algebra",
+        "id": "algebra_0240",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -14969,8 +14969,8 @@
         ]
     },
     {
-        "id": "Algebra_0241",
-        "subject": "Algebra",
+        "id": "algebra_0241",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "4",
@@ -15031,8 +15031,8 @@
         ]
     },
     {
-        "id": "Algebra_0242",
-        "subject": "Algebra",
+        "id": "algebra_0242",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -15075,8 +15075,8 @@
         ]
     },
     {
-        "id": "Algebra_0243",
-        "subject": "Algebra",
+        "id": "algebra_0243",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "4",
@@ -15120,8 +15120,8 @@
         ]
     },
     {
-        "id": "Algebra_0244",
-        "subject": "Algebra",
+        "id": "algebra_0244",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "4",
@@ -15165,8 +15165,8 @@
         ]
     },
     {
-        "id": "Algebra_0245",
-        "subject": "Algebra",
+        "id": "algebra_0245",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "4",
@@ -15227,8 +15227,8 @@
         ]
     },
     {
-        "id": "Algebra_0246",
-        "subject": "Algebra",
+        "id": "algebra_0246",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -15271,8 +15271,8 @@
         ]
     },
     {
-        "id": "Algebra_0247",
-        "subject": "Algebra",
+        "id": "algebra_0247",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "4",
@@ -15316,8 +15316,8 @@
         ]
     },
     {
-        "id": "Algebra_0248",
-        "subject": "Algebra",
+        "id": "algebra_0248",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -15360,8 +15360,8 @@
         ]
     },
     {
-        "id": "Algebra_0249",
-        "subject": "Algebra",
+        "id": "algebra_0249",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "4",
@@ -15405,8 +15405,8 @@
         ]
     },
     {
-        "id": "Algebra_0250",
-        "subject": "Algebra",
+        "id": "algebra_0250",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "4",
@@ -15467,8 +15467,8 @@
         ]
     },
     {
-        "id": "Algebra_0251",
-        "subject": "Algebra",
+        "id": "algebra_0251",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -15519,8 +15519,8 @@
         ]
     },
     {
-        "id": "Algebra_0252",
-        "subject": "Algebra",
+        "id": "algebra_0252",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -15643,8 +15643,8 @@
         ]
     },
     {
-        "id": "Algebra_0253",
-        "subject": "Algebra",
+        "id": "algebra_0253",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "1",
@@ -15685,8 +15685,8 @@
         ]
     },
     {
-        "id": "Algebra_0254",
-        "subject": "Algebra",
+        "id": "algebra_0254",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -15745,8 +15745,8 @@
         ]
     },
     {
-        "id": "Algebra_0255",
-        "subject": "Algebra",
+        "id": "algebra_0255",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -15788,8 +15788,8 @@
         ]
     },
     {
-        "id": "Algebra_0257",
-        "subject": "Algebra",
+        "id": "algebra_0257",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -15877,8 +15877,8 @@
         ]
     },
     {
-        "id": "Algebra_0258",
-        "subject": "Algebra",
+        "id": "algebra_0258",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -15921,8 +15921,8 @@
         ]
     },
     {
-        "id": "Algebra_0259",
-        "subject": "Algebra",
+        "id": "algebra_0259",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -16022,8 +16022,8 @@
         ]
     },
     {
-        "id": "Algebra_0260",
-        "subject": "Algebra",
+        "id": "algebra_0260",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -16101,8 +16101,8 @@
         ]
     },
     {
-        "id": "Algebra_0261",
-        "subject": "Algebra",
+        "id": "algebra_0261",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -16162,8 +16162,8 @@
         ]
     },
     {
-        "id": "Algebra_0262",
-        "subject": "Algebra",
+        "id": "algebra_0262",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "4",
@@ -16222,8 +16222,8 @@
         ]
     },
     {
-        "id": "Algebra_0263",
-        "subject": "Algebra",
+        "id": "algebra_0263",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -16273,8 +16273,8 @@
         ]
     },
     {
-        "id": "Algebra_0264",
-        "subject": "Algebra",
+        "id": "algebra_0264",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -16324,13 +16324,13 @@
         ]
     },
     {
-        "id": "Algebra_0265",
-        "subject": "Algebra",
+        "id": "algebra_0265",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
         "keywords": [
-            "Algebra",
+            "algebra",
             "Functions",
             "Modeling"
         ],
@@ -16393,13 +16393,13 @@
         ]
     },
     {
-        "id": "Algebra_0266",
-        "subject": "Algebra",
+        "id": "algebra_0266",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
         "keywords": [
-            "Algebra",
+            "algebra",
             "Modeling",
             "word problem",
             "percentage"
@@ -16436,13 +16436,13 @@
         ]
     },
     {
-        "id": "Algebra_0267",
-        "subject": "Algebra",
+        "id": "algebra_0267",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
         "keywords": [
-            "Algebra",
+            "algebra",
             "Modeling",
             "algebra",
             "percent"
@@ -16479,13 +16479,13 @@
         ]
     },
     {
-        "id": "Algebra_0268",
-        "subject": "Algebra",
+        "id": "algebra_0268",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "2",
         "keywords": [
-            "Algebra",
+            "algebra",
             "Modeling",
             "word problem' 'cutting wire",
             "quadratic"
@@ -16522,13 +16522,13 @@
         ]
     },
     {
-        "id": "Algebra_0269",
-        "subject": "Algebra",
+        "id": "algebra_0269",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
         "keywords": [
-            "Algebra",
+            "algebra",
             "Modeling",
             "word problem",
             "percent"
@@ -16565,13 +16565,13 @@
         ]
     },
     {
-        "id": "Algebra_0270",
-        "subject": "Algebra",
+        "id": "algebra_0270",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "2",
         "keywords": [
-            "Algebra",
+            "algebra",
             "Modeling",
             "algebra",
             "application of linear equation"
@@ -16617,13 +16617,13 @@
         ]
     },
     {
-        "id": "Algebra_0271",
-        "subject": "Algebra",
+        "id": "algebra_0271",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "2",
         "keywords": [
-            "Algebra",
+            "algebra",
             "Modeling",
             "algebra",
             "application of linear equations"
@@ -16669,13 +16669,13 @@
         ]
     },
     {
-        "id": "Algebra_0272",
-        "subject": "Algebra",
+        "id": "algebra_0272",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
         "keywords": [
-            "Algebra",
+            "algebra",
             "Modeling",
             "word problem"
         ],
@@ -16711,13 +16711,13 @@
         ]
     },
     {
-        "id": "Algebra_0273",
-        "subject": "Algebra",
+        "id": "algebra_0273",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "",
         "keywords": [
-            "Algebra",
+            "algebra",
             "Modeling",
             "word problem"
         ],
@@ -16753,8 +16753,8 @@
         ]
     },
     {
-        "id": "Algebra_0274",
-        "subject": "Algebra",
+        "id": "algebra_0274",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -16795,13 +16795,13 @@
         ]
     },
     {
-        "id": "Algebra_0275",
-        "subject": "Algebra",
+        "id": "algebra_0275",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "2",
         "keywords": [
-            "Algebra",
+            "algebra",
             "Modeling",
             "algebra",
             "percent"
@@ -16847,8 +16847,8 @@
         ]
     },
     {
-        "id": "Algebra_0276",
-        "subject": "Algebra",
+        "id": "algebra_0276",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "4",
@@ -16897,8 +16897,8 @@
         ]
     },
     {
-        "id": "Algebra_0277",
-        "subject": "Algebra",
+        "id": "algebra_0277",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -16938,8 +16938,8 @@
         ]
     },
     {
-        "id": "Algebra_0278",
-        "subject": "Algebra",
+        "id": "algebra_0278",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -16989,8 +16989,8 @@
         ]
     },
     {
-        "id": "Algebra_0279",
-        "subject": "Algebra",
+        "id": "algebra_0279",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -17038,8 +17038,8 @@
         ]
     },
     {
-        "id": "Algebra_0280",
-        "subject": "Algebra",
+        "id": "algebra_0280",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -17088,8 +17088,8 @@
         ]
     },
     {
-        "id": "Algebra_0281",
-        "subject": "Algebra",
+        "id": "algebra_0281",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "4",
@@ -17195,8 +17195,8 @@
         ]
     },
     {
-        "id": "Algebra_0282",
-        "subject": "Algebra",
+        "id": "algebra_0282",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -17235,8 +17235,8 @@
         ]
     },
     {
-        "id": "Algebra_0283",
-        "subject": "Algebra",
+        "id": "algebra_0283",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "",
@@ -17293,8 +17293,8 @@
         ]
     },
     {
-        "id": "Algebra_0284",
-        "subject": "Algebra",
+        "id": "algebra_0284",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "2",
@@ -17358,8 +17358,8 @@
         ]
     },
     {
-        "id": "Algebra_0285",
-        "subject": "Algebra",
+        "id": "algebra_0285",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -17410,8 +17410,8 @@
         ]
     },
     {
-        "id": "Algebra_0286",
-        "subject": "Algebra",
+        "id": "algebra_0286",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -17462,8 +17462,8 @@
         ]
     },
     {
-        "id": "Algebra_0287",
-        "subject": "Algebra",
+        "id": "algebra_0287",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -17514,8 +17514,8 @@
         ]
     },
     {
-        "id": "Algebra_0288",
-        "subject": "Algebra",
+        "id": "algebra_0288",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -17566,8 +17566,8 @@
         ]
     },
     {
-        "id": "Algebra_0289",
-        "subject": "Algebra",
+        "id": "algebra_0289",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -17618,8 +17618,8 @@
         ]
     },
     {
-        "id": "Algebra_0290",
-        "subject": "Algebra",
+        "id": "algebra_0290",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -17670,8 +17670,8 @@
         ]
     },
     {
-        "id": "Algebra_0291",
-        "subject": "Algebra",
+        "id": "algebra_0291",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "",
@@ -17710,8 +17710,8 @@
         ]
     },
     {
-        "id": "Algebra_0292",
-        "subject": "Algebra",
+        "id": "algebra_0292",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -17751,8 +17751,8 @@
         ]
     },
     {
-        "id": "Algebra_0293",
-        "subject": "Algebra",
+        "id": "algebra_0293",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -17793,8 +17793,8 @@
         ]
     },
     {
-        "id": "Algebra_0294",
-        "subject": "Algebra",
+        "id": "algebra_0294",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -17835,8 +17835,8 @@
         ]
     },
     {
-        "id": "Algebra_0295",
-        "subject": "Algebra",
+        "id": "algebra_0295",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -17877,8 +17877,8 @@
         ]
     },
     {
-        "id": "Algebra_0296",
-        "subject": "Algebra",
+        "id": "algebra_0296",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -17915,8 +17915,8 @@
         ]
     },
     {
-        "id": "Algebra_0297",
-        "subject": "Algebra",
+        "id": "algebra_0297",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "2",
@@ -17965,8 +17965,8 @@
         ]
     },
     {
-        "id": "Algebra_0298",
-        "subject": "Algebra",
+        "id": "algebra_0298",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "4",
@@ -18014,8 +18014,8 @@
         ]
     },
     {
-        "id": "Algebra_0299",
-        "subject": "Algebra",
+        "id": "algebra_0299",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -18081,8 +18081,8 @@
         ]
     },
     {
-        "id": "Algebra_0300",
-        "subject": "Algebra",
+        "id": "algebra_0300",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -18121,8 +18121,8 @@
         ]
     },
     {
-        "id": "Algebra_0301",
-        "subject": "Algebra",
+        "id": "algebra_0301",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "4",
@@ -18161,8 +18161,8 @@
         ]
     },
     {
-        "id": "Algebra_0302",
-        "subject": "Algebra",
+        "id": "algebra_0302",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "4",
@@ -18201,8 +18201,8 @@
         ]
     },
     {
-        "id": "Algebra_0303",
-        "subject": "Algebra",
+        "id": "algebra_0303",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -18250,8 +18250,8 @@
         ]
     },
     {
-        "id": "Algebra_0304",
-        "subject": "Algebra",
+        "id": "algebra_0304",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "2",
@@ -18290,8 +18290,8 @@
         ]
     },
     {
-        "id": "Algebra_0305",
-        "subject": "Algebra",
+        "id": "algebra_0305",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -18330,8 +18330,8 @@
         ]
     },
     {
-        "id": "Algebra_0306",
-        "subject": "Algebra",
+        "id": "algebra_0306",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -18370,8 +18370,8 @@
         ]
     },
     {
-        "id": "Algebra_0307",
-        "subject": "Algebra",
+        "id": "algebra_0307",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -18420,8 +18420,8 @@
         ]
     },
     {
-        "id": "Algebra_0308",
-        "subject": "Algebra",
+        "id": "algebra_0308",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "4",
@@ -18469,8 +18469,8 @@
         ]
     },
     {
-        "id": "Algebra_0309",
-        "subject": "Algebra",
+        "id": "algebra_0309",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -18509,8 +18509,8 @@
         ]
     },
     {
-        "id": "Algebra_0310",
-        "subject": "Algebra",
+        "id": "algebra_0310",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -18558,8 +18558,8 @@
         ]
     },
     {
-        "id": "Algebra_0311",
-        "subject": "Algebra",
+        "id": "algebra_0311",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -18607,8 +18607,8 @@
         ]
     },
     {
-        "id": "Algebra_0312",
-        "subject": "Algebra",
+        "id": "algebra_0312",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -18647,8 +18647,8 @@
         ]
     },
     {
-        "id": "Algebra_0313",
-        "subject": "Algebra",
+        "id": "algebra_0313",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -18687,8 +18687,8 @@
         ]
     },
     {
-        "id": "Algebra_0314",
-        "subject": "Algebra",
+        "id": "algebra_0314",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -18727,8 +18727,8 @@
         ]
     },
     {
-        "id": "Algebra_0315",
-        "subject": "Algebra",
+        "id": "algebra_0315",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -18777,8 +18777,8 @@
         ]
     },
     {
-        "id": "Algebra_0316",
-        "subject": "Algebra",
+        "id": "algebra_0316",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "4",
@@ -18818,8 +18818,8 @@
         ]
     },
     {
-        "id": "Algebra_0317",
-        "subject": "Algebra",
+        "id": "algebra_0317",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "2",
@@ -18860,8 +18860,8 @@
         ]
     },
     {
-        "id": "Algebra_0318",
-        "subject": "Algebra",
+        "id": "algebra_0318",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "4",
@@ -18901,8 +18901,8 @@
         ]
     },
     {
-        "id": "Algebra_0319",
-        "subject": "Algebra",
+        "id": "algebra_0319",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -18942,8 +18942,8 @@
         ]
     },
     {
-        "id": "Algebra_0320",
-        "subject": "Algebra",
+        "id": "algebra_0320",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "4",
@@ -18992,8 +18992,8 @@
         ]
     },
     {
-        "id": "Algebra_0321",
-        "subject": "Algebra",
+        "id": "algebra_0321",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -19060,8 +19060,8 @@
         ]
     },
     {
-        "id": "Algebra_0322",
-        "subject": "Algebra",
+        "id": "algebra_0322",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "2",
@@ -19110,8 +19110,8 @@
         ]
     },
     {
-        "id": "Algebra_0323",
-        "subject": "Algebra",
+        "id": "algebra_0323",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -19182,8 +19182,8 @@
         ]
     },
     {
-        "id": "Algebra_0324",
-        "subject": "Algebra",
+        "id": "algebra_0324",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "4",
@@ -19232,8 +19232,8 @@
         ]
     },
     {
-        "id": "Algebra_0325",
-        "subject": "Algebra",
+        "id": "algebra_0325",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -19273,8 +19273,8 @@
         ]
     },
     {
-        "id": "Algebra_0326",
-        "subject": "Algebra",
+        "id": "algebra_0326",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -19315,8 +19315,8 @@
         ]
     },
     {
-        "id": "Algebra_0327",
-        "subject": "Algebra",
+        "id": "algebra_0327",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -19357,8 +19357,8 @@
         ]
     },
     {
-        "id": "Algebra_0328",
-        "subject": "Algebra",
+        "id": "algebra_0328",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -19397,8 +19397,8 @@
         ]
     },
     {
-        "id": "Algebra_0329",
-        "subject": "Algebra",
+        "id": "algebra_0329",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -19457,8 +19457,8 @@
         ]
     },
     {
-        "id": "Algebra_0330",
-        "subject": "Algebra",
+        "id": "algebra_0330",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -19499,8 +19499,8 @@
         ]
     },
     {
-        "id": "Algebra_0331",
-        "subject": "Algebra",
+        "id": "algebra_0331",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -19540,8 +19540,8 @@
         ]
     },
     {
-        "id": "Algebra_0332",
-        "subject": "Algebra",
+        "id": "algebra_0332",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -19584,8 +19584,8 @@
         ]
     },
     {
-        "id": "Algebra_0333",
-        "subject": "Algebra",
+        "id": "algebra_0333",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -19626,8 +19626,8 @@
         ]
     },
     {
-        "id": "Algebra_0334",
-        "subject": "Algebra",
+        "id": "algebra_0334",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -19668,8 +19668,8 @@
         ]
     },
     {
-        "id": "Algebra_0335",
-        "subject": "Algebra",
+        "id": "algebra_0335",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "4",
@@ -19710,8 +19710,8 @@
         ]
     },
     {
-        "id": "Algebra_0336",
-        "subject": "Algebra",
+        "id": "algebra_0336",
+        "subject": "algebra",
         "topic": "Linear equations and functions",
         "subtopic": "Applications and models",
         "level": "2",
@@ -19788,8 +19788,8 @@
         ]
     },
     {
-        "id": "Algebra_0337",
-        "subject": "Algebra",
+        "id": "algebra_0337",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Solve by factoring",
         "level": "3",
@@ -19828,8 +19828,8 @@
         ]
     },
     {
-        "id": "Algebra_0338",
-        "subject": "Algebra",
+        "id": "algebra_0338",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Solve by factoring",
         "level": "2",
@@ -19870,8 +19870,8 @@
         ]
     },
     {
-        "id": "Algebra_0339",
-        "subject": "Algebra",
+        "id": "algebra_0339",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Completing the square",
         "level": "2",
@@ -19933,8 +19933,8 @@
         ]
     },
     {
-        "id": "Algebra_0340",
-        "subject": "Algebra",
+        "id": "algebra_0340",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Completing the square",
         "level": "1",
@@ -19973,8 +19973,8 @@
         ]
     },
     {
-        "id": "Algebra_0341",
-        "subject": "Algebra",
+        "id": "algebra_0341",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Completing the square",
         "level": "1",
@@ -20022,8 +20022,8 @@
         ]
     },
     {
-        "id": "Algebra_0342",
-        "subject": "Algebra",
+        "id": "algebra_0342",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Complex roots",
         "level": "2",
@@ -20062,8 +20062,8 @@
         ]
     },
     {
-        "id": "Algebra_0343",
-        "subject": "Algebra",
+        "id": "algebra_0343",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Complex roots",
         "level": "2",
@@ -20107,8 +20107,8 @@
         ]
     },
     {
-        "id": "Algebra_0344",
-        "subject": "Algebra",
+        "id": "algebra_0344",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Solving equations",
         "level": "2",
@@ -20166,8 +20166,8 @@
         ]
     },
     {
-        "id": "Algebra_0345",
-        "subject": "Algebra",
+        "id": "algebra_0345",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Solving equations",
         "level": "3",
@@ -20208,8 +20208,8 @@
         ]
     },
     {
-        "id": "Algebra_0346",
-        "subject": "Algebra",
+        "id": "algebra_0346",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Solving equations",
         "level": "2",
@@ -20250,13 +20250,13 @@
         ]
     },
     {
-        "id": "Algebra_0347",
-        "subject": "Algebra",
+        "id": "algebra_0347",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Solving equations",
         "level": "3",
         "keywords": [
-            "Algebra",
+            "algebra",
             "Functions",
             "Polynomial"
         ],
@@ -20292,8 +20292,8 @@
         ]
     },
     {
-        "id": "Algebra_0348",
-        "subject": "Algebra",
+        "id": "algebra_0348",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Solving equations",
         "level": "3",
@@ -20332,8 +20332,8 @@
         ]
     },
     {
-        "id": "Algebra_0349",
-        "subject": "Algebra",
+        "id": "algebra_0349",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Solving equations",
         "level": "2",
@@ -20375,8 +20375,8 @@
         ]
     },
     {
-        "id": "Algebra_0350",
-        "subject": "Algebra",
+        "id": "algebra_0350",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Forms: vertex, factored, general",
         "level": "2",
@@ -20436,8 +20436,8 @@
         ]
     },
     {
-        "id": "Algebra_0351",
-        "subject": "Algebra",
+        "id": "algebra_0351",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Forms: vertex, factored, general",
         "level": "2",
@@ -20506,8 +20506,8 @@
         ]
     },
     {
-        "id": "Algebra_0352",
-        "subject": "Algebra",
+        "id": "algebra_0352",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Forms: vertex, factored, general",
         "level": "2",
@@ -20566,8 +20566,8 @@
         ]
     },
     {
-        "id": "Algebra_0353",
-        "subject": "Algebra",
+        "id": "algebra_0353",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Forms: vertex, factored, general",
         "level": "2",
@@ -20608,8 +20608,8 @@
         ]
     },
     {
-        "id": "Algebra_0354",
-        "subject": "Algebra",
+        "id": "algebra_0354",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Forms: vertex, factored, general",
         "level": "3",
@@ -20648,13 +20648,13 @@
         ]
     },
     {
-        "id": "Algebra_0355",
-        "subject": "Algebra",
+        "id": "algebra_0355",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Inequalities",
         "level": "3",
         "keywords": [
-            "Algebra",
+            "algebra",
             "Inequalities"
         ],
         "problem_v1": "Using, the solution to the inequality\nx^2+5x-50 < 0 is all $x$ in the interval [ANS]. Note: This is equivalent to asking where the graph of the parabola $y=x^2+5x-50$ is below the $x$-axis.",
@@ -20689,8 +20689,8 @@
         ]
     },
     {
-        "id": "Algebra_0356",
-        "subject": "Algebra",
+        "id": "algebra_0356",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Inequalities",
         "level": "3",
@@ -20731,8 +20731,8 @@
         ]
     },
     {
-        "id": "Algebra_0357",
-        "subject": "Algebra",
+        "id": "algebra_0357",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Graphs",
         "level": "2",
@@ -20785,8 +20785,8 @@
         ]
     },
     {
-        "id": "Algebra_0358",
-        "subject": "Algebra",
+        "id": "algebra_0358",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Graphs",
         "level": "2",
@@ -20888,8 +20888,8 @@
         ]
     },
     {
-        "id": "Algebra_0359",
-        "subject": "Algebra",
+        "id": "algebra_0359",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -20940,8 +20940,8 @@
         ]
     },
     {
-        "id": "Algebra_0360",
-        "subject": "Algebra",
+        "id": "algebra_0360",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -21001,8 +21001,8 @@
         ]
     },
     {
-        "id": "Algebra_0361",
-        "subject": "Algebra",
+        "id": "algebra_0361",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Applications and models",
         "level": "4",
@@ -21071,8 +21071,8 @@
         ]
     },
     {
-        "id": "Algebra_0362",
-        "subject": "Algebra",
+        "id": "algebra_0362",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -21113,8 +21113,8 @@
         ]
     },
     {
-        "id": "Algebra_0363",
-        "subject": "Algebra",
+        "id": "algebra_0363",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -21172,13 +21172,13 @@
         ]
     },
     {
-        "id": "Algebra_0364",
-        "subject": "Algebra",
+        "id": "algebra_0364",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Applications and models",
         "level": "2",
         "keywords": [
-            "Algebra",
+            "algebra",
             "Modeling"
         ],
         "problem_v1": "A Norman window has the shape of a rectangle surmounted by a semicircle. The perimeter is 43.000 ft. Order the widths listed below according to the area of the corresponding Norman window from the lowest area (1) to highest area (5). You will need to enter the numbers 1 through 5 in the entry blanks below. [ANS] 1. Width=9.600 ft. [ANS] 2. Width=10.000 ft. [ANS] 3. Width=11.200 ft. [ANS] 4. Width=6.400 ft. [ANS] 5. Width=6.700 ft.\nRemark: To be able to order the sizes of the windows you are going to have to calculate the area for all five windows from knowing their widths. Since there are several calculations it will save time to figure out and simplify a formula which calculates the area from the width and the perimeter.",
@@ -21249,13 +21249,13 @@
         ]
     },
     {
-        "id": "Algebra_0365",
-        "subject": "Algebra",
+        "id": "algebra_0365",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
         "keywords": [
-            "Algebra",
+            "algebra",
             "Modeling"
         ],
         "problem_v1": "Taxylvania has a tax code that rewards charitable giving. If a person gives $p$ \\% of his income to charity, that person pays $(43-1.6 p)$ \\% tax on the remaining money. For example, if a person gives 10\\% of his income to charity, he pays 27 \\% tax on the remaining money. If a person gives 26.875 \\% of his income to charity, he pays no tax on the remaining money. A person does not receive a tax refund if he gives more than 26.875 \\% of his income to charity. Count Taxula earns \\$ 60000. What percentage of his income should he give to charity to maximize the money he has after taxes and charitable giving?\nThe count should give [ANS] \\% to charity.\nIf the count did receive a tax refund for giving more than 26.875 \\% of his income to charity, how much should he give to charity?\nThe count should give [ANS] \\% to charity.\nNOTE: Your answers must be numbers. No arithmetic operations are allowed.",
@@ -21299,8 +21299,8 @@
         ]
     },
     {
-        "id": "Algebra_0366",
-        "subject": "Algebra",
+        "id": "algebra_0366",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -21340,8 +21340,8 @@
         ]
     },
     {
-        "id": "Algebra_0367",
-        "subject": "Algebra",
+        "id": "algebra_0367",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -21382,8 +21382,8 @@
         ]
     },
     {
-        "id": "Algebra_0368",
-        "subject": "Algebra",
+        "id": "algebra_0368",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Applications and models",
         "level": "4",
@@ -21436,8 +21436,8 @@
         ]
     },
     {
-        "id": "Algebra_0369",
-        "subject": "Algebra",
+        "id": "algebra_0369",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -21474,8 +21474,8 @@
         ]
     },
     {
-        "id": "Algebra_0370",
-        "subject": "Algebra",
+        "id": "algebra_0370",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -21523,8 +21523,8 @@
         ]
     },
     {
-        "id": "Algebra_0371",
-        "subject": "Algebra",
+        "id": "algebra_0371",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -21563,8 +21563,8 @@
         ]
     },
     {
-        "id": "Algebra_0372",
-        "subject": "Algebra",
+        "id": "algebra_0372",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -21603,8 +21603,8 @@
         ]
     },
     {
-        "id": "Algebra_0373",
-        "subject": "Algebra",
+        "id": "algebra_0373",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -21644,8 +21644,8 @@
         ]
     },
     {
-        "id": "Algebra_0374",
-        "subject": "Algebra",
+        "id": "algebra_0374",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -21684,8 +21684,8 @@
         ]
     },
     {
-        "id": "Algebra_0375",
-        "subject": "Algebra",
+        "id": "algebra_0375",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -21733,8 +21733,8 @@
         ]
     },
     {
-        "id": "Algebra_0376",
-        "subject": "Algebra",
+        "id": "algebra_0376",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -21773,8 +21773,8 @@
         ]
     },
     {
-        "id": "Algebra_0377",
-        "subject": "Algebra",
+        "id": "algebra_0377",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Applications and models",
         "level": "4",
@@ -21822,8 +21822,8 @@
         ]
     },
     {
-        "id": "Algebra_0378",
-        "subject": "Algebra",
+        "id": "algebra_0378",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -21863,8 +21863,8 @@
         ]
     },
     {
-        "id": "Algebra_0379",
-        "subject": "Algebra",
+        "id": "algebra_0379",
+        "subject": "algebra",
         "topic": "Quadratic equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -21904,8 +21904,8 @@
         ]
     },
     {
-        "id": "Algebra_0380",
-        "subject": "Algebra",
+        "id": "algebra_0380",
+        "subject": "algebra",
         "topic": "Operations on polynomial and rational expressions",
         "subtopic": "Polynomials: add, subtract",
         "level": "2",
@@ -21949,8 +21949,8 @@
         ]
     },
     {
-        "id": "Algebra_0381",
-        "subject": "Algebra",
+        "id": "algebra_0381",
+        "subject": "algebra",
         "topic": "Operations on polynomial and rational expressions",
         "subtopic": "Polynomials: add, subtract",
         "level": "2",
@@ -21994,8 +21994,8 @@
         ]
     },
     {
-        "id": "Algebra_0382",
-        "subject": "Algebra",
+        "id": "algebra_0382",
+        "subject": "algebra",
         "topic": "Operations on polynomial and rational expressions",
         "subtopic": "Polynomials: add, subtract",
         "level": "2",
@@ -22039,8 +22039,8 @@
         ]
     },
     {
-        "id": "Algebra_0383",
-        "subject": "Algebra",
+        "id": "algebra_0383",
+        "subject": "algebra",
         "topic": "Operations on polynomial and rational expressions",
         "subtopic": "Polynomials: add, subtract",
         "level": "2",
@@ -22081,8 +22081,8 @@
         ]
     },
     {
-        "id": "Algebra_0384",
-        "subject": "Algebra",
+        "id": "algebra_0384",
+        "subject": "algebra",
         "topic": "Operations on polynomial and rational expressions",
         "subtopic": "Polynomials: add, subtract",
         "level": "2",
@@ -22123,8 +22123,8 @@
         ]
     },
     {
-        "id": "Algebra_0385",
-        "subject": "Algebra",
+        "id": "algebra_0385",
+        "subject": "algebra",
         "topic": "Operations on polynomial and rational expressions",
         "subtopic": "Polynomials: multiply",
         "level": "2",
@@ -22167,8 +22167,8 @@
         ]
     },
     {
-        "id": "Algebra_0386",
-        "subject": "Algebra",
+        "id": "algebra_0386",
+        "subject": "algebra",
         "topic": "Operations on polynomial and rational expressions",
         "subtopic": "Polynomials: multiply",
         "level": "3",
@@ -22209,8 +22209,8 @@
         ]
     },
     {
-        "id": "Algebra_0387",
-        "subject": "Algebra",
+        "id": "algebra_0387",
+        "subject": "algebra",
         "topic": "Operations on polynomial and rational expressions",
         "subtopic": "Polynomials: multiply",
         "level": "2",
@@ -22340,8 +22340,8 @@
         ]
     },
     {
-        "id": "Algebra_0388",
-        "subject": "Algebra",
+        "id": "algebra_0388",
+        "subject": "algebra",
         "topic": "Operations on polynomial and rational expressions",
         "subtopic": "Polynomials: multiply",
         "level": "2",
@@ -22381,8 +22381,8 @@
         ]
     },
     {
-        "id": "Algebra_0389",
-        "subject": "Algebra",
+        "id": "algebra_0389",
+        "subject": "algebra",
         "topic": "Operations on polynomial and rational expressions",
         "subtopic": "Polynomials: divide",
         "level": "2",
@@ -22441,8 +22441,8 @@
         ]
     },
     {
-        "id": "Algebra_0390",
-        "subject": "Algebra",
+        "id": "algebra_0390",
+        "subject": "algebra",
         "topic": "Operations on polynomial and rational expressions",
         "subtopic": "Polynomials: divide",
         "level": "2",
@@ -22491,8 +22491,8 @@
         ]
     },
     {
-        "id": "Algebra_0391",
-        "subject": "Algebra",
+        "id": "algebra_0391",
+        "subject": "algebra",
         "topic": "Operations on polynomial and rational expressions",
         "subtopic": "Polynomials: divide",
         "level": "3",
@@ -22533,8 +22533,8 @@
         ]
     },
     {
-        "id": "Algebra_0392",
-        "subject": "Algebra",
+        "id": "algebra_0392",
+        "subject": "algebra",
         "topic": "Operations on polynomial and rational expressions",
         "subtopic": "Rational expressions: multiply, divide",
         "level": "2",
@@ -22583,8 +22583,8 @@
         ]
     },
     {
-        "id": "Algebra_0393",
-        "subject": "Algebra",
+        "id": "algebra_0393",
+        "subject": "algebra",
         "topic": "Operations on polynomial and rational expressions",
         "subtopic": "Rational expressions: add, subtract",
         "level": "2",
@@ -22632,8 +22632,8 @@
         ]
     },
     {
-        "id": "Algebra_0394",
-        "subject": "Algebra",
+        "id": "algebra_0394",
+        "subject": "algebra",
         "topic": "Operations on polynomial and rational expressions",
         "subtopic": "Simplify rational expressions",
         "level": "2",
@@ -22672,8 +22672,8 @@
         ]
     },
     {
-        "id": "Algebra_0395",
-        "subject": "Algebra",
+        "id": "algebra_0395",
+        "subject": "algebra",
         "topic": "Operations on polynomial and rational expressions",
         "subtopic": "Simplify rational expressions",
         "level": "2",
@@ -22728,8 +22728,8 @@
         ]
     },
     {
-        "id": "Algebra_0396",
-        "subject": "Algebra",
+        "id": "algebra_0396",
+        "subject": "algebra",
         "topic": "Operations on polynomial and rational expressions",
         "subtopic": "Partial fractions",
         "level": "4",
@@ -22787,8 +22787,8 @@
         ]
     },
     {
-        "id": "Algebra_0397",
-        "subject": "Algebra",
+        "id": "algebra_0397",
+        "subject": "algebra",
         "topic": "Polynomial equations and functions",
         "subtopic": "Polynomial equations",
         "level": "2",
@@ -22828,8 +22828,8 @@
         ]
     },
     {
-        "id": "Algebra_0398",
-        "subject": "Algebra",
+        "id": "algebra_0398",
+        "subject": "algebra",
         "topic": "Polynomial equations and functions",
         "subtopic": "Polynomial equations",
         "level": "2",
@@ -22870,8 +22870,8 @@
         ]
     },
     {
-        "id": "Algebra_0399",
-        "subject": "Algebra",
+        "id": "algebra_0399",
+        "subject": "algebra",
         "topic": "Polynomial equations and functions",
         "subtopic": "Polynomial equations",
         "level": "2",
@@ -22912,8 +22912,8 @@
         ]
     },
     {
-        "id": "Algebra_0400",
-        "subject": "Algebra",
+        "id": "algebra_0400",
+        "subject": "algebra",
         "topic": "Polynomial equations and functions",
         "subtopic": "Polynomial functions",
         "level": "2",
@@ -22975,8 +22975,8 @@
         ]
     },
     {
-        "id": "Algebra_0401",
-        "subject": "Algebra",
+        "id": "algebra_0401",
+        "subject": "algebra",
         "topic": "Polynomial equations and functions",
         "subtopic": "Polynomial functions",
         "level": "2",
@@ -23027,8 +23027,8 @@
         ]
     },
     {
-        "id": "Algebra_0402",
-        "subject": "Algebra",
+        "id": "algebra_0402",
+        "subject": "algebra",
         "topic": "Polynomial equations and functions",
         "subtopic": "Polynomial functions",
         "level": "2",
@@ -23139,8 +23139,8 @@
         ]
     },
     {
-        "id": "Algebra_0403",
-        "subject": "Algebra",
+        "id": "algebra_0403",
+        "subject": "algebra",
         "topic": "Polynomial equations and functions",
         "subtopic": "Polynomial functions",
         "level": "1",
@@ -23305,8 +23305,8 @@
         ]
     },
     {
-        "id": "Algebra_0404",
-        "subject": "Algebra",
+        "id": "algebra_0404",
+        "subject": "algebra",
         "topic": "Polynomial equations and functions",
         "subtopic": "Polynomial functions",
         "level": "",
@@ -23382,8 +23382,8 @@
         ]
     },
     {
-        "id": "Algebra_0405",
-        "subject": "Algebra",
+        "id": "algebra_0405",
+        "subject": "algebra",
         "topic": "Polynomial equations and functions",
         "subtopic": "Polynomial functions",
         "level": "3",
@@ -23470,8 +23470,8 @@
         ]
     },
     {
-        "id": "Algebra_0406",
-        "subject": "Algebra",
+        "id": "algebra_0406",
+        "subject": "algebra",
         "topic": "Polynomial equations and functions",
         "subtopic": "Remainder and factor theorems",
         "level": "3",
@@ -23720,8 +23720,8 @@
         ]
     },
     {
-        "id": "Algebra_0407",
-        "subject": "Algebra",
+        "id": "algebra_0407",
+        "subject": "algebra",
         "topic": "Polynomial equations and functions",
         "subtopic": "Counting zeros",
         "level": "2",
@@ -23763,8 +23763,8 @@
         ]
     },
     {
-        "id": "Algebra_0408",
-        "subject": "Algebra",
+        "id": "algebra_0408",
+        "subject": "algebra",
         "topic": "Polynomial equations and functions",
         "subtopic": "Counting zeros",
         "level": "3",
@@ -23815,8 +23815,8 @@
         ]
     },
     {
-        "id": "Algebra_0409",
-        "subject": "Algebra",
+        "id": "algebra_0409",
+        "subject": "algebra",
         "topic": "Polynomial equations and functions",
         "subtopic": "Graphs of polynomials",
         "level": "3",
@@ -23882,8 +23882,8 @@
         ]
     },
     {
-        "id": "Algebra_0410",
-        "subject": "Algebra",
+        "id": "algebra_0410",
+        "subject": "algebra",
         "topic": "Polynomial equations and functions",
         "subtopic": "Graphs of polynomials",
         "level": "3",
@@ -23924,8 +23924,8 @@
         ]
     },
     {
-        "id": "Algebra_0411",
-        "subject": "Algebra",
+        "id": "algebra_0411",
+        "subject": "algebra",
         "topic": "Polynomial equations and functions",
         "subtopic": "Applications and models",
         "level": "4",
@@ -23969,8 +23969,8 @@
         ]
     },
     {
-        "id": "Algebra_0412",
-        "subject": "Algebra",
+        "id": "algebra_0412",
+        "subject": "algebra",
         "topic": "Polynomial equations and functions",
         "subtopic": "Applications and models",
         "level": "2",
@@ -24135,8 +24135,8 @@
         ]
     },
     {
-        "id": "Algebra_0413",
-        "subject": "Algebra",
+        "id": "algebra_0413",
+        "subject": "algebra",
         "topic": "Polynomial equations and functions",
         "subtopic": "Applications and models",
         "level": "2",
@@ -24186,8 +24186,8 @@
         ]
     },
     {
-        "id": "Algebra_0414",
-        "subject": "Algebra",
+        "id": "algebra_0414",
+        "subject": "algebra",
         "topic": "Polynomial equations and functions",
         "subtopic": "Applications and models",
         "level": "4",
@@ -24229,8 +24229,8 @@
         ]
     },
     {
-        "id": "Algebra_0415",
-        "subject": "Algebra",
+        "id": "algebra_0415",
+        "subject": "algebra",
         "topic": "Polynomial equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -24278,8 +24278,8 @@
         ]
     },
     {
-        "id": "Algebra_0416",
-        "subject": "Algebra",
+        "id": "algebra_0416",
+        "subject": "algebra",
         "topic": "Polynomial equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -24327,8 +24327,8 @@
         ]
     },
     {
-        "id": "Algebra_0417",
-        "subject": "Algebra",
+        "id": "algebra_0417",
+        "subject": "algebra",
         "topic": "Polynomial equations and functions",
         "subtopic": "Applications and models",
         "level": "3",
@@ -24376,8 +24376,8 @@
         ]
     },
     {
-        "id": "Algebra_0418",
-        "subject": "Algebra",
+        "id": "algebra_0418",
+        "subject": "algebra",
         "topic": "Polynomial equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -24417,13 +24417,13 @@
         ]
     },
     {
-        "id": "Algebra_0419",
-        "subject": "Algebra",
+        "id": "algebra_0419",
+        "subject": "algebra",
         "topic": "Polynomial equations and functions",
         "subtopic": "Applications and models",
         "level": "2",
         "keywords": [
-            "Algebra",
+            "algebra",
             "Functions",
             "Polynomial"
         ],
@@ -24468,8 +24468,8 @@
         ]
     },
     {
-        "id": "Algebra_0420",
-        "subject": "Algebra",
+        "id": "algebra_0420",
+        "subject": "algebra",
         "topic": "Polynomial equations and functions",
         "subtopic": "Complex roots",
         "level": "3",
@@ -24509,8 +24509,8 @@
         ]
     },
     {
-        "id": "Algebra_0421",
-        "subject": "Algebra",
+        "id": "algebra_0421",
+        "subject": "algebra",
         "topic": "Variation and power functions",
         "subtopic": "Direct variation",
         "level": "2",
@@ -24550,8 +24550,8 @@
         ]
     },
     {
-        "id": "Algebra_0422",
-        "subject": "Algebra",
+        "id": "algebra_0422",
+        "subject": "algebra",
         "topic": "Variation and power functions",
         "subtopic": "Direct variation",
         "level": "2",
@@ -24603,8 +24603,8 @@
         ]
     },
     {
-        "id": "Algebra_0423",
-        "subject": "Algebra",
+        "id": "algebra_0423",
+        "subject": "algebra",
         "topic": "Variation and power functions",
         "subtopic": "Direct variation",
         "level": "2",
@@ -24679,8 +24679,8 @@
         ]
     },
     {
-        "id": "Algebra_0424",
-        "subject": "Algebra",
+        "id": "algebra_0424",
+        "subject": "algebra",
         "topic": "Variation and power functions",
         "subtopic": "Direct variation",
         "level": "1",
@@ -24719,8 +24719,8 @@
         ]
     },
     {
-        "id": "Algebra_0425",
-        "subject": "Algebra",
+        "id": "algebra_0425",
+        "subject": "algebra",
         "topic": "Variation and power functions",
         "subtopic": "Direct variation",
         "level": "3",
@@ -24822,8 +24822,8 @@
         ]
     },
     {
-        "id": "Algebra_0426",
-        "subject": "Algebra",
+        "id": "algebra_0426",
+        "subject": "algebra",
         "topic": "Variation and power functions",
         "subtopic": "Direct variation",
         "level": "3",
@@ -24880,8 +24880,8 @@
         ]
     },
     {
-        "id": "Algebra_0427",
-        "subject": "Algebra",
+        "id": "algebra_0427",
+        "subject": "algebra",
         "topic": "Variation and power functions",
         "subtopic": "Direct variation",
         "level": "5",
@@ -24929,8 +24929,8 @@
         ]
     },
     {
-        "id": "Algebra_0428",
-        "subject": "Algebra",
+        "id": "algebra_0428",
+        "subject": "algebra",
         "topic": "Variation and power functions",
         "subtopic": "Inverse variation",
         "level": "2",
@@ -24979,8 +24979,8 @@
         ]
     },
     {
-        "id": "Algebra_0429",
-        "subject": "Algebra",
+        "id": "algebra_0429",
+        "subject": "algebra",
         "topic": "Variation and power functions",
         "subtopic": "Inverse variation",
         "level": "2",
@@ -25021,8 +25021,8 @@
         ]
     },
     {
-        "id": "Algebra_0430",
-        "subject": "Algebra",
+        "id": "algebra_0430",
+        "subject": "algebra",
         "topic": "Variation and power functions",
         "subtopic": "Inverse variation",
         "level": "2",
@@ -25062,8 +25062,8 @@
         ]
     },
     {
-        "id": "Algebra_0431",
-        "subject": "Algebra",
+        "id": "algebra_0431",
+        "subject": "algebra",
         "topic": "Variation and power functions",
         "subtopic": "Mixed variation",
         "level": "2",
@@ -25103,8 +25103,8 @@
         ]
     },
     {
-        "id": "Algebra_0432",
-        "subject": "Algebra",
+        "id": "algebra_0432",
+        "subject": "algebra",
         "topic": "Variation and power functions",
         "subtopic": "Power functions",
         "level": "1",
@@ -25159,8 +25159,8 @@
         ]
     },
     {
-        "id": "Algebra_0433",
-        "subject": "Algebra",
+        "id": "algebra_0433",
+        "subject": "algebra",
         "topic": "Variation and power functions",
         "subtopic": "Power functions",
         "level": "4",
@@ -25275,8 +25275,8 @@
         ]
     },
     {
-        "id": "Algebra_0434",
-        "subject": "Algebra",
+        "id": "algebra_0434",
+        "subject": "algebra",
         "topic": "Variation and power functions",
         "subtopic": "Power functions",
         "level": "2",
@@ -25326,8 +25326,8 @@
         ]
     },
     {
-        "id": "Algebra_0435",
-        "subject": "Algebra",
+        "id": "algebra_0435",
+        "subject": "algebra",
         "topic": "Variation and power functions",
         "subtopic": "Power functions",
         "level": "2",
@@ -25366,8 +25366,8 @@
         ]
     },
     {
-        "id": "Algebra_0436",
-        "subject": "Algebra",
+        "id": "algebra_0436",
+        "subject": "algebra",
         "topic": "Variation and power functions",
         "subtopic": "Power functions",
         "level": "5",
@@ -25424,8 +25424,8 @@
         ]
     },
     {
-        "id": "Algebra_0437",
-        "subject": "Algebra",
+        "id": "algebra_0437",
+        "subject": "algebra",
         "topic": "Variation and power functions",
         "subtopic": "Power functions",
         "level": "3",
@@ -25563,8 +25563,8 @@
         ]
     },
     {
-        "id": "Algebra_0438",
-        "subject": "Algebra",
+        "id": "algebra_0438",
+        "subject": "algebra",
         "topic": "Variation and power functions",
         "subtopic": "Applications of power functions",
         "level": "4",
@@ -25623,8 +25623,8 @@
         ]
     },
     {
-        "id": "Algebra_0439",
-        "subject": "Algebra",
+        "id": "algebra_0439",
+        "subject": "algebra",
         "topic": "Variation and power functions",
         "subtopic": "Applications of power functions",
         "level": "4",
@@ -25692,8 +25692,8 @@
         ]
     },
     {
-        "id": "Algebra_0440",
-        "subject": "Algebra",
+        "id": "algebra_0440",
+        "subject": "algebra",
         "topic": "Variation and power functions",
         "subtopic": "Applications of power functions",
         "level": "4",
@@ -25743,8 +25743,8 @@
         ]
     },
     {
-        "id": "Algebra_0441",
-        "subject": "Algebra",
+        "id": "algebra_0441",
+        "subject": "algebra",
         "topic": "Variation and power functions",
         "subtopic": "Applications of power functions",
         "level": "3",
@@ -25783,8 +25783,8 @@
         ]
     },
     {
-        "id": "Algebra_0442",
-        "subject": "Algebra",
+        "id": "algebra_0442",
+        "subject": "algebra",
         "topic": "Variation and power functions",
         "subtopic": "Applications of power functions",
         "level": "5",
@@ -25832,8 +25832,8 @@
         ]
     },
     {
-        "id": "Algebra_0443",
-        "subject": "Algebra",
+        "id": "algebra_0443",
+        "subject": "algebra",
         "topic": "Systems of equations and inequalities",
         "subtopic": "Linear systems",
         "level": "4",
@@ -25884,8 +25884,8 @@
         ]
     },
     {
-        "id": "Algebra_0444",
-        "subject": "Algebra",
+        "id": "algebra_0444",
+        "subject": "algebra",
         "topic": "Systems of equations and inequalities",
         "subtopic": "Linear systems",
         "level": "3",
@@ -25936,8 +25936,8 @@
         ]
     },
     {
-        "id": "Algebra_0445",
-        "subject": "Algebra",
+        "id": "algebra_0445",
+        "subject": "algebra",
         "topic": "Systems of equations and inequalities",
         "subtopic": "Linear systems",
         "level": "4",
@@ -25988,8 +25988,8 @@
         ]
     },
     {
-        "id": "Algebra_0446",
-        "subject": "Algebra",
+        "id": "algebra_0446",
+        "subject": "algebra",
         "topic": "Systems of equations and inequalities",
         "subtopic": "Linear systems",
         "level": "4",
@@ -26050,8 +26050,8 @@
         ]
     },
     {
-        "id": "Algebra_0447",
-        "subject": "Algebra",
+        "id": "algebra_0447",
+        "subject": "algebra",
         "topic": "Systems of equations and inequalities",
         "subtopic": "Linear systems",
         "level": "3",
@@ -26099,8 +26099,8 @@
         ]
     },
     {
-        "id": "Algebra_0448",
-        "subject": "Algebra",
+        "id": "algebra_0448",
+        "subject": "algebra",
         "topic": "Systems of equations and inequalities",
         "subtopic": "Linear systems",
         "level": "3",
@@ -26157,8 +26157,8 @@
         ]
     },
     {
-        "id": "Algebra_0449",
-        "subject": "Algebra",
+        "id": "algebra_0449",
+        "subject": "algebra",
         "topic": "Systems of equations and inequalities",
         "subtopic": "Linear systems",
         "level": "4",
@@ -26215,8 +26215,8 @@
         ]
     },
     {
-        "id": "Algebra_0450",
-        "subject": "Algebra",
+        "id": "algebra_0450",
+        "subject": "algebra",
         "topic": "Systems of equations and inequalities",
         "subtopic": "Linear systems",
         "level": "4",
@@ -26267,8 +26267,8 @@
         ]
     },
     {
-        "id": "Algebra_0451",
-        "subject": "Algebra",
+        "id": "algebra_0451",
+        "subject": "algebra",
         "topic": "Systems of equations and inequalities",
         "subtopic": "Linear systems",
         "level": "4",
@@ -26319,8 +26319,8 @@
         ]
     },
     {
-        "id": "Algebra_0452",
-        "subject": "Algebra",
+        "id": "algebra_0452",
+        "subject": "algebra",
         "topic": "Systems of equations and inequalities",
         "subtopic": "Linear systems",
         "level": "4",
@@ -26371,8 +26371,8 @@
         ]
     },
     {
-        "id": "Algebra_0453",
-        "subject": "Algebra",
+        "id": "algebra_0453",
+        "subject": "algebra",
         "topic": "Systems of equations and inequalities",
         "subtopic": "Linear systems",
         "level": "4",
@@ -26423,8 +26423,8 @@
         ]
     },
     {
-        "id": "Algebra_0454",
-        "subject": "Algebra",
+        "id": "algebra_0454",
+        "subject": "algebra",
         "topic": "Systems of equations and inequalities",
         "subtopic": "Linear systems",
         "level": "4",
@@ -26475,8 +26475,8 @@
         ]
     },
     {
-        "id": "Algebra_0456",
-        "subject": "Algebra",
+        "id": "algebra_0456",
+        "subject": "algebra",
         "topic": "Functions with fractional exponents and radical functions",
         "subtopic": "Equations",
         "level": "3",
@@ -26537,8 +26537,8 @@
         ]
     },
     {
-        "id": "Algebra_0457",
-        "subject": "Algebra",
+        "id": "algebra_0457",
+        "subject": "algebra",
         "topic": "Functions with fractional exponents and radical functions",
         "subtopic": "Equations",
         "level": "2",
@@ -26578,8 +26578,8 @@
         ]
     },
     {
-        "id": "Algebra_0458",
-        "subject": "Algebra",
+        "id": "algebra_0458",
+        "subject": "algebra",
         "topic": "Rational equations and functions",
         "subtopic": "Simplifying",
         "level": "2",
@@ -26627,8 +26627,8 @@
         ]
     },
     {
-        "id": "Algebra_0459",
-        "subject": "Algebra",
+        "id": "algebra_0459",
+        "subject": "algebra",
         "topic": "Rational equations and functions",
         "subtopic": "Rational equations",
         "level": "2",
@@ -26668,8 +26668,8 @@
         ]
     },
     {
-        "id": "Algebra_0460",
-        "subject": "Algebra",
+        "id": "algebra_0460",
+        "subject": "algebra",
         "topic": "Rational equations and functions",
         "subtopic": "Rational functions",
         "level": "2",
@@ -26721,8 +26721,8 @@
         ]
     },
     {
-        "id": "Algebra_0461",
-        "subject": "Algebra",
+        "id": "algebra_0461",
+        "subject": "algebra",
         "topic": "Rational equations and functions",
         "subtopic": "Graphs of rational functions",
         "level": "2",
@@ -26772,13 +26772,13 @@
         ]
     },
     {
-        "id": "Algebra_0462",
-        "subject": "Algebra",
+        "id": "algebra_0462",
+        "subject": "algebra",
         "topic": "Rational equations and functions",
         "subtopic": "Graphs of rational functions",
         "level": "2",
         "keywords": [
-            "Algebra",
+            "algebra",
             "Rational Functions"
         ],
         "problem_v1": "Graph the functions\nf(x)=\\frac{-x^3+9x^2-20x-30}{x^2-5x} \\qquad \\textrm{and} \\qquad g(x)=-x+4\nin the same window. You may have to adjust the viewing rectangle to answer the following.\nWhat is (are) the similarities between $f(x)$ and $g(x)$? Check all that apply. [ANS] A. they have the same $y$ intercepts  B. they have the same asymptotes  C. they have the same end behavior  D. they have the same $x$ intercepts",
@@ -26828,8 +26828,8 @@
         ]
     },
     {
-        "id": "Algebra_0464",
-        "subject": "Algebra",
+        "id": "algebra_0464",
+        "subject": "algebra",
         "topic": "Rational equations and functions",
         "subtopic": "Asymptotes",
         "level": "3",
@@ -26869,8 +26869,8 @@
         ]
     },
     {
-        "id": "Algebra_0465",
-        "subject": "Algebra",
+        "id": "algebra_0465",
+        "subject": "algebra",
         "topic": "Rational equations and functions",
         "subtopic": "Asymptotes",
         "level": "2",
@@ -26952,8 +26952,8 @@
         ]
     },
     {
-        "id": "Algebra_0466",
-        "subject": "Algebra",
+        "id": "algebra_0466",
+        "subject": "algebra",
         "topic": "Rational equations and functions",
         "subtopic": "Applications and models",
         "level": "4",
@@ -27012,8 +27012,8 @@
         ]
     },
     {
-        "id": "Algebra_0467",
-        "subject": "Algebra",
+        "id": "algebra_0467",
+        "subject": "algebra",
         "topic": "Rational equations and functions",
         "subtopic": "Applications and models",
         "level": "4",
@@ -27080,8 +27080,8 @@
         ]
     },
     {
-        "id": "Algebra_0468",
-        "subject": "Algebra",
+        "id": "algebra_0468",
+        "subject": "algebra",
         "topic": "Rational equations and functions",
         "subtopic": "Applications and models",
         "level": "4",
@@ -27349,8 +27349,8 @@
         ]
     },
     {
-        "id": "Algebra_0469",
-        "subject": "Algebra",
+        "id": "algebra_0469",
+        "subject": "algebra",
         "topic": "Rational equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -27412,8 +27412,8 @@
         ]
     },
     {
-        "id": "Algebra_0470",
-        "subject": "Algebra",
+        "id": "algebra_0470",
+        "subject": "algebra",
         "topic": "Rational equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -27452,8 +27452,8 @@
         ]
     },
     {
-        "id": "Algebra_0471",
-        "subject": "Algebra",
+        "id": "algebra_0471",
+        "subject": "algebra",
         "topic": "Rational equations and functions",
         "subtopic": "Applications and models",
         "level": "4",
@@ -27494,13 +27494,13 @@
         ]
     },
     {
-        "id": "Algebra_0472",
-        "subject": "Algebra",
+        "id": "algebra_0472",
+        "subject": "algebra",
         "topic": "Rational equations and functions",
         "subtopic": "Applications and models",
         "level": "4",
         "keywords": [
-            "Algebra' 'Rational Functions"
+            "algebra' 'Rational Functions"
         ],
         "problem_v1": "The cost in dollars for removing $p$ percent of pollutants from a river in Smith County is C(p)=\\frac{75100 p}{100-p}. Graph this function on your calculator.\nFind the cost of removing 20\\%.\nCost for removing 20\\%, in dollars, is [ANS]\nFind the cost of removing half of the pollutants.\nCost for removing half, in dollars, is [ANS]\nFind the cost of removing all but 5\\% of the pollutants.\nCost for removing all but 5\\%, in dollars, is [ANS]\nWhat is the smallest value $p$ can be?\nThe smallest value $p$ can be is [ANS]\nWhat is the largest integer value $p$ can be?\nThe largest integer value $p$ can be is [ANS]",
         "answer_v1": [
@@ -27570,8 +27570,8 @@
         ]
     },
     {
-        "id": "Algebra_0473",
-        "subject": "Algebra",
+        "id": "algebra_0473",
+        "subject": "algebra",
         "topic": "Rational equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -27612,8 +27612,8 @@
         ]
     },
     {
-        "id": "Algebra_0474",
-        "subject": "Algebra",
+        "id": "algebra_0474",
+        "subject": "algebra",
         "topic": "Rational equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -27654,8 +27654,8 @@
         ]
     },
     {
-        "id": "Algebra_0475",
-        "subject": "Algebra",
+        "id": "algebra_0475",
+        "subject": "algebra",
         "topic": "Rational equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -27705,8 +27705,8 @@
         ]
     },
     {
-        "id": "Algebra_0476",
-        "subject": "Algebra",
+        "id": "algebra_0476",
+        "subject": "algebra",
         "topic": "Rational equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -27747,8 +27747,8 @@
         ]
     },
     {
-        "id": "Algebra_0477",
-        "subject": "Algebra",
+        "id": "algebra_0477",
+        "subject": "algebra",
         "topic": "Rational equations and functions",
         "subtopic": "Applications and models",
         "level": "5",
@@ -27798,8 +27798,8 @@
         ]
     },
     {
-        "id": "Algebra_0478",
-        "subject": "Algebra",
+        "id": "algebra_0478",
+        "subject": "algebra",
         "topic": "Rational equations and functions",
         "subtopic": "Applications and models",
         "level": "2",
@@ -27849,8 +27849,8 @@
         ]
     },
     {
-        "id": "Algebra_0479",
-        "subject": "Algebra",
+        "id": "algebra_0479",
+        "subject": "algebra",
         "topic": "Inverse functions",
         "subtopic": "1-1 functions",
         "level": "2",
@@ -27947,8 +27947,8 @@
         ]
     },
     {
-        "id": "Algebra_0480",
-        "subject": "Algebra",
+        "id": "algebra_0480",
+        "subject": "algebra",
         "topic": "Inverse functions",
         "subtopic": "1-1 functions",
         "level": "2",
@@ -28017,8 +28017,8 @@
         ]
     },
     {
-        "id": "Algebra_0481",
-        "subject": "Algebra",
+        "id": "algebra_0481",
+        "subject": "algebra",
         "topic": "Inverse functions",
         "subtopic": "1-1 functions",
         "level": "4",
@@ -28105,8 +28105,8 @@
         ]
     },
     {
-        "id": "Algebra_0482",
-        "subject": "Algebra",
+        "id": "algebra_0482",
+        "subject": "algebra",
         "topic": "Inverse functions",
         "subtopic": "Finding the inverse function",
         "level": "2",
@@ -28147,8 +28147,8 @@
         ]
     },
     {
-        "id": "Algebra_0483",
-        "subject": "Algebra",
+        "id": "algebra_0483",
+        "subject": "algebra",
         "topic": "Inverse functions",
         "subtopic": "Finding the inverse function",
         "level": "2",
@@ -28192,8 +28192,8 @@
         ]
     },
     {
-        "id": "Algebra_0484",
-        "subject": "Algebra",
+        "id": "algebra_0484",
+        "subject": "algebra",
         "topic": "Inverse functions",
         "subtopic": "Finding the inverse function",
         "level": "2",
@@ -28236,8 +28236,8 @@
         ]
     },
     {
-        "id": "Algebra_0485",
-        "subject": "Algebra",
+        "id": "algebra_0485",
+        "subject": "algebra",
         "topic": "Inverse functions",
         "subtopic": "Interpreting inverse functions",
         "level": "5",
@@ -28308,8 +28308,8 @@
         ]
     },
     {
-        "id": "Algebra_0486",
-        "subject": "Algebra",
+        "id": "algebra_0486",
+        "subject": "algebra",
         "topic": "Inverse functions",
         "subtopic": "Interpreting inverse functions",
         "level": "2",
@@ -28379,8 +28379,8 @@
         ]
     },
     {
-        "id": "Algebra_0487",
-        "subject": "Algebra",
+        "id": "algebra_0487",
+        "subject": "algebra",
         "topic": "Inverse functions",
         "subtopic": "Interpreting inverse functions",
         "level": "3",
@@ -28502,8 +28502,8 @@
         ]
     },
     {
-        "id": "Algebra_0488",
-        "subject": "Algebra",
+        "id": "algebra_0488",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Exponential functions",
         "level": "2",
@@ -28548,8 +28548,8 @@
         ]
     },
     {
-        "id": "Algebra_0489",
-        "subject": "Algebra",
+        "id": "algebra_0489",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Exponential functions",
         "level": "2",
@@ -28602,8 +28602,8 @@
         ]
     },
     {
-        "id": "Algebra_0490",
-        "subject": "Algebra",
+        "id": "algebra_0490",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Exponential functions",
         "level": "2",
@@ -28662,8 +28662,8 @@
         ]
     },
     {
-        "id": "Algebra_0491",
-        "subject": "Algebra",
+        "id": "algebra_0491",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Exponential functions",
         "level": "2",
@@ -28735,8 +28735,8 @@
         ]
     },
     {
-        "id": "Algebra_0492",
-        "subject": "Algebra",
+        "id": "algebra_0492",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Exponential functions",
         "level": "2",
@@ -28777,8 +28777,8 @@
         ]
     },
     {
-        "id": "Algebra_0494",
-        "subject": "Algebra",
+        "id": "algebra_0494",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Exponential functions",
         "level": "3",
@@ -28934,8 +28934,8 @@
         ]
     },
     {
-        "id": "Algebra_0495",
-        "subject": "Algebra",
+        "id": "algebra_0495",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Properties of logarithms",
         "level": "3",
@@ -28994,8 +28994,8 @@
         ]
     },
     {
-        "id": "Algebra_0496",
-        "subject": "Algebra",
+        "id": "algebra_0496",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Properties of logarithms",
         "level": "1",
@@ -29052,8 +29052,8 @@
         ]
     },
     {
-        "id": "Algebra_0497",
-        "subject": "Algebra",
+        "id": "algebra_0497",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Properties of logarithms",
         "level": "2",
@@ -29092,8 +29092,8 @@
         ]
     },
     {
-        "id": "Algebra_0498",
-        "subject": "Algebra",
+        "id": "algebra_0498",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Properties of logarithms",
         "level": "3",
@@ -29236,13 +29236,13 @@
         ]
     },
     {
-        "id": "Algebra_0499",
-        "subject": "Algebra",
+        "id": "algebra_0499",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Properties of logarithms",
         "level": "2",
         "keywords": [
-            "Algebra",
+            "algebra",
             "Logarithmic",
             "evaluation",
             "logarithm"
@@ -29279,13 +29279,13 @@
         ]
     },
     {
-        "id": "Algebra_0500",
-        "subject": "Algebra",
+        "id": "algebra_0500",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Properties of logarithms",
         "level": "3",
         "keywords": [
-            "Algebra",
+            "algebra",
             "Logarithmic",
             "logarithms",
             "calculus"
@@ -29331,8 +29331,8 @@
         ]
     },
     {
-        "id": "Algebra_0501",
-        "subject": "Algebra",
+        "id": "algebra_0501",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Properties of logarithms",
         "level": "2",
@@ -29381,8 +29381,8 @@
         ]
     },
     {
-        "id": "Algebra_0502",
-        "subject": "Algebra",
+        "id": "algebra_0502",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Properties of logarithms",
         "level": "3",
@@ -29423,8 +29423,8 @@
         ]
     },
     {
-        "id": "Algebra_0503",
-        "subject": "Algebra",
+        "id": "algebra_0503",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Properties of logarithms",
         "level": "2",
@@ -29465,8 +29465,8 @@
         ]
     },
     {
-        "id": "Algebra_0504",
-        "subject": "Algebra",
+        "id": "algebra_0504",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Properties of logarithms",
         "level": "3",
@@ -29508,8 +29508,8 @@
         ]
     },
     {
-        "id": "Algebra_0505",
-        "subject": "Algebra",
+        "id": "algebra_0505",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Logarithmic functions",
         "level": "1",
@@ -29552,8 +29552,8 @@
         ]
     },
     {
-        "id": "Algebra_0507",
-        "subject": "Algebra",
+        "id": "algebra_0507",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Exponential and logarithmic equations",
         "level": "2",
@@ -29593,8 +29593,8 @@
         ]
     },
     {
-        "id": "Algebra_0508",
-        "subject": "Algebra",
+        "id": "algebra_0508",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Exponential and logarithmic equations",
         "level": "2",
@@ -29638,8 +29638,8 @@
         ]
     },
     {
-        "id": "Algebra_0509",
-        "subject": "Algebra",
+        "id": "algebra_0509",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Exponential and logarithmic equations",
         "level": "2",
@@ -29683,13 +29683,13 @@
         ]
     },
     {
-        "id": "Algebra_0510",
-        "subject": "Algebra",
+        "id": "algebra_0510",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Exponential and logarithmic equations",
         "level": "3",
         "keywords": [
-            "Algebra",
+            "algebra",
             "Exponential",
             "Logarithmic",
             "Applications",
@@ -29727,8 +29727,8 @@
         ]
     },
     {
-        "id": "Algebra_0511",
-        "subject": "Algebra",
+        "id": "algebra_0511",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Exponential and logarithmic equations",
         "level": "3",
@@ -29770,8 +29770,8 @@
         ]
     },
     {
-        "id": "Algebra_0512",
-        "subject": "Algebra",
+        "id": "algebra_0512",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Exponential and logarithmic equations",
         "level": "3",
@@ -29813,8 +29813,8 @@
         ]
     },
     {
-        "id": "Algebra_0513",
-        "subject": "Algebra",
+        "id": "algebra_0513",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Exponential and logarithmic equations",
         "level": "2",
@@ -29859,8 +29859,8 @@
         ]
     },
     {
-        "id": "Algebra_0514",
-        "subject": "Algebra",
+        "id": "algebra_0514",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Exponential and logarithmic equations",
         "level": "2",
@@ -29901,13 +29901,13 @@
         ]
     },
     {
-        "id": "Algebra_0515",
-        "subject": "Algebra",
+        "id": "algebra_0515",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Exponential and logarithmic equations",
         "level": "3",
         "keywords": [
-            "Algebra",
+            "algebra",
             "logarithmic"
         ],
         "problem_v1": "Use a graphing calculator to find all solutions to the equation\n3^{-x}=x-2\nGive the solutions as a comma separated list, with each value correct to two decimal places. If there are no solutions, enter None. [ANS]",
@@ -29942,8 +29942,8 @@
         ]
     },
     {
-        "id": "Algebra_0516",
-        "subject": "Algebra",
+        "id": "algebra_0516",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Graphs",
         "level": "3",
@@ -29951,7 +29951,7 @@
             "functions",
             "inverse functions",
             "base",
-            "Algebra",
+            "algebra",
             "Exponential",
             "Logarithmic",
             "Applications"
@@ -30069,8 +30069,8 @@
         ]
     },
     {
-        "id": "Algebra_0517",
-        "subject": "Algebra",
+        "id": "algebra_0517",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Graphs",
         "level": "3",
@@ -30113,8 +30113,8 @@
         ]
     },
     {
-        "id": "Algebra_0518",
-        "subject": "Algebra",
+        "id": "algebra_0518",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Graphs",
         "level": "2",
@@ -30165,8 +30165,8 @@
         ]
     },
     {
-        "id": "Algebra_0519",
-        "subject": "Algebra",
+        "id": "algebra_0519",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - population growth",
         "level": "2",
@@ -30222,8 +30222,8 @@
         ]
     },
     {
-        "id": "Algebra_0520",
-        "subject": "Algebra",
+        "id": "algebra_0520",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - population growth",
         "level": "5",
@@ -30307,8 +30307,8 @@
         ]
     },
     {
-        "id": "Algebra_0521",
-        "subject": "Algebra",
+        "id": "algebra_0521",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - population growth",
         "level": "3",
@@ -30358,8 +30358,8 @@
         ]
     },
     {
-        "id": "Algebra_0522",
-        "subject": "Algebra",
+        "id": "algebra_0522",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - population growth",
         "level": "4",
@@ -30418,8 +30418,8 @@
         ]
     },
     {
-        "id": "Algebra_0523",
-        "subject": "Algebra",
+        "id": "algebra_0523",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - population growth",
         "level": "2",
@@ -30460,8 +30460,8 @@
         ]
     },
     {
-        "id": "Algebra_0524",
-        "subject": "Algebra",
+        "id": "algebra_0524",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - population growth",
         "level": "5",
@@ -30511,8 +30511,8 @@
         ]
     },
     {
-        "id": "Algebra_0525",
-        "subject": "Algebra",
+        "id": "algebra_0525",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - population growth",
         "level": "2",
@@ -30571,8 +30571,8 @@
         ]
     },
     {
-        "id": "Algebra_0526",
-        "subject": "Algebra",
+        "id": "algebra_0526",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - population growth",
         "level": "4",
@@ -30621,8 +30621,8 @@
         ]
     },
     {
-        "id": "Algebra_0527",
-        "subject": "Algebra",
+        "id": "algebra_0527",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - population growth",
         "level": "4",
@@ -30698,8 +30698,8 @@
         ]
     },
     {
-        "id": "Algebra_0528",
-        "subject": "Algebra",
+        "id": "algebra_0528",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - radioactive decay",
         "level": "3",
@@ -30743,13 +30743,13 @@
         ]
     },
     {
-        "id": "Algebra_0529",
-        "subject": "Algebra",
+        "id": "algebra_0529",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - radioactive decay",
         "level": "4",
         "keywords": [
-            "Algebra",
+            "algebra",
             "Exponential",
             "Logarithmic",
             "Applications",
@@ -30790,13 +30790,13 @@
         ]
     },
     {
-        "id": "Algebra_0530",
-        "subject": "Algebra",
+        "id": "algebra_0530",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - radioactive decay",
         "level": "4",
         "keywords": [
-            "Algebra",
+            "algebra",
             "Exponential",
             "Logarithmic",
             "Applications",
@@ -30835,13 +30835,13 @@
         ]
     },
     {
-        "id": "Algebra_0531",
-        "subject": "Algebra",
+        "id": "algebra_0531",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - radioactive decay",
         "level": "4",
         "keywords": [
-            "Algebra",
+            "algebra",
             "Exponential",
             "Logarithmic",
             "Applications",
@@ -30891,8 +30891,8 @@
         ]
     },
     {
-        "id": "Algebra_0532",
-        "subject": "Algebra",
+        "id": "algebra_0532",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - radioactive decay",
         "level": "4",
@@ -30934,8 +30934,8 @@
         ]
     },
     {
-        "id": "Algebra_0533",
-        "subject": "Algebra",
+        "id": "algebra_0533",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - radioactive decay",
         "level": "3",
@@ -31006,8 +31006,8 @@
         ]
     },
     {
-        "id": "Algebra_0534",
-        "subject": "Algebra",
+        "id": "algebra_0534",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - general",
         "level": "4",
@@ -31065,8 +31065,8 @@
         ]
     },
     {
-        "id": "Algebra_0535",
-        "subject": "Algebra",
+        "id": "algebra_0535",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - general",
         "level": "4",
@@ -31118,8 +31118,8 @@
         ]
     },
     {
-        "id": "Algebra_0536",
-        "subject": "Algebra",
+        "id": "algebra_0536",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - general",
         "level": "4",
@@ -31177,8 +31177,8 @@
         ]
     },
     {
-        "id": "Algebra_0537",
-        "subject": "Algebra",
+        "id": "algebra_0537",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - general",
         "level": "3",
@@ -31240,8 +31240,8 @@
         ]
     },
     {
-        "id": "Algebra_0538",
-        "subject": "Algebra",
+        "id": "algebra_0538",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - general",
         "level": "4",
@@ -31327,8 +31327,8 @@
         ]
     },
     {
-        "id": "Algebra_0539",
-        "subject": "Algebra",
+        "id": "algebra_0539",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - general",
         "level": "4",
@@ -31388,8 +31388,8 @@
         ]
     },
     {
-        "id": "Algebra_0540",
-        "subject": "Algebra",
+        "id": "algebra_0540",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - general",
         "level": "4",
@@ -31457,8 +31457,8 @@
         ]
     },
     {
-        "id": "Algebra_0541",
-        "subject": "Algebra",
+        "id": "algebra_0541",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - general",
         "level": "4",
@@ -31499,8 +31499,8 @@
         ]
     },
     {
-        "id": "Algebra_0542",
-        "subject": "Algebra",
+        "id": "algebra_0542",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - general",
         "level": "2",
@@ -31559,8 +31559,8 @@
         ]
     },
     {
-        "id": "Algebra_0543",
-        "subject": "Algebra",
+        "id": "algebra_0543",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - general",
         "level": "4",
@@ -31610,8 +31610,8 @@
         ]
     },
     {
-        "id": "Algebra_0544",
-        "subject": "Algebra",
+        "id": "algebra_0544",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - general",
         "level": "4",
@@ -31679,8 +31679,8 @@
         ]
     },
     {
-        "id": "Algebra_0545",
-        "subject": "Algebra",
+        "id": "algebra_0545",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - general",
         "level": "4",
@@ -31721,8 +31721,8 @@
         ]
     },
     {
-        "id": "Algebra_0546",
-        "subject": "Algebra",
+        "id": "algebra_0546",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - general",
         "level": "3",
@@ -31793,8 +31793,8 @@
         ]
     },
     {
-        "id": "Algebra_0547",
-        "subject": "Algebra",
+        "id": "algebra_0547",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - general",
         "level": "2",
@@ -31856,8 +31856,8 @@
         ]
     },
     {
-        "id": "Algebra_0548",
-        "subject": "Algebra",
+        "id": "algebra_0548",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - general",
         "level": "5",
@@ -31936,13 +31936,13 @@
         ]
     },
     {
-        "id": "Algebra_0549",
-        "subject": "Algebra",
+        "id": "algebra_0549",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - general",
         "level": "4",
         "keywords": [
-            "Algebra",
+            "algebra",
             "Exponential",
             "Logarithmic",
             "Applications",
@@ -31990,13 +31990,13 @@
         ]
     },
     {
-        "id": "Algebra_0550",
-        "subject": "Algebra",
+        "id": "algebra_0550",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - general",
         "level": "4",
         "keywords": [
-            "Algebra",
+            "algebra",
             "Exponential",
             "Logarithmic",
             "Applications",
@@ -32035,13 +32035,13 @@
         ]
     },
     {
-        "id": "Algebra_0551",
-        "subject": "Algebra",
+        "id": "algebra_0551",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - general",
         "level": "4",
         "keywords": [
-            "Algebra",
+            "algebra",
             "Exponential",
             "Logarithmic",
             "Applications",
@@ -32079,13 +32079,13 @@
         ]
     },
     {
-        "id": "Algebra_0552",
-        "subject": "Algebra",
+        "id": "algebra_0552",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - general",
         "level": "4",
         "keywords": [
-            "Algebra",
+            "algebra",
             "Exponential",
             "Logarithmic",
             "Applications",
@@ -32132,8 +32132,8 @@
         ]
     },
     {
-        "id": "Algebra_0553",
-        "subject": "Algebra",
+        "id": "algebra_0553",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - general",
         "level": "4",
@@ -32194,8 +32194,8 @@
         ]
     },
     {
-        "id": "Algebra_0554",
-        "subject": "Algebra",
+        "id": "algebra_0554",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - general",
         "level": "3",
@@ -32204,7 +32204,7 @@
             "exponentials",
             "exponential growth",
             "decay",
-            "Algebra",
+            "algebra",
             "Exponential",
             "Logarithmic",
             "Applications"
@@ -32241,8 +32241,8 @@
         ]
     },
     {
-        "id": "Algebra_0555",
-        "subject": "Algebra",
+        "id": "algebra_0555",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - general",
         "level": "5",
@@ -32293,8 +32293,8 @@
         ]
     },
     {
-        "id": "Algebra_0556",
-        "subject": "Algebra",
+        "id": "algebra_0556",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - general",
         "level": "5",
@@ -32333,8 +32333,8 @@
         ]
     },
     {
-        "id": "Algebra_0557",
-        "subject": "Algebra",
+        "id": "algebra_0557",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - general",
         "level": "4",
@@ -32382,8 +32382,8 @@
         ]
     },
     {
-        "id": "Algebra_0558",
-        "subject": "Algebra",
+        "id": "algebra_0558",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - general",
         "level": "5",
@@ -32422,8 +32422,8 @@
         ]
     },
     {
-        "id": "Algebra_0559",
-        "subject": "Algebra",
+        "id": "algebra_0559",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - general",
         "level": "2",
@@ -32464,8 +32464,8 @@
         ]
     },
     {
-        "id": "Algebra_0560",
-        "subject": "Algebra",
+        "id": "algebra_0560",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - general",
         "level": "5",
@@ -32524,13 +32524,13 @@
         ]
     },
     {
-        "id": "Algebra_0561",
-        "subject": "Algebra",
+        "id": "algebra_0561",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - general",
         "level": "5",
         "keywords": [
-            "Algebra",
+            "algebra",
             "logarithmic"
         ],
         "problem_v1": "The velocity (in ft/s) of a sky diver $t$ seconds after jumping is given by v(t)=85 (1-e^{-0.2 t}) After how many seconds is the velocity 75 ft/s? [ANS] seconds",
@@ -32565,13 +32565,13 @@
         ]
     },
     {
-        "id": "Algebra_0562",
-        "subject": "Algebra",
+        "id": "algebra_0562",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - general",
         "level": "5",
         "keywords": [
-            "Algebra",
+            "algebra",
             "logarithmic"
         ],
         "problem_v1": "For a pole-vaulter in training, the height the athelete will be able to pole-vault after $t$ months of training is given by H(t)=20-13 e^{-0.02 t} After how many months will she be able to vault 14 ft? [ANS] months",
@@ -32606,8 +32606,8 @@
         ]
     },
     {
-        "id": "Algebra_0563",
-        "subject": "Algebra",
+        "id": "algebra_0563",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - general",
         "level": "4",
@@ -32665,8 +32665,8 @@
         ]
     },
     {
-        "id": "Algebra_0564",
-        "subject": "Algebra",
+        "id": "algebra_0564",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - general",
         "level": "4",
@@ -32723,8 +32723,8 @@
         ]
     },
     {
-        "id": "Algebra_0565",
-        "subject": "Algebra",
+        "id": "algebra_0565",
+        "subject": "algebra",
         "topic": "Exponential and logarithmic expressions and functions",
         "subtopic": "Applications and models - general",
         "level": "4",
@@ -32763,8 +32763,8 @@
         ]
     },
     {
-        "id": "Algebra_0566",
-        "subject": "Algebra",
+        "id": "algebra_0566",
+        "subject": "algebra",
         "topic": "Finite sequences and series",
         "subtopic": "Notation",
         "level": "3",
@@ -32810,8 +32810,8 @@
         ]
     },
     {
-        "id": "Algebra_0567",
-        "subject": "Algebra",
+        "id": "algebra_0567",
+        "subject": "algebra",
         "topic": "Finite sequences and series",
         "subtopic": "Notation",
         "level": "2",
@@ -32860,8 +32860,8 @@
         ]
     },
     {
-        "id": "Algebra_0568",
-        "subject": "Algebra",
+        "id": "algebra_0568",
+        "subject": "algebra",
         "topic": "Finite sequences and series",
         "subtopic": "Notation",
         "level": "1",
@@ -32901,8 +32901,8 @@
         ]
     },
     {
-        "id": "Algebra_0569",
-        "subject": "Algebra",
+        "id": "algebra_0569",
+        "subject": "algebra",
         "topic": "Finite sequences and series",
         "subtopic": "Notation",
         "level": "2",
@@ -32941,8 +32941,8 @@
         ]
     },
     {
-        "id": "Algebra_0570",
-        "subject": "Algebra",
+        "id": "algebra_0570",
+        "subject": "algebra",
         "topic": "Finite sequences and series",
         "subtopic": "Notation",
         "level": "3",
@@ -32983,8 +32983,8 @@
         ]
     },
     {
-        "id": "Algebra_0571",
-        "subject": "Algebra",
+        "id": "algebra_0571",
+        "subject": "algebra",
         "topic": "Finite sequences and series",
         "subtopic": "Notation",
         "level": "2",
@@ -33034,8 +33034,8 @@
         ]
     },
     {
-        "id": "Algebra_0572",
-        "subject": "Algebra",
+        "id": "algebra_0572",
+        "subject": "algebra",
         "topic": "Finite sequences and series",
         "subtopic": "Notation",
         "level": "2",
@@ -33139,8 +33139,8 @@
         ]
     },
     {
-        "id": "Algebra_0573",
-        "subject": "Algebra",
+        "id": "algebra_0573",
+        "subject": "algebra",
         "topic": "Finite sequences and series",
         "subtopic": "Notation",
         "level": "2",
@@ -33181,8 +33181,8 @@
         ]
     },
     {
-        "id": "Algebra_0574",
-        "subject": "Algebra",
+        "id": "algebra_0574",
+        "subject": "algebra",
         "topic": "Finite sequences and series",
         "subtopic": "Arithmetic",
         "level": "3",
@@ -33223,8 +33223,8 @@
         ]
     },
     {
-        "id": "Algebra_0575",
-        "subject": "Algebra",
+        "id": "algebra_0575",
+        "subject": "algebra",
         "topic": "Finite sequences and series",
         "subtopic": "Arithmetic",
         "level": "3",
@@ -33264,8 +33264,8 @@
         ]
     },
     {
-        "id": "Algebra_0576",
-        "subject": "Algebra",
+        "id": "algebra_0576",
+        "subject": "algebra",
         "topic": "Finite sequences and series",
         "subtopic": "Arithmetic",
         "level": "2",
@@ -33305,8 +33305,8 @@
         ]
     },
     {
-        "id": "Algebra_0577",
-        "subject": "Algebra",
+        "id": "algebra_0577",
+        "subject": "algebra",
         "topic": "Finite sequences and series",
         "subtopic": "Arithmetic",
         "level": "3",
@@ -33363,8 +33363,8 @@
         ]
     },
     {
-        "id": "Algebra_0578",
-        "subject": "Algebra",
+        "id": "algebra_0578",
+        "subject": "algebra",
         "topic": "Finite sequences and series",
         "subtopic": "Arithmetic",
         "level": "5",
@@ -33405,8 +33405,8 @@
         ]
     },
     {
-        "id": "Algebra_0579",
-        "subject": "Algebra",
+        "id": "algebra_0579",
+        "subject": "algebra",
         "topic": "Finite sequences and series",
         "subtopic": "Arithmetic",
         "level": "5",
@@ -33445,8 +33445,8 @@
         ]
     },
     {
-        "id": "Algebra_0580",
-        "subject": "Algebra",
+        "id": "algebra_0580",
+        "subject": "algebra",
         "topic": "Finite sequences and series",
         "subtopic": "Arithmetic",
         "level": "4",
@@ -33521,8 +33521,8 @@
         ]
     },
     {
-        "id": "Algebra_0581",
-        "subject": "Algebra",
+        "id": "algebra_0581",
+        "subject": "algebra",
         "topic": "Finite sequences and series",
         "subtopic": "Arithmetic",
         "level": "5",
@@ -33598,8 +33598,8 @@
         ]
     },
     {
-        "id": "Algebra_0582",
-        "subject": "Algebra",
+        "id": "algebra_0582",
+        "subject": "algebra",
         "topic": "Finite sequences and series",
         "subtopic": "Arithmetic",
         "level": "2",
@@ -33735,8 +33735,8 @@
         ]
     },
     {
-        "id": "Algebra_0583",
-        "subject": "Algebra",
+        "id": "algebra_0583",
+        "subject": "algebra",
         "topic": "Finite sequences and series",
         "subtopic": "Arithmetic",
         "level": "2",
@@ -33776,8 +33776,8 @@
         ]
     },
     {
-        "id": "Algebra_0584",
-        "subject": "Algebra",
+        "id": "algebra_0584",
+        "subject": "algebra",
         "topic": "Finite sequences and series",
         "subtopic": "Arithmetic",
         "level": "4",
@@ -33819,8 +33819,8 @@
         ]
     },
     {
-        "id": "Algebra_0585",
-        "subject": "Algebra",
+        "id": "algebra_0585",
+        "subject": "algebra",
         "topic": "Finite sequences and series",
         "subtopic": "Arithmetic",
         "level": "5",
@@ -33863,8 +33863,8 @@
         ]
     },
     {
-        "id": "Algebra_0586",
-        "subject": "Algebra",
+        "id": "algebra_0586",
+        "subject": "algebra",
         "topic": "Finite sequences and series",
         "subtopic": "Arithmetic",
         "level": "5",
@@ -33907,8 +33907,8 @@
         ]
     },
     {
-        "id": "Algebra_0587",
-        "subject": "Algebra",
+        "id": "algebra_0587",
+        "subject": "algebra",
         "topic": "Finite sequences and series",
         "subtopic": "Arithmetic",
         "level": "5",
@@ -33951,8 +33951,8 @@
         ]
     },
     {
-        "id": "Algebra_0588",
-        "subject": "Algebra",
+        "id": "algebra_0588",
+        "subject": "algebra",
         "topic": "Finite sequences and series",
         "subtopic": "Arithmetic",
         "level": "2",
@@ -33992,8 +33992,8 @@
         ]
     },
     {
-        "id": "Algebra_0589",
-        "subject": "Algebra",
+        "id": "algebra_0589",
+        "subject": "algebra",
         "topic": "Finite sequences and series",
         "subtopic": "Binomial theorem",
         "level": "2",
@@ -34034,8 +34034,8 @@
         ]
     },
     {
-        "id": "Algebra_0590",
-        "subject": "Algebra",
+        "id": "algebra_0590",
+        "subject": "algebra",
         "topic": "Finite sequences and series",
         "subtopic": "Summation formulas",
         "level": "3",
@@ -34084,8 +34084,8 @@
         ]
     },
     {
-        "id": "Algebra_0591",
-        "subject": "Algebra",
+        "id": "algebra_0591",
+        "subject": "algebra",
         "topic": "Conic sections",
         "subtopic": "Parabolas",
         "level": "2",
@@ -34124,8 +34124,8 @@
         ]
     },
     {
-        "id": "Algebra_0592",
-        "subject": "Algebra",
+        "id": "algebra_0592",
+        "subject": "algebra",
         "topic": "Conic sections",
         "subtopic": "Ellipses",
         "level": "3",
@@ -34539,8 +34539,8 @@
         ]
     },
     {
-        "id": "Algebra_0593",
-        "subject": "Algebra",
+        "id": "algebra_0593",
+        "subject": "algebra",
         "topic": "Conic sections",
         "subtopic": "Ellipses",
         "level": "3",
@@ -34712,8 +34712,8 @@
         ]
     },
     {
-        "id": "Algebra_0594",
-        "subject": "Algebra",
+        "id": "algebra_0594",
+        "subject": "algebra",
         "topic": "Conic sections",
         "subtopic": "Ellipses",
         "level": "5",
@@ -34752,8 +34752,8 @@
         ]
     },
     {
-        "id": "Algebra_0595",
-        "subject": "Algebra",
+        "id": "algebra_0595",
+        "subject": "algebra",
         "topic": "Conic sections",
         "subtopic": "Ellipses",
         "level": "3",
@@ -34792,8 +34792,8 @@
         ]
     },
     {
-        "id": "Algebra_0596",
-        "subject": "Algebra",
+        "id": "algebra_0596",
+        "subject": "algebra",
         "topic": "Conic sections",
         "subtopic": "Polar or parametric form",
         "level": "3",
