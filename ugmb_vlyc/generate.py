@@ -20,7 +20,7 @@ from typing import override
 import backoff
 import langchain.messages
 import langchain_core.utils.uuid as _uuid
-import mca.cmds.agent_v1.serve as _serve
+import mcma.cmds.agent_v1.serve as _serve
 import requests
 from openai import APIStatusError, RateLimitError
 from tqdm import tqdm
@@ -40,22 +40,22 @@ _AIMessage = langchain.messages.AIMessage
 _ToolMessage = langchain.messages.ToolMessage
 
 SUBJECTS = [
-    "Abstract-Algebra",
-    "Combinatorics",
-    "Statistics",
-    "Geometry",
-    "Set-Theory-and-Logic",
-    "Probability",
-    "Arithmetic",
-    "Trigonometry",
-    "Complex-Analysis",
-    "Differential-Equations",
-    "Calculus-Single-Variable",
-    "Linear-Algebra",
-    "Calculus-Multivariable",
-    "Algebra",
-    "Number-Theory",
-    "Financial-Mathematics"
+    "abstract_algebra",
+    "combinatorics",
+    "statistics",
+    "geometry",
+    "set_theory_and_logic",
+    "probability",
+    "arithmetic",
+    "trigonometry",
+    "complex_analysis",
+    "differential_equations",
+    "calculus_single_variable",
+    "linear_algebra",
+    "calculus_multivariable",
+    "algebra",
+    "number_theory",
+    "financial_mathematics"
 ]
 VERSION_COUNT = 3
 
@@ -321,7 +321,7 @@ if __name__ == "__main__":
     parser.add_argument('--model',
                         type=str,
                         help="The path of model to evaluate.",
-                        default="mca-agent-v1")
+                        default="mcma-agent-v1")
     parser.add_argument('--subject',
                         type=str,
                         help="The subject to evaluate.",

@@ -1,7 +1,7 @@
 [
     {
-        "id": "Statistics_0000",
-        "subject": "Statistics",
+        "id": "statistics_0000",
+        "subject": "statistics",
         "topic": "Experimental design",
         "subtopic": "Concepts",
         "level": "3",
@@ -90,8 +90,8 @@
         ]
     },
     {
-        "id": "Statistics_0001",
-        "subject": "Statistics",
+        "id": "statistics_0001",
+        "subject": "statistics",
         "topic": "Experimental design",
         "subtopic": "Concepts",
         "level": "2",
@@ -193,8 +193,8 @@
         ]
     },
     {
-        "id": "Statistics_0002",
-        "subject": "Statistics",
+        "id": "statistics_0002",
+        "subject": "statistics",
         "topic": "Experimental design",
         "subtopic": "Concepts",
         "level": "2",
@@ -301,8 +301,8 @@
         ]
     },
     {
-        "id": "Statistics_0003",
-        "subject": "Statistics",
+        "id": "statistics_0003",
+        "subject": "statistics",
         "topic": "Experimental design",
         "subtopic": "Concepts",
         "level": "2",
@@ -382,8 +382,8 @@
         ]
     },
     {
-        "id": "Statistics_0004",
-        "subject": "Statistics",
+        "id": "statistics_0004",
+        "subject": "statistics",
         "topic": "Experimental design",
         "subtopic": "Concepts",
         "level": "2",
@@ -487,8 +487,8 @@
         ]
     },
     {
-        "id": "Statistics_0005",
-        "subject": "Statistics",
+        "id": "statistics_0005",
+        "subject": "statistics",
         "topic": "Experimental design",
         "subtopic": "Concepts",
         "level": "2",
@@ -592,8 +592,8 @@
         ]
     },
     {
-        "id": "Statistics_0006",
-        "subject": "Statistics",
+        "id": "statistics_0006",
+        "subject": "statistics",
         "topic": "Experimental design",
         "subtopic": "Concepts",
         "level": "2",
@@ -673,8 +673,8 @@
         ]
     },
     {
-        "id": "Statistics_0007",
-        "subject": "Statistics",
+        "id": "statistics_0007",
+        "subject": "statistics",
         "topic": "Experimental design",
         "subtopic": "Concepts",
         "level": "2",
@@ -754,8 +754,8 @@
         ]
     },
     {
-        "id": "Statistics_0008",
-        "subject": "Statistics",
+        "id": "statistics_0008",
+        "subject": "statistics",
         "topic": "Experimental design",
         "subtopic": "Concepts",
         "level": "2",
@@ -859,8 +859,8 @@
         ]
     },
     {
-        "id": "Statistics_0009",
-        "subject": "Statistics",
+        "id": "statistics_0009",
+        "subject": "statistics",
         "topic": "Experimental design",
         "subtopic": "Concepts",
         "level": "3",
@@ -955,8 +955,8 @@
         ]
     },
     {
-        "id": "Statistics_0010",
-        "subject": "Statistics",
+        "id": "statistics_0010",
+        "subject": "statistics",
         "topic": "Experimental design",
         "subtopic": "Concepts",
         "level": "4",
@@ -1075,8 +1075,8 @@
         ]
     },
     {
-        "id": "Statistics_0011",
-        "subject": "Statistics",
+        "id": "statistics_0011",
+        "subject": "statistics",
         "topic": "Experimental design",
         "subtopic": "Concepts",
         "level": "3",
@@ -1158,8 +1158,8 @@
         ]
     },
     {
-        "id": "Statistics_0012",
-        "subject": "Statistics",
+        "id": "statistics_0012",
+        "subject": "statistics",
         "topic": "Experimental design",
         "subtopic": "Concepts",
         "level": "4",
@@ -1320,8 +1320,8 @@
         ]
     },
     {
-        "id": "Statistics_0013",
-        "subject": "Statistics",
+        "id": "statistics_0013",
+        "subject": "statistics",
         "topic": "Sample survey methods",
         "subtopic": "Concepts",
         "level": "3",
@@ -1425,8 +1425,8 @@
         ]
     },
     {
-        "id": "Statistics_0014",
-        "subject": "Statistics",
+        "id": "statistics_0014",
+        "subject": "statistics",
         "topic": "Sample survey methods",
         "subtopic": "Concepts",
         "level": "3",
@@ -1530,8 +1530,8 @@
         ]
     },
     {
-        "id": "Statistics_0015",
-        "subject": "Statistics",
+        "id": "statistics_0015",
+        "subject": "statistics",
         "topic": "Sample survey methods",
         "subtopic": "Concepts",
         "level": "3",
@@ -1635,8 +1635,8 @@
         ]
     },
     {
-        "id": "Statistics_0016",
-        "subject": "Statistics",
+        "id": "statistics_0016",
+        "subject": "statistics",
         "topic": "Sample survey methods",
         "subtopic": "Concepts",
         "level": "3",
@@ -1749,8 +1749,8 @@
         ]
     },
     {
-        "id": "Statistics_0017",
-        "subject": "Statistics",
+        "id": "statistics_0017",
+        "subject": "statistics",
         "topic": "Sample survey methods",
         "subtopic": "Concepts",
         "level": "3",
@@ -1833,8 +1833,8 @@
         ]
     },
     {
-        "id": "Statistics_0018",
-        "subject": "Statistics",
+        "id": "statistics_0018",
+        "subject": "statistics",
         "topic": "Sample survey methods",
         "subtopic": "Concepts",
         "level": "3",
@@ -1938,8 +1938,8 @@
         ]
     },
     {
-        "id": "Statistics_0019",
-        "subject": "Statistics",
+        "id": "statistics_0019",
+        "subject": "statistics",
         "topic": "Sample survey methods",
         "subtopic": "Concepts",
         "level": "3",
@@ -2049,8 +2049,8 @@
         ]
     },
     {
-        "id": "Statistics_0020",
-        "subject": "Statistics",
+        "id": "statistics_0020",
+        "subject": "statistics",
         "topic": "Sample survey methods",
         "subtopic": "Concepts",
         "level": "1",
@@ -2091,7 +2091,7 @@
                 "D"
             ]
         ],
-        "problem_v2": "For the following problems, select the best response.\n(a) The Bureau of Labor Statistics announces that last month it interviewed all members of the labor force in a sample of 60000 households; 4.9\\% of the people interviewed were unemployed. The boldface number is a [ANS] A. sampling distribution.  B. parameter.  C. statistic.  D. None of the above.\n(b) The number of hours a light bulb burns before failing varies from bulb to bulb. The distribution of burnout times is strongly skewed to the right. The central limit theorem says that [ANS] A. as we look at more and more bulbs, their average burnout time gets ever closer to the mean for all bulbs of this type.  B. the average burnout time of a large number of bulbs has a distribution of the same shape (strongly skewed) as the distribution for individual bulbs.  C. the average burnout time of a large number of bulbs has a distribution that is close to Normal.  D. None of the above.\n(c) A study of voting chose 663 registered voters at random shortly after an election. Of these, 72\\% said they had voted in the election. Election records show that only 56\\% of registered voters voted in the election. The boldface number is a [ANS] A. sampling distribution.  B. statistic.  C. parameter.  D. None of the above.",
+        "problem_v2": "For the following problems, select the best response.\n(a) The Bureau of Labor statistics announces that last month it interviewed all members of the labor force in a sample of 60000 households; 4.9\\% of the people interviewed were unemployed. The boldface number is a [ANS] A. sampling distribution.  B. parameter.  C. statistic.  D. None of the above.\n(b) The number of hours a light bulb burns before failing varies from bulb to bulb. The distribution of burnout times is strongly skewed to the right. The central limit theorem says that [ANS] A. as we look at more and more bulbs, their average burnout time gets ever closer to the mean for all bulbs of this type.  B. the average burnout time of a large number of bulbs has a distribution of the same shape (strongly skewed) as the distribution for individual bulbs.  C. the average burnout time of a large number of bulbs has a distribution that is close to Normal.  D. None of the above.\n(c) A study of voting chose 663 registered voters at random shortly after an election. Of these, 72\\% said they had voted in the election. Election records show that only 56\\% of registered voters voted in the election. The boldface number is a [ANS] A. sampling distribution.  B. statistic.  C. parameter.  D. None of the above.",
         "answer_v2": [
             "C",
             "C",
@@ -2122,7 +2122,7 @@
                 "D"
             ]
         ],
-        "problem_v3": "For the following problems, select the best response.\n(a) A study of voting chose 663 registered voters at random shortly after an election. Of these, 72\\% said they had voted in the election. Election records show that only 56\\% of registered voters voted in the election. The boldface number is a [ANS] A. sampling distribution.  B. parameter.  C. statistic.  D. None of the above.\n(b) Annual returns on the more than 5000 common stocks available to investors vary a lot. In a recent year, the mean return was 8.3\\% and the standard deviation of return was 28.5\\%. The law of large numbers says that [ANS] A. you can get an average return higher than the mean 8.3\\% by investing in a large number of stocks.  B. if you invest in a large number of stocks chosen at random, your average return will have approximately a Normal distribution.  C. as you invest in more and more stocks chosen at random that year, your average return on these stocks gets ever closer to 8.3\\%.  D. None of the above.\n(c) The Bureau of Labor Statistics announces that last month it interviewed all members of the labor force in a sample of 60000 households; 4.9\\% of the people interviewed were unemployed. The boldface number is a [ANS] A. statistic.  B. parameter.  C. sampling distribution.  D. None of the above.",
+        "problem_v3": "For the following problems, select the best response.\n(a) A study of voting chose 663 registered voters at random shortly after an election. Of these, 72\\% said they had voted in the election. Election records show that only 56\\% of registered voters voted in the election. The boldface number is a [ANS] A. sampling distribution.  B. parameter.  C. statistic.  D. None of the above.\n(b) Annual returns on the more than 5000 common stocks available to investors vary a lot. In a recent year, the mean return was 8.3\\% and the standard deviation of return was 28.5\\%. The law of large numbers says that [ANS] A. you can get an average return higher than the mean 8.3\\% by investing in a large number of stocks.  B. if you invest in a large number of stocks chosen at random, your average return will have approximately a Normal distribution.  C. as you invest in more and more stocks chosen at random that year, your average return on these stocks gets ever closer to 8.3\\%.  D. None of the above.\n(c) The Bureau of Labor statistics announces that last month it interviewed all members of the labor force in a sample of 60000 households; 4.9\\% of the people interviewed were unemployed. The boldface number is a [ANS] A. statistic.  B. parameter.  C. sampling distribution.  D. None of the above.",
         "answer_v3": [
             "B",
             "C",
@@ -2155,13 +2155,13 @@
         ]
     },
     {
-        "id": "Statistics_0021",
-        "subject": "Statistics",
+        "id": "statistics_0021",
+        "subject": "statistics",
         "topic": "Sample survey methods",
         "subtopic": "Concepts",
         "level": "2",
         "keywords": [
-            "Statistics",
+            "statistics",
             "Sampling"
         ],
         "problem_v1": "A public opinion poll in Ohio wants to determine whether registered voters in the state approve of a measure to ban smoking in all public areas. They randomly select 50 voters from each county in the state and ask whether they approve or disapprove of the measure. This is an example of [ANS] A. SIMPLE RANDOM SAMPLE  B. STRATIFIED RANDOM SAMPLE At a party there are 30 students over age 21 and 20 students under age 21. You randomly select 3 of those over 21 and 2 of those under 21 to interview about attitudes toward alcohol. This is an example of [ANS] A. STRATIFIED RANDOM SAMPLE  B. SIMPLE RANDOM SAMPLE The Ministry of Health in the Canadian Province of Ontario conducted the Ontario Health Survey by conducting interviews with 30,000 randomly selected men and 35,000 randomly selected women who reside in Ontario. This is an example of [ANS] A. SIMPLE RANDOM SAMPLE  B. STRATIFIED RANDOM SAMPLE",
@@ -2241,8 +2241,8 @@
         ]
     },
     {
-        "id": "Statistics_0022",
-        "subject": "Statistics",
+        "id": "statistics_0022",
+        "subject": "statistics",
         "topic": "Sample survey methods",
         "subtopic": "Concepts",
         "level": "2",
@@ -2345,8 +2345,8 @@
         ]
     },
     {
-        "id": "Statistics_0023",
-        "subject": "Statistics",
+        "id": "statistics_0023",
+        "subject": "statistics",
         "topic": "Sample survey methods",
         "subtopic": "Concepts",
         "level": "3",
@@ -2445,13 +2445,13 @@
         ]
     },
     {
-        "id": "Statistics_0024",
-        "subject": "Statistics",
+        "id": "statistics_0024",
+        "subject": "statistics",
         "topic": "Sample survey methods",
         "subtopic": "Concepts",
         "level": "3",
         "keywords": [
-            "Statistics",
+            "statistics",
             "Sampling"
         ],
         "problem_v1": "A sample of 30 dentists from Seattle is taken to estimate the median income of all Seattle residents. Is this study [ANS] A. REPRESENTATIVE?  B. NON-REPRESENTATIVE? A simple random sample of men over age 18 is taken to estimate the mean weight of all adult males. Is this study [ANS] A. REPRESENTATIVE?  B. NON-REPRESENTATIVE? A telephone survey is conducted during the day in order to determine the chances of a certain candidate winning an election. Is this study [ANS] A. REPRESENTATIVE?  B. NON-REPRESENTATIVE? A simple random sample of 40 U.S. citizens is taken in order to estimate the mean cholesterol level of U.S. citizens. Is this study [ANS] A. REPRESENTATIVE?  B. NON-REPRESENTATIVE?",
@@ -2549,8 +2549,8 @@
         ]
     },
     {
-        "id": "Statistics_0025",
-        "subject": "Statistics",
+        "id": "statistics_0025",
+        "subject": "statistics",
         "topic": "Sample survey methods",
         "subtopic": "Concepts",
         "level": "1",
@@ -2678,8 +2678,8 @@
         ]
     },
     {
-        "id": "Statistics_0026",
-        "subject": "Statistics",
+        "id": "statistics_0026",
+        "subject": "statistics",
         "topic": "Sample survey methods",
         "subtopic": "Concepts",
         "level": "3",
@@ -2778,8 +2778,8 @@
         ]
     },
     {
-        "id": "Statistics_0027",
-        "subject": "Statistics",
+        "id": "statistics_0027",
+        "subject": "statistics",
         "topic": "Sample survey methods",
         "subtopic": "Concepts",
         "level": "4",
@@ -2949,8 +2949,8 @@
         ]
     },
     {
-        "id": "Statistics_0028",
-        "subject": "Statistics",
+        "id": "statistics_0028",
+        "subject": "statistics",
         "topic": "Sample survey methods",
         "subtopic": "Concepts",
         "level": "2",
@@ -2982,7 +2982,7 @@
                 "D"
             ]
         ],
-        "problem_v2": "Which of the following must be avoided in designing a questionnaire? [ANS] A. Open-ended questions  B. Demographic questions  C. Dichotomous questions  D. Leading questions\nWhich of the following is not an example of primary data? [ANS] A. Financial data tapes that contain data compiled from the New York Stock Exchange  B. Data published by the New York Stock Exchange  C. Data published by the U.S. Census Bureau  D. Data published by Statistics Canada",
+        "problem_v2": "Which of the following must be avoided in designing a questionnaire? [ANS] A. Open-ended questions  B. Demographic questions  C. Dichotomous questions  D. Leading questions\nWhich of the following is not an example of primary data? [ANS] A. Financial data tapes that contain data compiled from the New York Stock Exchange  B. Data published by the New York Stock Exchange  C. Data published by the U.S. Census Bureau  D. Data published by statistics Canada",
         "answer_v2": [
             "D",
             "A"
@@ -3030,8 +3030,8 @@
         ]
     },
     {
-        "id": "Statistics_0029",
-        "subject": "Statistics",
+        "id": "statistics_0029",
+        "subject": "statistics",
         "topic": "Sample survey methods",
         "subtopic": "Concepts",
         "level": "2",
@@ -3135,8 +3135,8 @@
         ]
     },
     {
-        "id": "Statistics_0030",
-        "subject": "Statistics",
+        "id": "statistics_0030",
+        "subject": "statistics",
         "topic": "Sample survey methods",
         "subtopic": "Sampling bias",
         "level": "3",
@@ -3185,8 +3185,8 @@
         ]
     },
     {
-        "id": "Statistics_0031",
-        "subject": "Statistics",
+        "id": "statistics_0031",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Classifying data",
         "level": "3",
@@ -3292,8 +3292,8 @@
         ]
     },
     {
-        "id": "Statistics_0032",
-        "subject": "Statistics",
+        "id": "statistics_0032",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Classifying data",
         "level": "1",
@@ -3397,8 +3397,8 @@
         ]
     },
     {
-        "id": "Statistics_0033",
-        "subject": "Statistics",
+        "id": "statistics_0033",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Classifying data",
         "level": "1",
@@ -3505,8 +3505,8 @@
         ]
     },
     {
-        "id": "Statistics_0034",
-        "subject": "Statistics",
+        "id": "statistics_0034",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Classifying data",
         "level": "1",
@@ -3619,13 +3619,13 @@
         ]
     },
     {
-        "id": "Statistics_0035",
-        "subject": "Statistics",
+        "id": "statistics_0035",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Classifying data",
         "level": "2",
         "keywords": [
-            "Statistics"
+            "statistics"
         ],
         "problem_v1": "Of the variables you have studied so far, which type yields nonnumerical data? [ANS] A. Quantitative continuous  B. Quantitative discrete  C. Qualitative  D. None of the above",
         "answer_v1": [
@@ -3674,8 +3674,8 @@
         ]
     },
     {
-        "id": "Statistics_0036",
-        "subject": "Statistics",
+        "id": "statistics_0036",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Classifying data",
         "level": "2",
@@ -3730,8 +3730,8 @@
         ]
     },
     {
-        "id": "Statistics_0037",
-        "subject": "Statistics",
+        "id": "statistics_0037",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Classifying data",
         "level": "3",
@@ -3742,7 +3742,7 @@
             "nominal",
             "ordinal"
         ],
-        "problem_v1": "Determine whether the following possible responses should be classified as interval, nominal or ordinal data.\n[ANS] 1. Amount of time you spend per week on your homework [ANS] 2. Lily's travel time from her dorm to the student union at the University of Virginia [ANS] 3. The status of your Statistics professor; Assistant Professor, Associate Professor, or Full Professor [ANS] 4. The availability of parking on campus; Insufficient, Moderate, or Abundant",
+        "problem_v1": "Determine whether the following possible responses should be classified as interval, nominal or ordinal data.\n[ANS] 1. Amount of time you spend per week on your homework [ANS] 2. Lily's travel time from her dorm to the student union at the University of Virginia [ANS] 3. The status of your statistics professor; Assistant Professor, Associate Professor, or Full Professor [ANS] 4. The availability of parking on campus; Insufficient, Moderate, or Abundant",
         "answer_v1": [
             "INTERVAL",
             "INTERVAL",
@@ -3849,8 +3849,8 @@
         ]
     },
     {
-        "id": "Statistics_0038",
-        "subject": "Statistics",
+        "id": "statistics_0038",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Classifying data",
         "level": "3",
@@ -3953,8 +3953,8 @@
         ]
     },
     {
-        "id": "Statistics_0039",
-        "subject": "Statistics",
+        "id": "statistics_0039",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Classifying data",
         "level": "3",
@@ -4035,8 +4035,8 @@
         ]
     },
     {
-        "id": "Statistics_0040",
-        "subject": "Statistics",
+        "id": "statistics_0040",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Classifying data",
         "level": "3",
@@ -4154,8 +4154,8 @@
         ]
     },
     {
-        "id": "Statistics_0041",
-        "subject": "Statistics",
+        "id": "statistics_0041",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Classifying data",
         "level": "3",
@@ -4234,8 +4234,8 @@
         ]
     },
     {
-        "id": "Statistics_0043",
-        "subject": "Statistics",
+        "id": "statistics_0043",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "2",
@@ -4303,8 +4303,8 @@
         ]
     },
     {
-        "id": "Statistics_0044",
-        "subject": "Statistics",
+        "id": "statistics_0044",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "3",
@@ -4392,8 +4392,8 @@
         ]
     },
     {
-        "id": "Statistics_0045",
-        "subject": "Statistics",
+        "id": "statistics_0045",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "3",
@@ -4436,8 +4436,8 @@
         ]
     },
     {
-        "id": "Statistics_0046",
-        "subject": "Statistics",
+        "id": "statistics_0046",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "2",
@@ -4492,8 +4492,8 @@
         ]
     },
     {
-        "id": "Statistics_0047",
-        "subject": "Statistics",
+        "id": "statistics_0047",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "3",
@@ -4591,8 +4591,8 @@
         ]
     },
     {
-        "id": "Statistics_0048",
-        "subject": "Statistics",
+        "id": "statistics_0048",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "2",
@@ -4655,8 +4655,8 @@
         ]
     },
     {
-        "id": "Statistics_0049",
-        "subject": "Statistics",
+        "id": "statistics_0049",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "2",
@@ -4698,8 +4698,8 @@
         ]
     },
     {
-        "id": "Statistics_0050",
-        "subject": "Statistics",
+        "id": "statistics_0050",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "2",
@@ -4813,8 +4813,8 @@
         ]
     },
     {
-        "id": "Statistics_0051",
-        "subject": "Statistics",
+        "id": "statistics_0051",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "4",
@@ -4883,8 +4883,8 @@
         ]
     },
     {
-        "id": "Statistics_0052",
-        "subject": "Statistics",
+        "id": "statistics_0052",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "3",
@@ -4925,8 +4925,8 @@
         ]
     },
     {
-        "id": "Statistics_0053",
-        "subject": "Statistics",
+        "id": "statistics_0053",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "2",
@@ -5032,8 +5032,8 @@
         ]
     },
     {
-        "id": "Statistics_0054",
-        "subject": "Statistics",
+        "id": "statistics_0054",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "2",
@@ -5083,8 +5083,8 @@
         ]
     },
     {
-        "id": "Statistics_0055",
-        "subject": "Statistics",
+        "id": "statistics_0055",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "2",
@@ -5156,8 +5156,8 @@
         ]
     },
     {
-        "id": "Statistics_0056",
-        "subject": "Statistics",
+        "id": "statistics_0056",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "2",
@@ -5237,8 +5237,8 @@
         ]
     },
     {
-        "id": "Statistics_0057",
-        "subject": "Statistics",
+        "id": "statistics_0057",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "1",
@@ -5287,8 +5287,8 @@
         ]
     },
     {
-        "id": "Statistics_0058",
-        "subject": "Statistics",
+        "id": "statistics_0058",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "2",
@@ -5352,8 +5352,8 @@
         ]
     },
     {
-        "id": "Statistics_0059",
-        "subject": "Statistics",
+        "id": "statistics_0059",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "2",
@@ -5408,13 +5408,13 @@
         ]
     },
     {
-        "id": "Statistics_0060",
-        "subject": "Statistics",
+        "id": "statistics_0060",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "2",
         "keywords": [
-            "Statistics",
+            "statistics",
             "Mean",
             "measures",
             "mode",
@@ -5470,8 +5470,8 @@
         ]
     },
     {
-        "id": "Statistics_0061",
-        "subject": "Statistics",
+        "id": "statistics_0061",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "4",
@@ -5550,8 +5550,8 @@
         ]
     },
     {
-        "id": "Statistics_0062",
-        "subject": "Statistics",
+        "id": "statistics_0062",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "3",
@@ -5643,13 +5643,13 @@
         ]
     },
     {
-        "id": "Statistics_0063",
-        "subject": "Statistics",
+        "id": "statistics_0063",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "3",
         "keywords": [
-            "Statistics",
+            "statistics",
             "Quartiles",
             "measures"
         ],
@@ -5748,8 +5748,8 @@
         ]
     },
     {
-        "id": "Statistics_0064",
-        "subject": "Statistics",
+        "id": "statistics_0064",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "3",
@@ -5828,8 +5828,8 @@
         ]
     },
     {
-        "id": "Statistics_0065",
-        "subject": "Statistics",
+        "id": "statistics_0065",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "2",
@@ -5877,15 +5877,15 @@
         ]
     },
     {
-        "id": "Statistics_0066",
-        "subject": "Statistics",
+        "id": "statistics_0066",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "2",
         "keywords": [
             "average"
         ],
-        "problem_v1": "Suppose there are three sections of a Statistics course taught by the same instructor. The class averages for each section on Test #1 are displayed in the table below.\n$\\begin{array}{ccc}\\hline & Class Size & Class Average \\\\ \\hline Section 01 & 25 & 85 \\\\ \\hline Section 02 & 20 & 76 \\\\ \\hline Section 03 & 21 & 76 \\\\ \\hline \\end{array}$ 76 What is the average test score for all sections combined? [ANS]",
+        "problem_v1": "Suppose there are three sections of a statistics course taught by the same instructor. The class averages for each section on Test #1 are displayed in the table below.\n$\\begin{array}{ccc}\\hline & Class Size & Class Average \\\\ \\hline Section 01 & 25 & 85 \\\\ \\hline Section 02 & 20 & 76 \\\\ \\hline Section 03 & 21 & 76 \\\\ \\hline \\end{array}$ 76 What is the average test score for all sections combined? [ANS]",
         "answer_v1": [
             "5241/66"
         ],
@@ -5895,7 +5895,7 @@
         "options_v1": [
             []
         ],
-        "problem_v2": "Suppose there are three sections of a Statistics course taught by the same instructor. The class averages for each section on Test #1 are displayed in the table below.\n$\\begin{array}{ccc}\\hline & Class Size & Class Average \\\\ \\hline Section 01 & 8 & 77 \\\\ \\hline Section 02 & 29 & 89 \\\\ \\hline Section 03 & 10 & 76 \\\\ \\hline \\end{array}$ 76 What is the average test score for all sections combined? [ANS]",
+        "problem_v2": "Suppose there are three sections of a statistics course taught by the same instructor. The class averages for each section on Test #1 are displayed in the table below.\n$\\begin{array}{ccc}\\hline & Class Size & Class Average \\\\ \\hline Section 01 & 8 & 77 \\\\ \\hline Section 02 & 29 & 89 \\\\ \\hline Section 03 & 10 & 76 \\\\ \\hline \\end{array}$ 76 What is the average test score for all sections combined? [ANS]",
         "answer_v2": [
             "3957/47"
         ],
@@ -5905,7 +5905,7 @@
         "options_v2": [
             []
         ],
-        "problem_v3": "Suppose there are three sections of a Statistics course taught by the same instructor. The class averages for each section on Test #1 are displayed in the table below.\n$\\begin{array}{ccc}\\hline & Class Size & Class Average \\\\ \\hline Section 01 & 14 & 81 \\\\ \\hline Section 02 & 21 & 74 \\\\ \\hline Section 03 & 13 & 77 \\\\ \\hline \\end{array}$ 77 What is the average test score for all sections combined? [ANS]",
+        "problem_v3": "Suppose there are three sections of a statistics course taught by the same instructor. The class averages for each section on Test #1 are displayed in the table below.\n$\\begin{array}{ccc}\\hline & Class Size & Class Average \\\\ \\hline Section 01 & 14 & 81 \\\\ \\hline Section 02 & 21 & 74 \\\\ \\hline Section 03 & 13 & 77 \\\\ \\hline \\end{array}$ 77 What is the average test score for all sections combined? [ANS]",
         "answer_v3": [
             "3689/48"
         ],
@@ -5917,8 +5917,8 @@
         ]
     },
     {
-        "id": "Statistics_0068",
-        "subject": "Statistics",
+        "id": "statistics_0068",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "2",
@@ -5966,8 +5966,8 @@
         ]
     },
     {
-        "id": "Statistics_0069",
-        "subject": "Statistics",
+        "id": "statistics_0069",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "2",
@@ -6042,8 +6042,8 @@
         ]
     },
     {
-        "id": "Statistics_0070",
-        "subject": "Statistics",
+        "id": "statistics_0070",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "4",
@@ -6089,8 +6089,8 @@
         ]
     },
     {
-        "id": "Statistics_0071",
-        "subject": "Statistics",
+        "id": "statistics_0071",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "2",
@@ -6150,8 +6150,8 @@
         ]
     },
     {
-        "id": "Statistics_0072",
-        "subject": "Statistics",
+        "id": "statistics_0072",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "4",
@@ -6251,8 +6251,8 @@
         ]
     },
     {
-        "id": "Statistics_0073",
-        "subject": "Statistics",
+        "id": "statistics_0073",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "2",
@@ -6419,8 +6419,8 @@
         ]
     },
     {
-        "id": "Statistics_0074",
-        "subject": "Statistics",
+        "id": "statistics_0074",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "2",
@@ -6469,8 +6469,8 @@
         ]
     },
     {
-        "id": "Statistics_0075",
-        "subject": "Statistics",
+        "id": "statistics_0075",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "3",
@@ -6627,8 +6627,8 @@
         ]
     },
     {
-        "id": "Statistics_0076",
-        "subject": "Statistics",
+        "id": "statistics_0076",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "3",
@@ -6637,7 +6637,7 @@
             "Relative",
             "Cumulative"
         ],
-        "problem_v1": "$\\begin{array}{cc}\\hline Grade on Statistics Exam & Frequency \\\\ \\hline Below 50 & 8 \\\\ \\hline 50-59 & 6 \\\\ \\hline 60-69 & 11 \\\\ \\hline 70-79 & 17 \\\\ \\hline 80-89 & 13 \\\\ \\hline 90-100 & 8 \\\\ \\hline \\end{array}$\nGiven the frequency table above, construct the following:\n(a) The relative frequency table that corresponds with the above table.\n$\\begin{array}{cc}\\hline Grade on Statistics Exam & Relative Frequency \\\\ \\hline Below 50 & [ANS] \\\\ \\hline 50-59 & [ANS] \\\\ \\hline 60-69 & [ANS] \\\\ \\hline 70-79 & [ANS] \\\\ \\hline 80-89 & [ANS] \\\\ \\hline 90-100 & [ANS] \\\\ \\hline \\end{array}$\n(b) The cumulative frequency table that corresponds with the above table.\n$\\begin{array}{cc}\\hline Grade on Statistics Exam & Cumulative Frequency \\\\ \\hline Below 50 & [ANS] \\\\ \\hline 50-59 & [ANS] \\\\ \\hline 60-69 & [ANS] \\\\ \\hline 70-79 & [ANS] \\\\ \\hline 80-89 & [ANS] \\\\ \\hline 90-100 & [ANS] \\\\ \\hline \\end{array}$",
+        "problem_v1": "$\\begin{array}{cc}\\hline Grade on statistics Exam & Frequency \\\\ \\hline Below 50 & 8 \\\\ \\hline 50-59 & 6 \\\\ \\hline 60-69 & 11 \\\\ \\hline 70-79 & 17 \\\\ \\hline 80-89 & 13 \\\\ \\hline 90-100 & 8 \\\\ \\hline \\end{array}$\nGiven the frequency table above, construct the following:\n(a) The relative frequency table that corresponds with the above table.\n$\\begin{array}{cc}\\hline Grade on statistics Exam & Relative Frequency \\\\ \\hline Below 50 & [ANS] \\\\ \\hline 50-59 & [ANS] \\\\ \\hline 60-69 & [ANS] \\\\ \\hline 70-79 & [ANS] \\\\ \\hline 80-89 & [ANS] \\\\ \\hline 90-100 & [ANS] \\\\ \\hline \\end{array}$\n(b) The cumulative frequency table that corresponds with the above table.\n$\\begin{array}{cc}\\hline Grade on statistics Exam & Cumulative Frequency \\\\ \\hline Below 50 & [ANS] \\\\ \\hline 50-59 & [ANS] \\\\ \\hline 60-69 & [ANS] \\\\ \\hline 70-79 & [ANS] \\\\ \\hline 80-89 & [ANS] \\\\ \\hline 90-100 & [ANS] \\\\ \\hline \\end{array}$",
         "answer_v1": [
             "0.126984126984127",
             "0.0952380952380952",
@@ -6680,7 +6680,7 @@
             [],
             []
         ],
-        "problem_v2": "$\\begin{array}{cc}\\hline Grade on Statistics Exam & Frequency \\\\ \\hline Below 50 & 1 \\\\ \\hline 50-59 & 10 \\\\ \\hline 60-69 & 6 \\\\ \\hline 70-79 & 13 \\\\ \\hline 80-89 & 20 \\\\ \\hline 90-100 & 8 \\\\ \\hline \\end{array}$\nGiven the frequency table above, construct the following:\n(a) The relative frequency table that corresponds with the above table.\n$\\begin{array}{cc}\\hline Grade on Statistics Exam & Relative Frequency \\\\ \\hline Below 50 & [ANS] \\\\ \\hline 50-59 & [ANS] \\\\ \\hline 60-69 & [ANS] \\\\ \\hline 70-79 & [ANS] \\\\ \\hline 80-89 & [ANS] \\\\ \\hline 90-100 & [ANS] \\\\ \\hline \\end{array}$\n(b) The cumulative frequency table that corresponds with the above table.\n$\\begin{array}{cc}\\hline Grade on Statistics Exam & Cumulative Frequency \\\\ \\hline Below 50 & [ANS] \\\\ \\hline 50-59 & [ANS] \\\\ \\hline 60-69 & [ANS] \\\\ \\hline 70-79 & [ANS] \\\\ \\hline 80-89 & [ANS] \\\\ \\hline 90-100 & [ANS] \\\\ \\hline \\end{array}$",
+        "problem_v2": "$\\begin{array}{cc}\\hline Grade on statistics Exam & Frequency \\\\ \\hline Below 50 & 1 \\\\ \\hline 50-59 & 10 \\\\ \\hline 60-69 & 6 \\\\ \\hline 70-79 & 13 \\\\ \\hline 80-89 & 20 \\\\ \\hline 90-100 & 8 \\\\ \\hline \\end{array}$\nGiven the frequency table above, construct the following:\n(a) The relative frequency table that corresponds with the above table.\n$\\begin{array}{cc}\\hline Grade on statistics Exam & Relative Frequency \\\\ \\hline Below 50 & [ANS] \\\\ \\hline 50-59 & [ANS] \\\\ \\hline 60-69 & [ANS] \\\\ \\hline 70-79 & [ANS] \\\\ \\hline 80-89 & [ANS] \\\\ \\hline 90-100 & [ANS] \\\\ \\hline \\end{array}$\n(b) The cumulative frequency table that corresponds with the above table.\n$\\begin{array}{cc}\\hline Grade on statistics Exam & Cumulative Frequency \\\\ \\hline Below 50 & [ANS] \\\\ \\hline 50-59 & [ANS] \\\\ \\hline 60-69 & [ANS] \\\\ \\hline 70-79 & [ANS] \\\\ \\hline 80-89 & [ANS] \\\\ \\hline 90-100 & [ANS] \\\\ \\hline \\end{array}$",
         "answer_v2": [
             "0.0172413793103448",
             "0.172413793103448",
@@ -6723,7 +6723,7 @@
             [],
             []
         ],
-        "problem_v3": "$\\begin{array}{cc}\\hline Grade on Statistics Exam & Frequency \\\\ \\hline Below 50 & 4 \\\\ \\hline 50-59 & 7 \\\\ \\hline 60-69 & 8 \\\\ \\hline 70-79 & 16 \\\\ \\hline 80-89 & 12 \\\\ \\hline 90-100 & 8 \\\\ \\hline \\end{array}$\nGiven the frequency table above, construct the following:\n(a) The relative frequency table that corresponds with the above table.\n$\\begin{array}{cc}\\hline Grade on Statistics Exam & Relative Frequency \\\\ \\hline Below 50 & [ANS] \\\\ \\hline 50-59 & [ANS] \\\\ \\hline 60-69 & [ANS] \\\\ \\hline 70-79 & [ANS] \\\\ \\hline 80-89 & [ANS] \\\\ \\hline 90-100 & [ANS] \\\\ \\hline \\end{array}$\n(b) The cumulative frequency table that corresponds with the above table.\n$\\begin{array}{cc}\\hline Grade on Statistics Exam & Cumulative Frequency \\\\ \\hline Below 50 & [ANS] \\\\ \\hline 50-59 & [ANS] \\\\ \\hline 60-69 & [ANS] \\\\ \\hline 70-79 & [ANS] \\\\ \\hline 80-89 & [ANS] \\\\ \\hline 90-100 & [ANS] \\\\ \\hline \\end{array}$",
+        "problem_v3": "$\\begin{array}{cc}\\hline Grade on statistics Exam & Frequency \\\\ \\hline Below 50 & 4 \\\\ \\hline 50-59 & 7 \\\\ \\hline 60-69 & 8 \\\\ \\hline 70-79 & 16 \\\\ \\hline 80-89 & 12 \\\\ \\hline 90-100 & 8 \\\\ \\hline \\end{array}$\nGiven the frequency table above, construct the following:\n(a) The relative frequency table that corresponds with the above table.\n$\\begin{array}{cc}\\hline Grade on statistics Exam & Relative Frequency \\\\ \\hline Below 50 & [ANS] \\\\ \\hline 50-59 & [ANS] \\\\ \\hline 60-69 & [ANS] \\\\ \\hline 70-79 & [ANS] \\\\ \\hline 80-89 & [ANS] \\\\ \\hline 90-100 & [ANS] \\\\ \\hline \\end{array}$\n(b) The cumulative frequency table that corresponds with the above table.\n$\\begin{array}{cc}\\hline Grade on statistics Exam & Cumulative Frequency \\\\ \\hline Below 50 & [ANS] \\\\ \\hline 50-59 & [ANS] \\\\ \\hline 60-69 & [ANS] \\\\ \\hline 70-79 & [ANS] \\\\ \\hline 80-89 & [ANS] \\\\ \\hline 90-100 & [ANS] \\\\ \\hline \\end{array}$",
         "answer_v3": [
             "0.0727272727272727",
             "0.127272727272727",
@@ -6768,8 +6768,8 @@
         ]
     },
     {
-        "id": "Statistics_0077",
-        "subject": "Statistics",
+        "id": "statistics_0077",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "2",
@@ -6873,8 +6873,8 @@
         ]
     },
     {
-        "id": "Statistics_0078",
-        "subject": "Statistics",
+        "id": "statistics_0078",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "2",
@@ -6916,8 +6916,8 @@
         ]
     },
     {
-        "id": "Statistics_0079",
-        "subject": "Statistics",
+        "id": "statistics_0079",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "4",
@@ -6959,8 +6959,8 @@
         ]
     },
     {
-        "id": "Statistics_0080",
-        "subject": "Statistics",
+        "id": "statistics_0080",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "2",
@@ -7065,8 +7065,8 @@
         ]
     },
     {
-        "id": "Statistics_0081",
-        "subject": "Statistics",
+        "id": "statistics_0081",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "2",
@@ -7118,8 +7118,8 @@
         ]
     },
     {
-        "id": "Statistics_0082",
-        "subject": "Statistics",
+        "id": "statistics_0082",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "2",
@@ -7179,8 +7179,8 @@
         ]
     },
     {
-        "id": "Statistics_0083",
-        "subject": "Statistics",
+        "id": "statistics_0083",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "2",
@@ -7242,8 +7242,8 @@
         ]
     },
     {
-        "id": "Statistics_0084",
-        "subject": "Statistics",
+        "id": "statistics_0084",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "2",
@@ -7295,8 +7295,8 @@
         ]
     },
     {
-        "id": "Statistics_0085",
-        "subject": "Statistics",
+        "id": "statistics_0085",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "3",
@@ -7387,8 +7387,8 @@
         ]
     },
     {
-        "id": "Statistics_0086",
-        "subject": "Statistics",
+        "id": "statistics_0086",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "2",
@@ -7440,8 +7440,8 @@
         ]
     },
     {
-        "id": "Statistics_0087",
-        "subject": "Statistics",
+        "id": "statistics_0087",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "3",
@@ -7491,8 +7491,8 @@
         ]
     },
     {
-        "id": "Statistics_0088",
-        "subject": "Statistics",
+        "id": "statistics_0088",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "2",
@@ -7544,8 +7544,8 @@
         ]
     },
     {
-        "id": "Statistics_0089",
-        "subject": "Statistics",
+        "id": "statistics_0089",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "2",
@@ -7606,8 +7606,8 @@
         ]
     },
     {
-        "id": "Statistics_0090",
-        "subject": "Statistics",
+        "id": "statistics_0090",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "2",
@@ -7656,8 +7656,8 @@
         ]
     },
     {
-        "id": "Statistics_0091",
-        "subject": "Statistics",
+        "id": "statistics_0091",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summary statistics",
         "level": "2",
@@ -7697,8 +7697,8 @@
         ]
     },
     {
-        "id": "Statistics_0092",
-        "subject": "Statistics",
+        "id": "statistics_0092",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Graphical representations",
         "level": "1",
@@ -7781,8 +7781,8 @@
         ]
     },
     {
-        "id": "Statistics_0093",
-        "subject": "Statistics",
+        "id": "statistics_0093",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Graphical representations",
         "level": "3",
@@ -7834,13 +7834,13 @@
         ]
     },
     {
-        "id": "Statistics_0094",
-        "subject": "Statistics",
+        "id": "statistics_0094",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Graphical representations",
         "level": "2",
         "keywords": [
-            "Statistics"
+            "statistics"
         ],
         "problem_v1": "What is the difference between a frequency histogram and a relative frequency histogram? [ANS] A. There is no difference between the two  B. A frequency histogram displays class frequencies on the horizontal axis while a relative-frequency histogram displays class relative frequencies on the horizontal axis  C. A frequency histogram displays class frequencies on the vertical axis while a relative-frequency historgram displays class relative frequencies on the vertical axis  D. None of the above",
         "answer_v1": [
@@ -7889,13 +7889,13 @@
         ]
     },
     {
-        "id": "Statistics_0095",
-        "subject": "Statistics",
+        "id": "statistics_0095",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Graphical representations",
         "level": "2",
         "keywords": [
-            "Statistics"
+            "statistics"
         ],
         "problem_v1": "Which of the following is useful for qualitative data? [ANS] A. Dot plot  B. Histogram  C. Bar graph  D. None of the above",
         "answer_v1": [
@@ -7944,8 +7944,8 @@
         ]
     },
     {
-        "id": "Statistics_0097",
-        "subject": "Statistics",
+        "id": "statistics_0097",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Graphical representations",
         "level": "1",
@@ -8001,8 +8001,8 @@
         ]
     },
     {
-        "id": "Statistics_0098",
-        "subject": "Statistics",
+        "id": "statistics_0098",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Graphical representations",
         "level": "2",
@@ -8097,8 +8097,8 @@
         ]
     },
     {
-        "id": "Statistics_0099",
-        "subject": "Statistics",
+        "id": "statistics_0099",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Graphical representations",
         "level": "2",
@@ -8178,8 +8178,8 @@
         ]
     },
     {
-        "id": "Statistics_0100",
-        "subject": "Statistics",
+        "id": "statistics_0100",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Graphical representations",
         "level": "3",
@@ -8262,8 +8262,8 @@
         ]
     },
     {
-        "id": "Statistics_0101",
-        "subject": "Statistics",
+        "id": "statistics_0101",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Graphical representations",
         "level": "3",
@@ -8345,8 +8345,8 @@
         ]
     },
     {
-        "id": "Statistics_0102",
-        "subject": "Statistics",
+        "id": "statistics_0102",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Description of distributions",
         "level": "3",
@@ -8506,13 +8506,13 @@
         ]
     },
     {
-        "id": "Statistics_0103",
-        "subject": "Statistics",
+        "id": "statistics_0103",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summarizing data in tables",
         "level": "2",
         "keywords": [
-            "Statistics"
+            "statistics"
         ],
         "problem_v1": "One study was performed in an attempt to determine the day of the week when road rage occurs most often. Complete the table below.\n$\\begin{array}{ccc}\\hline Day of the Week & Frequency & Relative Frequency \\\\ \\hline Sunday & 8 & [ANS] \\\\ \\hline Monday & 6 & [ANS] \\\\ \\hline Tuesday & 7 & [ANS] \\\\ \\hline Wednesday & [ANS] & 0.205882352941176 \\\\ \\hline Thursday & 11 & [ANS] \\\\ \\hline Friday & 16 & [ANS] \\\\ \\hline Saturday & 6 & [ANS] \\\\ \\hline total & 68 & 1 \\\\ \\hline \\end{array}$",
         "answer_v1": [
@@ -8600,8 +8600,8 @@
         ]
     },
     {
-        "id": "Statistics_0104",
-        "subject": "Statistics",
+        "id": "statistics_0104",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summarizing data in tables",
         "level": "2",
@@ -8656,8 +8656,8 @@
         ]
     },
     {
-        "id": "Statistics_0105",
-        "subject": "Statistics",
+        "id": "statistics_0105",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summarizing data in tables",
         "level": "2",
@@ -8738,8 +8738,8 @@
         ]
     },
     {
-        "id": "Statistics_0106",
-        "subject": "Statistics",
+        "id": "statistics_0106",
+        "subject": "statistics",
         "topic": "Exploratory data analysis/descriptive statistics",
         "subtopic": "Summarizing data in tables",
         "level": "2",
@@ -8819,8 +8819,8 @@
         ]
     },
     {
-        "id": "Statistics_0107",
-        "subject": "Statistics",
+        "id": "statistics_0107",
+        "subject": "statistics",
         "topic": "Sampling distributions",
         "subtopic": "Sample mean",
         "level": "3",
@@ -8862,8 +8862,8 @@
         ]
     },
     {
-        "id": "Statistics_0108",
-        "subject": "Statistics",
+        "id": "statistics_0108",
+        "subject": "statistics",
         "topic": "Sampling distributions",
         "subtopic": "Sample mean",
         "level": "1",
@@ -8968,8 +8968,8 @@
         ]
     },
     {
-        "id": "Statistics_0109",
-        "subject": "Statistics",
+        "id": "statistics_0109",
+        "subject": "statistics",
         "topic": "Sampling distributions",
         "subtopic": "Sample mean",
         "level": "3",
@@ -9047,8 +9047,8 @@
         ]
     },
     {
-        "id": "Statistics_0110",
-        "subject": "Statistics",
+        "id": "statistics_0110",
+        "subject": "statistics",
         "topic": "Sampling distributions",
         "subtopic": "Sample mean",
         "level": "1",
@@ -9099,8 +9099,8 @@
         ]
     },
     {
-        "id": "Statistics_0111",
-        "subject": "Statistics",
+        "id": "statistics_0111",
+        "subject": "statistics",
         "topic": "Sampling distributions",
         "subtopic": "Sample mean",
         "level": "1",
@@ -9163,8 +9163,8 @@
         ]
     },
     {
-        "id": "Statistics_0112",
-        "subject": "Statistics",
+        "id": "statistics_0112",
+        "subject": "statistics",
         "topic": "Sampling distributions",
         "subtopic": "Sample mean",
         "level": "3",
@@ -9233,8 +9233,8 @@
         ]
     },
     {
-        "id": "Statistics_0113",
-        "subject": "Statistics",
+        "id": "statistics_0113",
+        "subject": "statistics",
         "topic": "Sampling distributions",
         "subtopic": "Sample mean",
         "level": "1",
@@ -9290,14 +9290,14 @@
         ]
     },
     {
-        "id": "Statistics_0114",
-        "subject": "Statistics",
+        "id": "statistics_0114",
+        "subject": "statistics",
         "topic": "Sampling distributions",
         "subtopic": "Sample mean",
         "level": "2",
         "keywords": [
             "mean",
-            "Statistics",
+            "statistics",
             "Sample Mean"
         ],
         "problem_v1": "The following table provides the starting players of a basketball team and their heights\n$\\begin{array}{cccccc}\\hline Player & A & B & C & D & E \\\\ \\hline Height (in.) & 75 & 77 & 79 & 82 & 87 \\\\ \\hline \\end{array}$\na. The population mean height of the five players is [ANS]. b. Find the sample means for samples of size 2. A, B: $\\bar{x}$=[ANS]. A, C: $\\bar{x}$=[ANS]. A, D: $\\bar{x}$=[ANS]. A, E: $\\bar{x}$=[ANS]. B, C: $\\bar{x}$=[ANS]. B, D: $\\bar{x}$=[ANS]. B, E: $\\bar{x}$=[ANS]. C, D: $\\bar{x}$=[ANS]. C, E: $\\bar{x}$=[ANS]. D, E: $\\bar{x}$=[ANS]. c. Find the mean of all sample means from above: $\\bar{x}$=[ANS]. The answers from parts\n(a) and (c) [ANS] A. should always be equal  B. are not equal  C. if they are equal it is only a coincidence.",
@@ -9452,8 +9452,8 @@
         ]
     },
     {
-        "id": "Statistics_0115",
-        "subject": "Statistics",
+        "id": "statistics_0115",
+        "subject": "statistics",
         "topic": "Sampling distributions",
         "subtopic": "Sample mean",
         "level": "2",
@@ -9501,8 +9501,8 @@
         ]
     },
     {
-        "id": "Statistics_0116",
-        "subject": "Statistics",
+        "id": "statistics_0116",
+        "subject": "statistics",
         "topic": "Sampling distributions",
         "subtopic": "Sample mean",
         "level": "2",
@@ -9541,8 +9541,8 @@
         ]
     },
     {
-        "id": "Statistics_0117",
-        "subject": "Statistics",
+        "id": "statistics_0117",
+        "subject": "statistics",
         "topic": "Sampling distributions",
         "subtopic": "Sample mean",
         "level": "3",
@@ -9720,8 +9720,8 @@
         ]
     },
     {
-        "id": "Statistics_0118",
-        "subject": "Statistics",
+        "id": "statistics_0118",
+        "subject": "statistics",
         "topic": "Sampling distributions",
         "subtopic": "Sample mean",
         "level": "3",
@@ -9786,8 +9786,8 @@
         ]
     },
     {
-        "id": "Statistics_0119",
-        "subject": "Statistics",
+        "id": "statistics_0119",
+        "subject": "statistics",
         "topic": "Sampling distributions",
         "subtopic": "Sample mean",
         "level": "2",
@@ -9839,8 +9839,8 @@
         ]
     },
     {
-        "id": "Statistics_0120",
-        "subject": "Statistics",
+        "id": "statistics_0120",
+        "subject": "statistics",
         "topic": "Sampling distributions",
         "subtopic": "Sample proportion",
         "level": "3",
@@ -9879,8 +9879,8 @@
         ]
     },
     {
-        "id": "Statistics_0121",
-        "subject": "Statistics",
+        "id": "statistics_0121",
+        "subject": "statistics",
         "topic": "Sampling distributions",
         "subtopic": "Sample proportion",
         "level": "2",
@@ -9932,8 +9932,8 @@
         ]
     },
     {
-        "id": "Statistics_0122",
-        "subject": "Statistics",
+        "id": "statistics_0122",
+        "subject": "statistics",
         "topic": "Sampling distributions",
         "subtopic": "Sample proportion",
         "level": "3",
@@ -9994,8 +9994,8 @@
         ]
     },
     {
-        "id": "Statistics_0123",
-        "subject": "Statistics",
+        "id": "statistics_0123",
+        "subject": "statistics",
         "topic": "Sampling distributions",
         "subtopic": "General",
         "level": "1",
@@ -10100,8 +10100,8 @@
         ]
     },
     {
-        "id": "Statistics_0124",
-        "subject": "Statistics",
+        "id": "statistics_0124",
+        "subject": "statistics",
         "topic": "Sampling distributions",
         "subtopic": "General",
         "level": "3",
@@ -10182,8 +10182,8 @@
         ]
     },
     {
-        "id": "Statistics_0125",
-        "subject": "Statistics",
+        "id": "statistics_0125",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "Concepts",
         "level": "2",
@@ -10287,8 +10287,8 @@
         ]
     },
     {
-        "id": "Statistics_0126",
-        "subject": "Statistics",
+        "id": "statistics_0126",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "Concepts",
         "level": "1",
@@ -10375,8 +10375,8 @@
         ]
     },
     {
-        "id": "Statistics_0127",
-        "subject": "Statistics",
+        "id": "statistics_0127",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "Concepts",
         "level": "2",
@@ -10425,8 +10425,8 @@
         ]
     },
     {
-        "id": "Statistics_0128",
-        "subject": "Statistics",
+        "id": "statistics_0128",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "Concepts",
         "level": "2",
@@ -10512,13 +10512,13 @@
         ]
     },
     {
-        "id": "Statistics_0129",
-        "subject": "Statistics",
+        "id": "statistics_0129",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "Concepts",
         "level": "3",
         "keywords": [
-            "Statistics"
+            "statistics"
         ],
         "problem_v1": "A random sample of 20 U.S. weddings yielded the following data on wedding costs in dollars: 27576, 22442, 23615, 26675, 14044, 14928, 22017, 22221, 16118, 19824, 24584, 13092, 20215, 17818, 16900, 18039, 20419, 9029, 9743, 16815 a) Use the data to obtain a point estimate for the population mean wedding cost, $\\mu$, of all recent U.S. weddings. Note: The sum of the data is 376114. $\\bar{x}=$ [ANS]\nb) Is your point estimate in part (a) likely equal to $\\mu$ exactly (yes or no)? [ANS]",
         "answer_v1": [
@@ -10561,13 +10561,13 @@
         ]
     },
     {
-        "id": "Statistics_0130",
-        "subject": "Statistics",
+        "id": "statistics_0130",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "Concepts",
         "level": "2",
         "keywords": [
-            "Statistics"
+            "statistics"
         ],
         "problem_v1": "What is the relationship between confidence and precision? [ANS] A. For a fixed sample size, decreasing the confidence level has no effect on the precision  B. For a fixed sample size, decreasing the confidence level decreases the precision  C. For a fixed sample size, decreasing the confidence level increases the precision  D. None of the above",
         "answer_v1": [
@@ -10616,13 +10616,13 @@
         ]
     },
     {
-        "id": "Statistics_0131",
-        "subject": "Statistics",
+        "id": "statistics_0131",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "Concepts",
         "level": "3",
         "keywords": [
-            "Statistics"
+            "statistics"
         ],
         "problem_v1": "Suppose you calculate a 99\\% confidence interval of 14.51 to 21.16. Determine the margin of error. [ANS]",
         "answer_v1": [
@@ -10656,13 +10656,13 @@
         ]
     },
     {
-        "id": "Statistics_0132",
-        "subject": "Statistics",
+        "id": "statistics_0132",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "Concepts",
         "level": "3",
         "keywords": [
-            "Statistics"
+            "statistics"
         ],
         "problem_v1": "A confidence interval for a population mean has length 26. a) Determine the margin of error. [ANS]\nb) If the sample mean is 60.8, obtain the confidence interval. Confidence interval: ([ANS], [ANS]).",
         "answer_v1": [
@@ -10714,8 +10714,8 @@
         ]
     },
     {
-        "id": "Statistics_0133",
-        "subject": "Statistics",
+        "id": "statistics_0133",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "Concepts",
         "level": "2",
@@ -10774,8 +10774,8 @@
         ]
     },
     {
-        "id": "Statistics_0134",
-        "subject": "Statistics",
+        "id": "statistics_0134",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "Concepts",
         "level": "3",
@@ -10854,8 +10854,8 @@
         ]
     },
     {
-        "id": "Statistics_0135",
-        "subject": "Statistics",
+        "id": "statistics_0135",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "Concepts",
         "level": "3",
@@ -10958,8 +10958,8 @@
         ]
     },
     {
-        "id": "Statistics_0136",
-        "subject": "Statistics",
+        "id": "statistics_0136",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "Concepts",
         "level": "4",
@@ -11039,8 +11039,8 @@
         ]
     },
     {
-        "id": "Statistics_0137",
-        "subject": "Statistics",
+        "id": "statistics_0137",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - z",
         "level": "2",
@@ -11077,8 +11077,8 @@
         ]
     },
     {
-        "id": "Statistics_0138",
-        "subject": "Statistics",
+        "id": "statistics_0138",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - z",
         "level": "2",
@@ -11131,8 +11131,8 @@
         ]
     },
     {
-        "id": "Statistics_0139",
-        "subject": "Statistics",
+        "id": "statistics_0139",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - z",
         "level": "2",
@@ -11184,8 +11184,8 @@
         ]
     },
     {
-        "id": "Statistics_0140",
-        "subject": "Statistics",
+        "id": "statistics_0140",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - z",
         "level": "2",
@@ -11222,8 +11222,8 @@
         ]
     },
     {
-        "id": "Statistics_0141",
-        "subject": "Statistics",
+        "id": "statistics_0141",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - z",
         "level": "2",
@@ -11287,8 +11287,8 @@
         ]
     },
     {
-        "id": "Statistics_0142",
-        "subject": "Statistics",
+        "id": "statistics_0142",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - z",
         "level": "1",
@@ -11333,8 +11333,8 @@
         ]
     },
     {
-        "id": "Statistics_0143",
-        "subject": "Statistics",
+        "id": "statistics_0143",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - z",
         "level": "1",
@@ -11438,8 +11438,8 @@
         ]
     },
     {
-        "id": "Statistics_0144",
-        "subject": "Statistics",
+        "id": "statistics_0144",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - z",
         "level": "1",
@@ -11489,8 +11489,8 @@
         ]
     },
     {
-        "id": "Statistics_0145",
-        "subject": "Statistics",
+        "id": "statistics_0145",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - z",
         "level": "2",
@@ -11551,8 +11551,8 @@
         ]
     },
     {
-        "id": "Statistics_0146",
-        "subject": "Statistics",
+        "id": "statistics_0146",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - z",
         "level": "2",
@@ -11623,13 +11623,13 @@
         ]
     },
     {
-        "id": "Statistics_0147",
-        "subject": "Statistics",
+        "id": "statistics_0147",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - z",
         "level": "2",
         "keywords": [
-            "Statistics",
+            "statistics",
             "Confidence Intervals"
         ],
         "problem_v1": "a) For 30 randomly selected Rolling Stones concerts, the mean gross earnings is 2.76 million dollars. Assuming a population standard deviation gross earnings of 0.51 million dollars, obtain a 99\\% confidence interval for the mean gross earnings of all Rolling Stones concerts (in millions). Confidence interval: ([ANS], [ANS]).\nb) Which of the following is the correct interpretation for your answer in part (a)? [ANS] A. We can be 99\\% confident that the mean gross earnings of all Rolling Stones concerts lies in the interval  B. We can be 99\\% confident that the mean gross earnings for this sample of 30 Rolling Stones concerts lies in the interval  C. There is a 99\\% chance that the mean gross earnings of all Rolling Stones concerts lies in the interval  D. None of the above",
@@ -11697,13 +11697,13 @@
         ]
     },
     {
-        "id": "Statistics_0148",
-        "subject": "Statistics",
+        "id": "statistics_0148",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - z",
         "level": "2",
         "keywords": [
-            "Statistics"
+            "statistics"
         ],
         "problem_v1": "A random sample of 49 female cottonmouth snakes yielded a sample mean of 8.31 snakes per litter. Assume that $\\sigma=2.4$. a) Use the data provided above to obtain an approximate 95.44\\% confidence interval for the mean number of young per litter of all female cottonmouths. Confidence interval: ([ANS], [ANS]).\nb) How confident are you that your interval from part (a) contains the mean number of young per litter of all female cottonmouths? [ANS] \\%.",
         "answer_v1": [
@@ -11755,13 +11755,13 @@
         ]
     },
     {
-        "id": "Statistics_0149",
-        "subject": "Statistics",
+        "id": "statistics_0149",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - z",
         "level": "2",
         "keywords": [
-            "Statistics"
+            "statistics"
         ],
         "problem_v1": "Following are the number of miles traveled for 30 randomly selected business flights within the United States during 1999. 1707, 1435, 1486, 1656, 976, 1027, 1401, 1418, 1095, 1282, 1554, 925, 1316, 1180, 1129, 1197, 1316, 704, 755, 1129, 1316, 1758, 1231, 1010, 1248, 1928, 2098, 942, 534, 908 a) Use the data to obtain a point estimate for the population mean number of miles traveled per business flight, $\\mu$, in 1999. Note: The sum of the data is 37661. $\\bar{x}=$ [ANS]\nb) Determine a 95.44\\% confidence interval for the population mean number of miles traveled per business flight in 1999. Assume that $\\sigma=450$ miles. Confidence interval: ([ANS], [ANS]). c) Must the number of miles traveled per business flight in 1999 be exactly normally distributed for the confidence interval that you obtained in part (b) to be approximately correct? [ANS]\nd) What theorem helped you answer part (c)? [ANS]",
         "answer_v1": [
@@ -11831,13 +11831,13 @@
         ]
     },
     {
-        "id": "Statistics_0150",
-        "subject": "Statistics",
+        "id": "statistics_0150",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - z",
         "level": "2",
         "keywords": [
-            "Statistics",
+            "statistics",
             "Confidence Intervals"
         ],
         "problem_v1": "The ability of lizards to recognize their predators via tongue flicks can often mean life or death for lizards. Seventeen juvenile common lizards were exposed to the chemical cues of the viper snake. Their responses, in number of tongue flicks per 20 minutes, are presented below. 659, 540, 574, 642, 370, 387, 540, 540, 421, 489, 591, 353, 506, 455, 438, 455, 506 a) Preliminary data analyses indicate that you can reasonably apply the z-interval procedure. Find a 90\\% confidence interval for the mean number of tongue flicks per 20 minutes for all juvenile common lizards. Assume a population standard deviation of 190.0. Note: The sum of the data is 8466. Confidence interval: ([ANS], [ANS]).\nb) Which of the following is the correct interpretation for your answer in part (a)? [ANS] A. We can be 90\\% confident that the mean number of tongue flicks per 20 minutes for this sample of 17 lizards lies in the interval  B. There is a 90\\% chance that the mean number of tongue flicks per 20 minutes for all juvenile common lizards lies in the interval  C. We can be 90\\% confident that the mean number of tongue flicks per 20 minutes for all juvenile common lizards lies in the interval  D. None of the above",
@@ -11905,13 +11905,13 @@
         ]
     },
     {
-        "id": "Statistics_0151",
-        "subject": "Statistics",
+        "id": "statistics_0151",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - z",
         "level": "3",
         "keywords": [
-            "Statistics"
+            "statistics"
         ],
         "problem_v1": "In estimating the mean monthly fuel expenditure, $\\mu$, per household vehicle, the U.S. Energy Information Administration takes a sample of size 6377. Assuming that $\\sigma$=20.58 dollars, determine the margin of error in estimating $\\mu$ at the 95\\% level of confidence. [ANS] dollars.",
         "answer_v1": [
@@ -11945,8 +11945,8 @@
         ]
     },
     {
-        "id": "Statistics_0152",
-        "subject": "Statistics",
+        "id": "statistics_0152",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - z",
         "level": "3",
@@ -11994,8 +11994,8 @@
         ]
     },
     {
-        "id": "Statistics_0153",
-        "subject": "Statistics",
+        "id": "statistics_0153",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - z",
         "level": "3",
@@ -12080,8 +12080,8 @@
         ]
     },
     {
-        "id": "Statistics_0154",
-        "subject": "Statistics",
+        "id": "statistics_0154",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - z",
         "level": "3",
@@ -12140,8 +12140,8 @@
         ]
     },
     {
-        "id": "Statistics_0155",
-        "subject": "Statistics",
+        "id": "statistics_0155",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - z",
         "level": "3",
@@ -12181,8 +12181,8 @@
         ]
     },
     {
-        "id": "Statistics_0156",
-        "subject": "Statistics",
+        "id": "statistics_0156",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - z",
         "level": "3",
@@ -12249,8 +12249,8 @@
         ]
     },
     {
-        "id": "Statistics_0157",
-        "subject": "Statistics",
+        "id": "statistics_0157",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - z",
         "level": "3",
@@ -12308,8 +12308,8 @@
         ]
     },
     {
-        "id": "Statistics_0158",
-        "subject": "Statistics",
+        "id": "statistics_0158",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - z",
         "level": "3",
@@ -12349,8 +12349,8 @@
         ]
     },
     {
-        "id": "Statistics_0159",
-        "subject": "Statistics",
+        "id": "statistics_0159",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - z",
         "level": "3",
@@ -12390,8 +12390,8 @@
         ]
     },
     {
-        "id": "Statistics_0160",
-        "subject": "Statistics",
+        "id": "statistics_0160",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - z",
         "level": "3",
@@ -12431,8 +12431,8 @@
         ]
     },
     {
-        "id": "Statistics_0161",
-        "subject": "Statistics",
+        "id": "statistics_0161",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - z",
         "level": "3",
@@ -12472,8 +12472,8 @@
         ]
     },
     {
-        "id": "Statistics_0162",
-        "subject": "Statistics",
+        "id": "statistics_0162",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - z",
         "level": "3",
@@ -12513,8 +12513,8 @@
         ]
     },
     {
-        "id": "Statistics_0163",
-        "subject": "Statistics",
+        "id": "statistics_0163",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - z",
         "level": "3",
@@ -12554,8 +12554,8 @@
         ]
     },
     {
-        "id": "Statistics_0164",
-        "subject": "Statistics",
+        "id": "statistics_0164",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - z",
         "level": "3",
@@ -12595,8 +12595,8 @@
         ]
     },
     {
-        "id": "Statistics_0165",
-        "subject": "Statistics",
+        "id": "statistics_0165",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - z",
         "level": "3",
@@ -12636,8 +12636,8 @@
         ]
     },
     {
-        "id": "Statistics_0166",
-        "subject": "Statistics",
+        "id": "statistics_0166",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - t",
         "level": "2",
@@ -12692,8 +12692,8 @@
         ]
     },
     {
-        "id": "Statistics_0167",
-        "subject": "Statistics",
+        "id": "statistics_0167",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - t",
         "level": "2",
@@ -12818,8 +12818,8 @@
         ]
     },
     {
-        "id": "Statistics_0168",
-        "subject": "Statistics",
+        "id": "statistics_0168",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - t",
         "level": "2",
@@ -12869,8 +12869,8 @@
         ]
     },
     {
-        "id": "Statistics_0169",
-        "subject": "Statistics",
+        "id": "statistics_0169",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - t",
         "level": "3",
@@ -12921,13 +12921,13 @@
         ]
     },
     {
-        "id": "Statistics_0170",
-        "subject": "Statistics",
+        "id": "statistics_0170",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - t",
         "level": "2",
         "keywords": [
-            "Statistics",
+            "statistics",
             "Confidence Intervals",
             "small sample",
             "confidence interval",
@@ -12993,13 +12993,13 @@
         ]
     },
     {
-        "id": "Statistics_0171",
-        "subject": "Statistics",
+        "id": "statistics_0171",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - t",
         "level": "2",
         "keywords": [
-            "Statistics",
+            "statistics",
             "Confidence Intervals"
         ],
         "problem_v1": "Periodically, the county Water Department tests the drinking water of homeowners for contaminants such as lead and copper. The lead and copper levels in water specimens collected in 1998 for a sample of 10 residents of a subdevelopement of the county are shown below.\n$\\begin{array}{cc}\\hline lead (\\mug/L) & copper (mg/L) \\\\ \\hline 2 & 0.391 \\\\ \\hline 2.2 & 0.142 \\\\ \\hline 4.4 & 0.385 \\\\ \\hline 3.7 & 0.457 \\\\ \\hline 1.8 & 0.357 \\\\ \\hline 3 & 0.355 \\\\ \\hline 3.5 & 0.121 \\\\ \\hline 4.5 & 0.588 \\\\ \\hline 3.5 & 0.243 \\\\ \\hline 3.4 & 0.463 \\\\ \\hline \\end{array}$\n(a) $\\ $ Construct a $99$ \\% confidence interval for the mean lead level in water specimans of the subdevelopment. [ANS] $\\leq \\mu \\leq$ [ANS]\n(b) $\\ $ Construct a $99$ \\% confidence interval for the mean copper level in water specimans of the subdevelopment. [ANS] $\\leq \\mu \\leq$ [ANS]",
@@ -13061,8 +13061,8 @@
         ]
     },
     {
-        "id": "Statistics_0172",
-        "subject": "Statistics",
+        "id": "statistics_0172",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - t",
         "level": "2",
@@ -13166,8 +13166,8 @@
         ]
     },
     {
-        "id": "Statistics_0173",
-        "subject": "Statistics",
+        "id": "statistics_0173",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - t",
         "level": "3",
@@ -13216,8 +13216,8 @@
         ]
     },
     {
-        "id": "Statistics_0174",
-        "subject": "Statistics",
+        "id": "statistics_0174",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample mean - t",
         "level": "3",
@@ -13266,8 +13266,8 @@
         ]
     },
     {
-        "id": "Statistics_0175",
-        "subject": "Statistics",
+        "id": "statistics_0175",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample proportion",
         "level": "2",
@@ -13321,8 +13321,8 @@
         ]
     },
     {
-        "id": "Statistics_0176",
-        "subject": "Statistics",
+        "id": "statistics_0176",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample proportion",
         "level": "3",
@@ -13376,8 +13376,8 @@
         ]
     },
     {
-        "id": "Statistics_0177",
-        "subject": "Statistics",
+        "id": "statistics_0177",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample proportion",
         "level": "2",
@@ -13429,8 +13429,8 @@
         ]
     },
     {
-        "id": "Statistics_0178",
-        "subject": "Statistics",
+        "id": "statistics_0178",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample proportion",
         "level": "1",
@@ -13478,8 +13478,8 @@
         ]
     },
     {
-        "id": "Statistics_0179",
-        "subject": "Statistics",
+        "id": "statistics_0179",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample proportion",
         "level": "3",
@@ -13530,8 +13530,8 @@
         ]
     },
     {
-        "id": "Statistics_0180",
-        "subject": "Statistics",
+        "id": "statistics_0180",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample proportion",
         "level": "3",
@@ -13572,8 +13572,8 @@
         ]
     },
     {
-        "id": "Statistics_0181",
-        "subject": "Statistics",
+        "id": "statistics_0181",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample proportion",
         "level": "3",
@@ -13623,8 +13623,8 @@
         ]
     },
     {
-        "id": "Statistics_0182",
-        "subject": "Statistics",
+        "id": "statistics_0182",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample proportion",
         "level": "4",
@@ -13728,8 +13728,8 @@
         ]
     },
     {
-        "id": "Statistics_0183",
-        "subject": "Statistics",
+        "id": "statistics_0183",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample proportion",
         "level": "1",
@@ -13804,8 +13804,8 @@
         ]
     },
     {
-        "id": "Statistics_0184",
-        "subject": "Statistics",
+        "id": "statistics_0184",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample proportion",
         "level": "2",
@@ -13855,8 +13855,8 @@
         ]
     },
     {
-        "id": "Statistics_0185",
-        "subject": "Statistics",
+        "id": "statistics_0185",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample proportion",
         "level": "3",
@@ -13897,8 +13897,8 @@
         ]
     },
     {
-        "id": "Statistics_0186",
-        "subject": "Statistics",
+        "id": "statistics_0186",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample proportion",
         "level": "3",
@@ -13946,8 +13946,8 @@
         ]
     },
     {
-        "id": "Statistics_0187",
-        "subject": "Statistics",
+        "id": "statistics_0187",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample proportion",
         "level": "3",
@@ -13995,8 +13995,8 @@
         ]
     },
     {
-        "id": "Statistics_0188",
-        "subject": "Statistics",
+        "id": "statistics_0188",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample proportion",
         "level": "3",
@@ -14036,8 +14036,8 @@
         ]
     },
     {
-        "id": "Statistics_0189",
-        "subject": "Statistics",
+        "id": "statistics_0189",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample proportion",
         "level": "3",
@@ -14077,8 +14077,8 @@
         ]
     },
     {
-        "id": "Statistics_0190",
-        "subject": "Statistics",
+        "id": "statistics_0190",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample proportion",
         "level": "3",
@@ -14268,8 +14268,8 @@
         ]
     },
     {
-        "id": "Statistics_0191",
-        "subject": "Statistics",
+        "id": "statistics_0191",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample proportion",
         "level": "3",
@@ -14459,8 +14459,8 @@
         ]
     },
     {
-        "id": "Statistics_0192",
-        "subject": "Statistics",
+        "id": "statistics_0192",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample proportion",
         "level": "3",
@@ -14656,8 +14656,8 @@
         ]
     },
     {
-        "id": "Statistics_0193",
-        "subject": "Statistics",
+        "id": "statistics_0193",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample proportion",
         "level": "3",
@@ -14706,8 +14706,8 @@
         ]
     },
     {
-        "id": "Statistics_0194",
-        "subject": "Statistics",
+        "id": "statistics_0194",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample proportion",
         "level": "3",
@@ -14787,8 +14787,8 @@
         ]
     },
     {
-        "id": "Statistics_0195",
-        "subject": "Statistics",
+        "id": "statistics_0195",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample proportion",
         "level": "3",
@@ -14828,8 +14828,8 @@
         ]
     },
     {
-        "id": "Statistics_0196",
-        "subject": "Statistics",
+        "id": "statistics_0196",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "One sample proportion",
         "level": "3",
@@ -14869,8 +14869,8 @@
         ]
     },
     {
-        "id": "Statistics_0197",
-        "subject": "Statistics",
+        "id": "statistics_0197",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "Two sample proportion",
         "level": "2",
@@ -14912,8 +14912,8 @@
         ]
     },
     {
-        "id": "Statistics_0198",
-        "subject": "Statistics",
+        "id": "statistics_0198",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "Two sample proportion",
         "level": "3",
@@ -14953,8 +14953,8 @@
         ]
     },
     {
-        "id": "Statistics_0199",
-        "subject": "Statistics",
+        "id": "statistics_0199",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "Paired samples",
         "level": "4",
@@ -14994,8 +14994,8 @@
         ]
     },
     {
-        "id": "Statistics_0200",
-        "subject": "Statistics",
+        "id": "statistics_0200",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "Independent samples - z",
         "level": "2",
@@ -15036,8 +15036,8 @@
         ]
     },
     {
-        "id": "Statistics_0201",
-        "subject": "Statistics",
+        "id": "statistics_0201",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "Independent samples - z",
         "level": "3",
@@ -15077,8 +15077,8 @@
         ]
     },
     {
-        "id": "Statistics_0202",
-        "subject": "Statistics",
+        "id": "statistics_0202",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "Independent samples - z",
         "level": "4",
@@ -15118,8 +15118,8 @@
         ]
     },
     {
-        "id": "Statistics_0203",
-        "subject": "Statistics",
+        "id": "statistics_0203",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "Independent samples - z",
         "level": "4",
@@ -15168,8 +15168,8 @@
         ]
     },
     {
-        "id": "Statistics_0204",
-        "subject": "Statistics",
+        "id": "statistics_0204",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "Independent samples - t",
         "level": "4",
@@ -15247,8 +15247,8 @@
         ]
     },
     {
-        "id": "Statistics_0205",
-        "subject": "Statistics",
+        "id": "statistics_0205",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "Variance",
         "level": "2",
@@ -15293,8 +15293,8 @@
         ]
     },
     {
-        "id": "Statistics_0206",
-        "subject": "Statistics",
+        "id": "statistics_0206",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "Variance",
         "level": "2",
@@ -15347,8 +15347,8 @@
         ]
     },
     {
-        "id": "Statistics_0207",
-        "subject": "Statistics",
+        "id": "statistics_0207",
+        "subject": "statistics",
         "topic": "Confidence intervals",
         "subtopic": "Variance",
         "level": "3",
@@ -15397,8 +15397,8 @@
         ]
     },
     {
-        "id": "Statistics_0208",
-        "subject": "Statistics",
+        "id": "statistics_0208",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Concepts",
         "level": "1",
@@ -15438,8 +15438,8 @@
         ]
     },
     {
-        "id": "Statistics_0209",
-        "subject": "Statistics",
+        "id": "statistics_0209",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Concepts",
         "level": "1",
@@ -15542,8 +15542,8 @@
         ]
     },
     {
-        "id": "Statistics_0210",
-        "subject": "Statistics",
+        "id": "statistics_0210",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Concepts",
         "level": "1",
@@ -15598,8 +15598,8 @@
         ]
     },
     {
-        "id": "Statistics_0211",
-        "subject": "Statistics",
+        "id": "statistics_0211",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Concepts",
         "level": "1",
@@ -15639,8 +15639,8 @@
         ]
     },
     {
-        "id": "Statistics_0212",
-        "subject": "Statistics",
+        "id": "statistics_0212",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Concepts",
         "level": "2",
@@ -15743,8 +15743,8 @@
         ]
     },
     {
-        "id": "Statistics_0213",
-        "subject": "Statistics",
+        "id": "statistics_0213",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Concepts",
         "level": "2",
@@ -15847,8 +15847,8 @@
         ]
     },
     {
-        "id": "Statistics_0214",
-        "subject": "Statistics",
+        "id": "statistics_0214",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Concepts",
         "level": "2",
@@ -15952,8 +15952,8 @@
         ]
     },
     {
-        "id": "Statistics_0215",
-        "subject": "Statistics",
+        "id": "statistics_0215",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Concepts",
         "level": "2",
@@ -16075,8 +16075,8 @@
         ]
     },
     {
-        "id": "Statistics_0216",
-        "subject": "Statistics",
+        "id": "statistics_0216",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Concepts",
         "level": "1",
@@ -16150,8 +16150,8 @@
         ]
     },
     {
-        "id": "Statistics_0218",
-        "subject": "Statistics",
+        "id": "statistics_0218",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Concepts",
         "level": "3",
@@ -16256,8 +16256,8 @@
         ]
     },
     {
-        "id": "Statistics_0219",
-        "subject": "Statistics",
+        "id": "statistics_0219",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Concepts",
         "level": "1",
@@ -16342,13 +16342,13 @@
         ]
     },
     {
-        "id": "Statistics_0220",
-        "subject": "Statistics",
+        "id": "statistics_0220",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Concepts",
         "level": "1",
         "keywords": [
-            "Statistics"
+            "statistics"
         ],
         "problem_v1": "Suppose that you have obtained data by taking a random sample from a population. Before performing a statistical inference, what should you do? [ANS] A. Make sure the sample size is greater than 30, otherwise throw the data out and start over  B. Throw out any potential outliers because it's easier to examine data with no outliers  C. Graph the data to make sure that none of the conditions required for the contemplated statistical procedure have been violated  D. None of the above",
         "answer_v1": [
@@ -16397,13 +16397,13 @@
         ]
     },
     {
-        "id": "Statistics_0221",
-        "subject": "Statistics",
+        "id": "statistics_0221",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Concepts",
         "level": "3",
         "keywords": [
-            "Statistics"
+            "statistics"
         ],
         "problem_v1": "Suppose we were comparing the mean age of buyers of new domestic cars to the mean age of buyers of new imported cars.\nWhat is the variable under consideration? [ANS] A. buyers of imported cars  B. buyers of domestic cars  C. age of buyers  D. None of the above\nWhat are the two populations under consideration? [ANS] A. buyers of new domestic cars and buyers of new imported cars  B. cars and buyers  C. age of buyers of new domestic cars and age of buyers of new imported cars  D. None of the above",
         "answer_v1": [
@@ -16476,13 +16476,13 @@
         ]
     },
     {
-        "id": "Statistics_0222",
-        "subject": "Statistics",
+        "id": "statistics_0222",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Concepts",
         "level": "2",
         "keywords": [
-            "Statistics",
+            "statistics",
             "Hypothesis Testing"
         ],
         "problem_v1": "Why is $s_p$ called the pooled sample standard deviation? [ANS] A. Because it is obtained by combining information on variation from two distinct population standard deviations to get a single new population standard deviation  B. Because it is obtained by combining information on variation from the individual samples into one estimate of the common sample standard deviation  C. Because it is obtained by combining information on variation from the individual samples into one estimate of the common population standard deviation  D. None of the above",
@@ -16532,8 +16532,8 @@
         ]
     },
     {
-        "id": "Statistics_0224",
-        "subject": "Statistics",
+        "id": "statistics_0224",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Concepts",
         "level": "3",
@@ -16589,8 +16589,8 @@
         ]
     },
     {
-        "id": "Statistics_0226",
-        "subject": "Statistics",
+        "id": "statistics_0226",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Concepts",
         "level": "3",
@@ -16750,8 +16750,8 @@
         ]
     },
     {
-        "id": "Statistics_0227",
-        "subject": "Statistics",
+        "id": "statistics_0227",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Concepts",
         "level": "3",
@@ -16818,8 +16818,8 @@
         ]
     },
     {
-        "id": "Statistics_0228",
-        "subject": "Statistics",
+        "id": "statistics_0228",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Concepts",
         "level": "2",
@@ -16899,8 +16899,8 @@
         ]
     },
     {
-        "id": "Statistics_0229",
-        "subject": "Statistics",
+        "id": "statistics_0229",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample mean - z",
         "level": "3",
@@ -17019,8 +17019,8 @@
         ]
     },
     {
-        "id": "Statistics_0230",
-        "subject": "Statistics",
+        "id": "statistics_0230",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample mean - z",
         "level": "2",
@@ -17080,8 +17080,8 @@
         ]
     },
     {
-        "id": "Statistics_0231",
-        "subject": "Statistics",
+        "id": "statistics_0231",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample mean - z",
         "level": "2",
@@ -17150,8 +17150,8 @@
         ]
     },
     {
-        "id": "Statistics_0232",
-        "subject": "Statistics",
+        "id": "statistics_0232",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample mean - z",
         "level": "2",
@@ -17228,8 +17228,8 @@
         ]
     },
     {
-        "id": "Statistics_0233",
-        "subject": "Statistics",
+        "id": "statistics_0233",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample mean - z",
         "level": "2",
@@ -17296,8 +17296,8 @@
         ]
     },
     {
-        "id": "Statistics_0234",
-        "subject": "Statistics",
+        "id": "statistics_0234",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample mean - z",
         "level": "2",
@@ -17364,8 +17364,8 @@
         ]
     },
     {
-        "id": "Statistics_0235",
-        "subject": "Statistics",
+        "id": "statistics_0235",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample mean - z",
         "level": "3",
@@ -17472,8 +17472,8 @@
         ]
     },
     {
-        "id": "Statistics_0236",
-        "subject": "Statistics",
+        "id": "statistics_0236",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample mean - z",
         "level": "1",
@@ -17514,8 +17514,8 @@
         ]
     },
     {
-        "id": "Statistics_0237",
-        "subject": "Statistics",
+        "id": "statistics_0237",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample mean - z",
         "level": "3",
@@ -17564,8 +17564,8 @@
         ]
     },
     {
-        "id": "Statistics_0238",
-        "subject": "Statistics",
+        "id": "statistics_0238",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample mean - z",
         "level": "3",
@@ -17632,8 +17632,8 @@
         ]
     },
     {
-        "id": "Statistics_0239",
-        "subject": "Statistics",
+        "id": "statistics_0239",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample mean - z",
         "level": "2",
@@ -17715,8 +17715,8 @@
         ]
     },
     {
-        "id": "Statistics_0240",
-        "subject": "Statistics",
+        "id": "statistics_0240",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample mean - z",
         "level": "3",
@@ -17798,8 +17798,8 @@
         ]
     },
     {
-        "id": "Statistics_0241",
-        "subject": "Statistics",
+        "id": "statistics_0241",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample mean - z",
         "level": "3",
@@ -17881,8 +17881,8 @@
         ]
     },
     {
-        "id": "Statistics_0242",
-        "subject": "Statistics",
+        "id": "statistics_0242",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample mean - z",
         "level": "3",
@@ -17922,8 +17922,8 @@
         ]
     },
     {
-        "id": "Statistics_0243",
-        "subject": "Statistics",
+        "id": "statistics_0243",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample mean - z",
         "level": "3",
@@ -17963,8 +17963,8 @@
         ]
     },
     {
-        "id": "Statistics_0244",
-        "subject": "Statistics",
+        "id": "statistics_0244",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample mean - z",
         "level": "3",
@@ -18004,8 +18004,8 @@
         ]
     },
     {
-        "id": "Statistics_0245",
-        "subject": "Statistics",
+        "id": "statistics_0245",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample mean - z",
         "level": "2",
@@ -18087,8 +18087,8 @@
         ]
     },
     {
-        "id": "Statistics_0246",
-        "subject": "Statistics",
+        "id": "statistics_0246",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample mean - z",
         "level": "3",
@@ -18128,8 +18128,8 @@
         ]
     },
     {
-        "id": "Statistics_0247",
-        "subject": "Statistics",
+        "id": "statistics_0247",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample mean - t",
         "level": "2",
@@ -18206,8 +18206,8 @@
         ]
     },
     {
-        "id": "Statistics_0248",
-        "subject": "Statistics",
+        "id": "statistics_0248",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample mean - t",
         "level": "2",
@@ -18295,8 +18295,8 @@
         ]
     },
     {
-        "id": "Statistics_0251",
-        "subject": "Statistics",
+        "id": "statistics_0251",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample mean - t",
         "level": "2",
@@ -18367,8 +18367,8 @@
         ]
     },
     {
-        "id": "Statistics_0253",
-        "subject": "Statistics",
+        "id": "statistics_0253",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample mean - t",
         "level": "3",
@@ -18428,13 +18428,13 @@
         ]
     },
     {
-        "id": "Statistics_0254",
-        "subject": "Statistics",
+        "id": "statistics_0254",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample mean - t",
         "level": "2",
         "keywords": [
-            "Statistics",
+            "statistics",
             "Hypothesis Testing",
             "small sample"
         ],
@@ -18506,8 +18506,8 @@
         ]
     },
     {
-        "id": "Statistics_0258",
-        "subject": "Statistics",
+        "id": "statistics_0258",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample mean - t",
         "level": "3",
@@ -18612,8 +18612,8 @@
         ]
     },
     {
-        "id": "Statistics_0259",
-        "subject": "Statistics",
+        "id": "statistics_0259",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample mean - t",
         "level": "2",
@@ -18695,8 +18695,8 @@
         ]
     },
     {
-        "id": "Statistics_0260",
-        "subject": "Statistics",
+        "id": "statistics_0260",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample mean - t",
         "level": "2",
@@ -18736,8 +18736,8 @@
         ]
     },
     {
-        "id": "Statistics_0261",
-        "subject": "Statistics",
+        "id": "statistics_0261",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample mean - t",
         "level": "4",
@@ -18819,8 +18819,8 @@
         ]
     },
     {
-        "id": "Statistics_0262",
-        "subject": "Statistics",
+        "id": "statistics_0262",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample proportion",
         "level": "2",
@@ -18889,8 +18889,8 @@
         ]
     },
     {
-        "id": "Statistics_0263",
-        "subject": "Statistics",
+        "id": "statistics_0263",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample proportion",
         "level": "2",
@@ -19041,8 +19041,8 @@
         ]
     },
     {
-        "id": "Statistics_0264",
-        "subject": "Statistics",
+        "id": "statistics_0264",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample proportion",
         "level": "3",
@@ -19083,8 +19083,8 @@
         ]
     },
     {
-        "id": "Statistics_0265",
-        "subject": "Statistics",
+        "id": "statistics_0265",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample proportion",
         "level": "2",
@@ -19148,8 +19148,8 @@
         ]
     },
     {
-        "id": "Statistics_0267",
-        "subject": "Statistics",
+        "id": "statistics_0267",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample proportion",
         "level": "3",
@@ -19199,8 +19199,8 @@
         ]
     },
     {
-        "id": "Statistics_0268",
-        "subject": "Statistics",
+        "id": "statistics_0268",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample proportion",
         "level": "3",
@@ -19250,8 +19250,8 @@
         ]
     },
     {
-        "id": "Statistics_0269",
-        "subject": "Statistics",
+        "id": "statistics_0269",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample proportion",
         "level": "2",
@@ -19328,8 +19328,8 @@
         ]
     },
     {
-        "id": "Statistics_0270",
-        "subject": "Statistics",
+        "id": "statistics_0270",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample proportion",
         "level": "3",
@@ -19486,8 +19486,8 @@
         ]
     },
     {
-        "id": "Statistics_0271",
-        "subject": "Statistics",
+        "id": "statistics_0271",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample proportion",
         "level": "4",
@@ -19569,8 +19569,8 @@
         ]
     },
     {
-        "id": "Statistics_0272",
-        "subject": "Statistics",
+        "id": "statistics_0272",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Two sample proportion",
         "level": "2",
@@ -19646,8 +19646,8 @@
         ]
     },
     {
-        "id": "Statistics_0273",
-        "subject": "Statistics",
+        "id": "statistics_0273",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Two sample proportion",
         "level": "2",
@@ -19716,8 +19716,8 @@
         ]
     },
     {
-        "id": "Statistics_0274",
-        "subject": "Statistics",
+        "id": "statistics_0274",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Two sample proportion",
         "level": "3",
@@ -19816,8 +19816,8 @@
         ]
     },
     {
-        "id": "Statistics_0277",
-        "subject": "Statistics",
+        "id": "statistics_0277",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Two sample proportion",
         "level": "4",
@@ -19899,8 +19899,8 @@
         ]
     },
     {
-        "id": "Statistics_0278",
-        "subject": "Statistics",
+        "id": "statistics_0278",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Paired samples",
         "level": "2",
@@ -20014,8 +20014,8 @@
         ]
     },
     {
-        "id": "Statistics_0279",
-        "subject": "Statistics",
+        "id": "statistics_0279",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Paired samples",
         "level": "2",
@@ -20083,13 +20083,13 @@
         ]
     },
     {
-        "id": "Statistics_0280",
-        "subject": "Statistics",
+        "id": "statistics_0280",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Paired samples",
         "level": "3",
         "keywords": [
-            "Statistics"
+            "statistics"
         ],
         "problem_v1": "Suppose you want to use a paired sample to compare the mean TV viewing times of married men and married women.\nWhat is the variable under consideration? [ANS] A. marital status  B. mean TV viewing time  C. TV viewing time  D. None of the above\nWhat are the two populations under consideration? [ANS] A. married men and married women  B. men and women  C. married people and single people  D. None of the above\nWhat are the pairs? [ANS] A. married couples  B. men and women  C. None of the above\nWhat is the paired-difference variable? [ANS] A. the difference between the TV viewing times of a married couple  B. the difference between the TV viewing times of men and women  C. None of the above",
         "answer_v1": [
@@ -20204,8 +20204,8 @@
         ]
     },
     {
-        "id": "Statistics_0281",
-        "subject": "Statistics",
+        "id": "statistics_0281",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Paired samples",
         "level": "3",
@@ -20272,8 +20272,8 @@
         ]
     },
     {
-        "id": "Statistics_0284",
-        "subject": "Statistics",
+        "id": "statistics_0284",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Paired samples",
         "level": "3",
@@ -20331,13 +20331,13 @@
         ]
     },
     {
-        "id": "Statistics_0285",
-        "subject": "Statistics",
+        "id": "statistics_0285",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Paired samples",
         "level": "3",
         "keywords": [
-            "\"Statistics\"",
+            "\"statistics\"",
             "\"Statistical inference\"",
             "\"hypothesis testing\"",
             "\"parameter identification\"",
@@ -20401,8 +20401,8 @@
         ]
     },
     {
-        "id": "Statistics_0286",
-        "subject": "Statistics",
+        "id": "statistics_0286",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Paired samples",
         "level": "3",
@@ -20482,8 +20482,8 @@
         ]
     },
     {
-        "id": "Statistics_0287",
-        "subject": "Statistics",
+        "id": "statistics_0287",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Paired samples",
         "level": "4",
@@ -20565,8 +20565,8 @@
         ]
     },
     {
-        "id": "Statistics_0288",
-        "subject": "Statistics",
+        "id": "statistics_0288",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Independent samples - z",
         "level": "2",
@@ -20661,8 +20661,8 @@
         ]
     },
     {
-        "id": "Statistics_0289",
-        "subject": "Statistics",
+        "id": "statistics_0289",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Independent samples - t",
         "level": "2",
@@ -20731,8 +20731,8 @@
         ]
     },
     {
-        "id": "Statistics_0290",
-        "subject": "Statistics",
+        "id": "statistics_0290",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Independent samples - t",
         "level": "3",
@@ -20819,8 +20819,8 @@
         ]
     },
     {
-        "id": "Statistics_0291",
-        "subject": "Statistics",
+        "id": "statistics_0291",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Independent samples - t",
         "level": "2",
@@ -20889,8 +20889,8 @@
         ]
     },
     {
-        "id": "Statistics_0292",
-        "subject": "Statistics",
+        "id": "statistics_0292",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Independent samples - t",
         "level": "3",
@@ -20974,8 +20974,8 @@
         ]
     },
     {
-        "id": "Statistics_0293",
-        "subject": "Statistics",
+        "id": "statistics_0293",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Independent samples - t",
         "level": "3",
@@ -21053,8 +21053,8 @@
         ]
     },
     {
-        "id": "Statistics_0296",
-        "subject": "Statistics",
+        "id": "statistics_0296",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Independent samples - t",
         "level": "3",
@@ -21112,8 +21112,8 @@
         ]
     },
     {
-        "id": "Statistics_0297",
-        "subject": "Statistics",
+        "id": "statistics_0297",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Independent samples - t",
         "level": "3",
@@ -21171,8 +21171,8 @@
         ]
     },
     {
-        "id": "Statistics_0298",
-        "subject": "Statistics",
+        "id": "statistics_0298",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Independent samples - t",
         "level": "3",
@@ -21252,8 +21252,8 @@
         ]
     },
     {
-        "id": "Statistics_0299",
-        "subject": "Statistics",
+        "id": "statistics_0299",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Independent samples - t",
         "level": "3",
@@ -21357,8 +21357,8 @@
         ]
     },
     {
-        "id": "Statistics_0300",
-        "subject": "Statistics",
+        "id": "statistics_0300",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Independent samples - t",
         "level": "3",
@@ -21438,8 +21438,8 @@
         ]
     },
     {
-        "id": "Statistics_0301",
-        "subject": "Statistics",
+        "id": "statistics_0301",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Independent samples - t",
         "level": "4",
@@ -21521,8 +21521,8 @@
         ]
     },
     {
-        "id": "Statistics_0302",
-        "subject": "Statistics",
+        "id": "statistics_0302",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Independent samples - t",
         "level": "4",
@@ -21604,8 +21604,8 @@
         ]
     },
     {
-        "id": "Statistics_0303",
-        "subject": "Statistics",
+        "id": "statistics_0303",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Type I/type II errors and power",
         "level": "1",
@@ -21645,13 +21645,13 @@
         ]
     },
     {
-        "id": "Statistics_0304",
-        "subject": "Statistics",
+        "id": "statistics_0304",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Type I/type II errors and power",
         "level": "1",
         "keywords": [
-            "Statistics",
+            "statistics",
             "Hypothesis Testing"
         ],
         "problem_v1": "Type I error is: [ANS] A. Deciding the null hypothesis is false when it is true  B. Deciding the alternative hypothesis is true when it is true  C. Deciding the null hypothesis is true when it is false  D. Deciding the alternative hypothesis is true when it is false  E. All of the above  F. None of the above\nType II error is: [ANS] A. Deciding the null hypothesis is true when it is false  B. Deciding the alternative hypothesis is true when it is true  C. Deciding the alternative hypothesis is false when it is true  D. Deciding the null hypothesis is false when it is true  E. All of the above  F. None of the above",
@@ -21737,13 +21737,13 @@
         ]
     },
     {
-        "id": "Statistics_0305",
-        "subject": "Statistics",
+        "id": "statistics_0305",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Type I/type II errors and power",
         "level": "2",
         "keywords": [
-            "Statistics",
+            "statistics",
             "Hypothesis Testing"
         ],
         "problem_v1": "Consider a hypothesis test to decide whether the mean annual consumption of beer in the nation's capital is less than the national mean. Answer the following questions. a. \"The mean annual consumption of beer in the nation's captial is not less than the national mean but the result of the sampling leads to the conclusion that the mean annual consumption of beer in the nation's capital is less than the national mean\" is a [ANS] A. Type I error  B. Correct decision  C. Type II error\nb. \"The mean annual consumption of beer in the nation's captial is not less than the national mean and the result of the sampling does not lead to the conclusion that the mean annual consumption of beer in the nation's capital is less than the national mean\" is a [ANS] A. Type I error  B. Type II error  C. Correct decision\nc. \"The mean annual consumption of beer in the nation's captial is less than the national mean and the result of the sampling leads to the conclusion that the mean annul consumption of beer in the nation's capital is less than the national mean\" is a [ANS] A. Correct decision  B. Type II error  C. Type I error\nd. \"The mean annual consumption of beer in the nation's captial is less than the national mean but the result of the sampling does not lead to the conclusion that the mean annual consumption of beer in the nation's capital is less than the national mean\" is a [ANS] A. Type II error  B. Correct decision  C. Type I error",
@@ -21853,13 +21853,13 @@
         ]
     },
     {
-        "id": "Statistics_0306",
-        "subject": "Statistics",
+        "id": "statistics_0306",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Type I/type II errors and power",
         "level": "1",
         "keywords": [
-            "Statistics",
+            "statistics",
             "Hypothesis Testing"
         ],
         "problem_v1": "Consider a hypothesis test to decide whether the mean cost to community hospitals per patient per day in Ohio exceed the national mean. Answer the following questions. a. \" The mean cost to community hospitals per patient per day in Ohio does not exceed the national mean but the result of the sampling leads to the conclusion that the mean cost to community hospitals per patient per day in Ohio exceeds the national mean \" is a [ANS] A. Type II error  B. correct decision  C. Type I error\nb. \" The mean cost to community hospitals per patient per day in Ohio does not exceed the national mean and the result of the sampling does not lead to the conclusion that the mean cost to community hospitals per patient per day in Ohio exceeds the national mean \" is a [ANS] A. Type I error  B. Type II error  C. correct decision\nc. \" The mean cost to community hospitals per patient per day in Ohio exceeds the national mean and the result of the sampling leads to the conclusion that the mean cost to community hospitals per patient per day in Ohio exceeds the national mean \" is a [ANS] A. correct decision  B. Type II error  C. Type I error\nd. \" The mean cost to community hospitals per patient per day in Ohio exceeds the national mean but the result of the sampling does not lead to the conclusion that the mean cost to community hospitals per patient per day in Ohio exceeds the national mean \" is a [ANS] A. Type I error  B. correct decision  C. Type II error",
@@ -21969,13 +21969,13 @@
         ]
     },
     {
-        "id": "Statistics_0307",
-        "subject": "Statistics",
+        "id": "statistics_0307",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Type I/type II errors and power",
         "level": "1",
         "keywords": [
-            "Statistics",
+            "statistics",
             "Hypothesis Testing"
         ],
         "problem_v1": "Consider the following hypothesis test. The null hypothesis is \"The mean body temperature for humans is 98.6 degrees Farenheit.\" and the alternative hypothesis is \"The mean body temperature for humans differs from 98.6 degrees Farenheit.\" Answer the following questions. a. \"The mean body temperature for humans in fact is 98.6 degrees Farenheit but the result of the sampling lead to the conclusion that the mean body temprature for humans differ from 98.6 degrees Farenheit\" is a [ANS] A. Type I error  B. correct decision  C. Type II error\nb. \"The mean body temperature for humans in fact is 98.6 degrees Farenheit and the result of the sampling do not lead to the rejection of the fact that the mean body temprature is 98.6 degrees Farenheit\" is a [ANS] A. Type I error  B. Type II error  C. correct decision\nc. \"The mean body temperature for humans in fact differs from 98.6 degrees Farenheit and the result of the sampling lead to that conclusion\" is a [ANS] A. correct decision  B. Type II error  C. Type I error\nd. \"The mean body temperature for humans in fact differs from 98.6 degrees Farenheit but the result of the sampling fail to lead that conclusion\" is a [ANS] A. Type II error  B. correct decision  C. Type I error",
@@ -22085,8 +22085,8 @@
         ]
     },
     {
-        "id": "Statistics_0308",
-        "subject": "Statistics",
+        "id": "statistics_0308",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Type I/type II errors and power",
         "level": "3",
@@ -22166,8 +22166,8 @@
         ]
     },
     {
-        "id": "Statistics_0309",
-        "subject": "Statistics",
+        "id": "statistics_0309",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Type I/type II errors and power",
         "level": "3",
@@ -22247,8 +22247,8 @@
         ]
     },
     {
-        "id": "Statistics_0310",
-        "subject": "Statistics",
+        "id": "statistics_0310",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Type I/type II errors and power",
         "level": "4",
@@ -22352,8 +22352,8 @@
         ]
     },
     {
-        "id": "Statistics_0311",
-        "subject": "Statistics",
+        "id": "statistics_0311",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Type I/type II errors and power",
         "level": "3",
@@ -22433,8 +22433,8 @@
         ]
     },
     {
-        "id": "Statistics_0312",
-        "subject": "Statistics",
+        "id": "statistics_0312",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample variance",
         "level": "2",
@@ -22546,8 +22546,8 @@
         ]
     },
     {
-        "id": "Statistics_0313",
-        "subject": "Statistics",
+        "id": "statistics_0313",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One sample variance",
         "level": "2",
@@ -22625,8 +22625,8 @@
         ]
     },
     {
-        "id": "Statistics_0314",
-        "subject": "Statistics",
+        "id": "statistics_0314",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Chi-squared test for independence",
         "level": "2",
@@ -22696,8 +22696,8 @@
         ]
     },
     {
-        "id": "Statistics_0315",
-        "subject": "Statistics",
+        "id": "statistics_0315",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Chi-squared test for independence",
         "level": "3",
@@ -22856,8 +22856,8 @@
         ]
     },
     {
-        "id": "Statistics_0316",
-        "subject": "Statistics",
+        "id": "statistics_0316",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Chi-squared test for independence",
         "level": "3",
@@ -22970,8 +22970,8 @@
         ]
     },
     {
-        "id": "Statistics_0317",
-        "subject": "Statistics",
+        "id": "statistics_0317",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Chi-squared test for independence",
         "level": "3",
@@ -23075,8 +23075,8 @@
         ]
     },
     {
-        "id": "Statistics_0318",
-        "subject": "Statistics",
+        "id": "statistics_0318",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Chi-squared test for independence",
         "level": "3",
@@ -23162,13 +23162,13 @@
         ]
     },
     {
-        "id": "Statistics_0319",
-        "subject": "Statistics",
+        "id": "statistics_0319",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Chi-squared test for independence",
         "level": "1",
         "keywords": [
-            "Statistics",
+            "statistics",
             "Hypothesis Testing"
         ],
         "problem_v1": "A chi-square independence test is to be conducted to decide whether an association exists between two variables of a populations. One variable has 8 possible values and the other variable has 7. What are the degrees of freedom for the $\\chi^2$-statistic? answer: [ANS]",
@@ -23203,8 +23203,8 @@
         ]
     },
     {
-        "id": "Statistics_0320",
-        "subject": "Statistics",
+        "id": "statistics_0320",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Chi-squared test for independence",
         "level": "3",
@@ -23298,8 +23298,8 @@
         ]
     },
     {
-        "id": "Statistics_0321",
-        "subject": "Statistics",
+        "id": "statistics_0321",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Chi-squared test for goodness of fit",
         "level": "3",
@@ -23399,8 +23399,8 @@
         ]
     },
     {
-        "id": "Statistics_0322",
-        "subject": "Statistics",
+        "id": "statistics_0322",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Chi-squared test for goodness of fit",
         "level": "2",
@@ -23481,8 +23481,8 @@
         ]
     },
     {
-        "id": "Statistics_0323",
-        "subject": "Statistics",
+        "id": "statistics_0323",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Chi-squared test for goodness of fit",
         "level": "2",
@@ -23552,13 +23552,13 @@
         ]
     },
     {
-        "id": "Statistics_0324",
-        "subject": "Statistics",
+        "id": "statistics_0324",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Chi-squared test for goodness of fit",
         "level": "2",
         "keywords": [
-            "Statistics",
+            "statistics",
             "Hypothesis Testing"
         ],
         "problem_v1": "In each question below, we have given the relative frequencies for the null hypothesis of a chi-square goodness-of-fit test and the sample size. In each case, decide whether the two assumptions for using that test are satisfied. Assumption 1: All expected frequencies are 1 or greater Assumption 2: At most 20 percent of the expected frequencies are less than 5\nSample size: n=100, Relative frequencies: 0.65, 0.30, 0.05 [ANS] A. Only assumption 2 is satisfied  B. Only assumption 1 is satisfied  C. Both assumptions are satisfied  D. None of the assumptions are satisfied\nSample size: n=50, Relative frequencies: 0.22, 0.22, 0.25, 0.30, 0.01 [ANS] A. Only assumption 2 is satisfied  B. Both assumptions are satisfied  C. Only assumption 1 is satisfied  D. None of the assumptions are satisfied\nSample size: n=50, Relative frequencies: 0.22, 0.21, 0.25, 0.30, 0.02 [ANS] A. Both assumptions are satisfied  B. Only assumption 2 is satisfied  C. Only assumption 1 is satisfied  D. None of the assumptions are satisfied\nSample size: n=100, Relative frequencies: 0.44, 0.25, 0.30, 0.01 [ANS] A. Only assumption 1 is satisfied  B. Only assumption 2 is satisfied  C. Both assumptions are satisfied  D. None of the assumptions are satisfied",
@@ -23680,8 +23680,8 @@
         ]
     },
     {
-        "id": "Statistics_0325",
-        "subject": "Statistics",
+        "id": "statistics_0325",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Chi-squared test for goodness of fit",
         "level": "3",
@@ -23739,8 +23739,8 @@
         ]
     },
     {
-        "id": "Statistics_0326",
-        "subject": "Statistics",
+        "id": "statistics_0326",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "Chi-squared test for goodness of fit",
         "level": "3",
@@ -23798,8 +23798,8 @@
         ]
     },
     {
-        "id": "Statistics_0327",
-        "subject": "Statistics",
+        "id": "statistics_0327",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One-way ANOVA",
         "level": "3",
@@ -23886,8 +23886,8 @@
         ]
     },
     {
-        "id": "Statistics_0328",
-        "subject": "Statistics",
+        "id": "statistics_0328",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One-way ANOVA",
         "level": "3",
@@ -24009,8 +24009,8 @@
         ]
     },
     {
-        "id": "Statistics_0329",
-        "subject": "Statistics",
+        "id": "statistics_0329",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One-way ANOVA",
         "level": "2",
@@ -24072,8 +24072,8 @@
         ]
     },
     {
-        "id": "Statistics_0330",
-        "subject": "Statistics",
+        "id": "statistics_0330",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One-way ANOVA",
         "level": "3",
@@ -24179,8 +24179,8 @@
         ]
     },
     {
-        "id": "Statistics_0331",
-        "subject": "Statistics",
+        "id": "statistics_0331",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One-way ANOVA",
         "level": "3",
@@ -24257,8 +24257,8 @@
         ]
     },
     {
-        "id": "Statistics_0332",
-        "subject": "Statistics",
+        "id": "statistics_0332",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One-way ANOVA",
         "level": "2",
@@ -24402,8 +24402,8 @@
         ]
     },
     {
-        "id": "Statistics_0333",
-        "subject": "Statistics",
+        "id": "statistics_0333",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One-way ANOVA",
         "level": "3",
@@ -24516,8 +24516,8 @@
         ]
     },
     {
-        "id": "Statistics_0334",
-        "subject": "Statistics",
+        "id": "statistics_0334",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One-way ANOVA",
         "level": "3",
@@ -24657,8 +24657,8 @@
         ]
     },
     {
-        "id": "Statistics_0335",
-        "subject": "Statistics",
+        "id": "statistics_0335",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One-way ANOVA",
         "level": "2",
@@ -24771,8 +24771,8 @@
         ]
     },
     {
-        "id": "Statistics_0336",
-        "subject": "Statistics",
+        "id": "statistics_0336",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One-way ANOVA",
         "level": "1",
@@ -24893,13 +24893,13 @@
         ]
     },
     {
-        "id": "Statistics_0337",
-        "subject": "Statistics",
+        "id": "statistics_0337",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One-way ANOVA",
         "level": "1",
         "keywords": [
-            "Statistics",
+            "statistics",
             "Hypothesis Testing"
         ],
         "problem_v1": "For an F-curve with degrees of freedom df=(12,5), find the F-value that has area 0.01 to its right. [ANS] A. 5.06  B. 3.27  C. 9.89  D. None of the above\nFor an F-curve with degrees of freedom df=(4,10), find the F-value that has area 0.005 to its right. [ANS] A. 7.34  B. 20.97  C. 2.61  D. None of the above",
@@ -24973,8 +24973,8 @@
         ]
     },
     {
-        "id": "Statistics_0338",
-        "subject": "Statistics",
+        "id": "statistics_0338",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One-way ANOVA",
         "level": "3",
@@ -25028,13 +25028,13 @@
         ]
     },
     {
-        "id": "Statistics_0339",
-        "subject": "Statistics",
+        "id": "statistics_0339",
+        "subject": "statistics",
         "topic": "Hypothesis tests",
         "subtopic": "One-way ANOVA",
         "level": "3",
         "keywords": [
-            "Statistics",
+            "statistics",
             "Hypothesis Testing",
             "ANOVA",
             "Analysis",
@@ -25111,8 +25111,8 @@
         ]
     },
     {
-        "id": "Statistics_0340",
-        "subject": "Statistics",
+        "id": "statistics_0340",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Correlation",
         "level": "3",
@@ -25152,8 +25152,8 @@
         ]
     },
     {
-        "id": "Statistics_0341",
-        "subject": "Statistics",
+        "id": "statistics_0341",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Correlation",
         "level": "2",
@@ -25229,8 +25229,8 @@
         ]
     },
     {
-        "id": "Statistics_0342",
-        "subject": "Statistics",
+        "id": "statistics_0342",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Correlation",
         "level": "1",
@@ -25342,8 +25342,8 @@
         ]
     },
     {
-        "id": "Statistics_0343",
-        "subject": "Statistics",
+        "id": "statistics_0343",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Correlation",
         "level": "1",
@@ -25425,8 +25425,8 @@
         ]
     },
     {
-        "id": "Statistics_0344",
-        "subject": "Statistics",
+        "id": "statistics_0344",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Correlation",
         "level": "3",
@@ -25499,8 +25499,8 @@
         ]
     },
     {
-        "id": "Statistics_0345",
-        "subject": "Statistics",
+        "id": "statistics_0345",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Correlation",
         "level": "1",
@@ -25603,8 +25603,8 @@
         ]
     },
     {
-        "id": "Statistics_0346",
-        "subject": "Statistics",
+        "id": "statistics_0346",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Correlation",
         "level": "3",
@@ -25734,8 +25734,8 @@
         ]
     },
     {
-        "id": "Statistics_0347",
-        "subject": "Statistics",
+        "id": "statistics_0347",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Correlation",
         "level": "1",
@@ -25784,8 +25784,8 @@
         ]
     },
     {
-        "id": "Statistics_0348",
-        "subject": "Statistics",
+        "id": "statistics_0348",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Correlation",
         "level": "2",
@@ -25835,8 +25835,8 @@
         ]
     },
     {
-        "id": "Statistics_0349",
-        "subject": "Statistics",
+        "id": "statistics_0349",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Correlation",
         "level": "1",
@@ -25949,13 +25949,13 @@
         ]
     },
     {
-        "id": "Statistics_0350",
-        "subject": "Statistics",
+        "id": "statistics_0350",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Correlation",
         "level": "2",
         "keywords": [
-            "Statistics"
+            "statistics"
         ],
         "problem_v1": "The linear correlation coefficient of a set of data points is-0.825. a) Is the slope of the regression line positive or negative? answer: [ANS]\nb) Determine the coefficient of determination. answer: [ANS]",
         "answer_v1": [
@@ -26007,13 +26007,13 @@
         ]
     },
     {
-        "id": "Statistics_0351",
-        "subject": "Statistics",
+        "id": "statistics_0351",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Correlation",
         "level": "2",
         "keywords": [
-            "Statistics"
+            "statistics"
         ],
         "problem_v1": "A study was conducted to detemine whether a the final grade of a student in an introductory psychology course is linearly related to his or her performance on the verbal ability test administered before college entrance. The verbal scores and final grades for $10$ students are shown in the table below.\n$\\begin{array}{ccc}\\hline Student & Verbal Score x & Final Grade y \\\\ \\hline 1 & 67 & 81 \\\\ \\hline 2 & 59 & 72 \\\\ \\hline 3 & 41 & 47 \\\\ \\hline 4 & 56 & 68 \\\\ \\hline 5 & 45 & 54 \\\\ \\hline 6 & 61 & 71 \\\\ \\hline 7 & 53 & 62 \\\\ \\hline 8 & 47 & 55 \\\\ \\hline 9 & 53 & 60 \\\\ \\hline 10 & 33 & 38 \\\\ \\hline \\end{array}$\nFind the following: a) Compute the value of SST (Total Sum of Squares) answer: [ANS]\n(b) Compute the value of SSR (Regression Sum of Squares) answer: [ANS]\n(c) Compute the value of SSE (Error Sum of Squares) answer: [ANS]\n(d) The coefficient of determination is answer: [ANS]\n(e) What percent of variation in the observed values of the response variable is explained by the regression? answer: [ANS]",
         "answer_v1": [
@@ -26083,13 +26083,13 @@
         ]
     },
     {
-        "id": "Statistics_0352",
-        "subject": "Statistics",
+        "id": "statistics_0352",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Correlation",
         "level": "2",
         "keywords": [
-            "Statistics"
+            "statistics"
         ],
         "problem_v1": "Is the number of games won by a major league baseball team in a season related to the team batting average? The table below shows the number of games won and the batting average of 8 teams.\n$\\begin{array}{ccc}\\hline Team & Games Won & Batting Average \\\\ \\hline 1 & 105 & 0.277 \\\\ \\hline 2 & 97 & 0.281 \\\\ \\hline 3 & 78 & 0.269 \\\\ \\hline 4 & 94 & 0.276 \\\\ \\hline 5 & 82 & 0.274 \\\\ \\hline 6 & 99 & 0.267 \\\\ \\hline 7 & 90 & 0.272 \\\\ \\hline 8 & 84 & 0.272 \\\\ \\hline \\end{array}$\nUsing games won as the independent variable $x$, do the following:\n(a) Compute the value of SST (Total Sum of Squares) answer: [ANS]\n(b) Compute the value of SSR (Regression Sum of Squares) answer: [ANS]\n(c) Compute the value of SSE (Error Sum of Squares) answer: [ANS]\n(d) The coefficient of determination is answer: [ANS]\n(e) What percent of variation in the observed values of the response variable is explained by the regression? answer: [ANS]",
         "answer_v1": [
@@ -26159,8 +26159,8 @@
         ]
     },
     {
-        "id": "Statistics_0353",
-        "subject": "Statistics",
+        "id": "statistics_0353",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Correlation",
         "level": "4",
@@ -26245,8 +26245,8 @@
         ]
     },
     {
-        "id": "Statistics_0354",
-        "subject": "Statistics",
+        "id": "statistics_0354",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Correlation",
         "level": "3",
@@ -26326,8 +26326,8 @@
         ]
     },
     {
-        "id": "Statistics_0355",
-        "subject": "Statistics",
+        "id": "statistics_0355",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Correlation",
         "level": "2",
@@ -26367,8 +26367,8 @@
         ]
     },
     {
-        "id": "Statistics_0356",
-        "subject": "Statistics",
+        "id": "statistics_0356",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Correlation",
         "level": "2",
@@ -26408,8 +26408,8 @@
         ]
     },
     {
-        "id": "Statistics_0357",
-        "subject": "Statistics",
+        "id": "statistics_0357",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Correlation",
         "level": "2",
@@ -26449,8 +26449,8 @@
         ]
     },
     {
-        "id": "Statistics_0358",
-        "subject": "Statistics",
+        "id": "statistics_0358",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Correlation",
         "level": "2",
@@ -26499,8 +26499,8 @@
         ]
     },
     {
-        "id": "Statistics_0359",
-        "subject": "Statistics",
+        "id": "statistics_0359",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Correlation",
         "level": "2",
@@ -26552,8 +26552,8 @@
         ]
     },
     {
-        "id": "Statistics_0360",
-        "subject": "Statistics",
+        "id": "statistics_0360",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Regression",
         "level": "4",
@@ -26641,8 +26641,8 @@
         ]
     },
     {
-        "id": "Statistics_0361",
-        "subject": "Statistics",
+        "id": "statistics_0361",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Regression",
         "level": "2",
@@ -26751,8 +26751,8 @@
         ]
     },
     {
-        "id": "Statistics_0362",
-        "subject": "Statistics",
+        "id": "statistics_0362",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Regression",
         "level": "2",
@@ -26792,8 +26792,8 @@
         ]
     },
     {
-        "id": "Statistics_0363",
-        "subject": "Statistics",
+        "id": "statistics_0363",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Regression",
         "level": "2",
@@ -26833,8 +26833,8 @@
         ]
     },
     {
-        "id": "Statistics_0364",
-        "subject": "Statistics",
+        "id": "statistics_0364",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Regression",
         "level": "2",
@@ -26908,13 +26908,13 @@
         ]
     },
     {
-        "id": "Statistics_0365",
-        "subject": "Statistics",
+        "id": "statistics_0365",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Regression",
         "level": "1",
         "keywords": [
-            "Statistics"
+            "statistics"
         ],
         "problem_v1": "The regression line is the straight line that bests fits a set of data points according to what? [ANS] A. Most accurate regression criterion  B. Greatest-squares criterion  C. Least-squares criterion.  D. None of the above",
         "answer_v1": [
@@ -26963,13 +26963,13 @@
         ]
     },
     {
-        "id": "Statistics_0366",
-        "subject": "Statistics",
+        "id": "statistics_0366",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Regression",
         "level": "2",
         "keywords": [
-            "Statistics"
+            "statistics"
         ],
         "problem_v1": "Before determining a regression line, it is important to do what? [ANS] A. Plot the data to make sure it does not appear linear.  B. Make sure that every x value has exactly one corresponding y value  C. Plot the data to make sure it appears somewhat linear.  D. None of the above",
         "answer_v1": [
@@ -27018,8 +27018,8 @@
         ]
     },
     {
-        "id": "Statistics_0367",
-        "subject": "Statistics",
+        "id": "statistics_0367",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Regression",
         "level": "2",
@@ -27147,8 +27147,8 @@
         ]
     },
     {
-        "id": "Statistics_0368",
-        "subject": "Statistics",
+        "id": "statistics_0368",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Regression",
         "level": "4",
@@ -27187,8 +27187,8 @@
         ]
     },
     {
-        "id": "Statistics_0369",
-        "subject": "Statistics",
+        "id": "statistics_0369",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Regression",
         "level": "4",
@@ -27258,8 +27258,8 @@
         ]
     },
     {
-        "id": "Statistics_0370",
-        "subject": "Statistics",
+        "id": "statistics_0370",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Regression",
         "level": "4",
@@ -27425,8 +27425,8 @@
         ]
     },
     {
-        "id": "Statistics_0371",
-        "subject": "Statistics",
+        "id": "statistics_0371",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Regression",
         "level": "4",
@@ -27475,8 +27475,8 @@
         ]
     },
     {
-        "id": "Statistics_0372",
-        "subject": "Statistics",
+        "id": "statistics_0372",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Regression",
         "level": "4",
@@ -27579,8 +27579,8 @@
         ]
     },
     {
-        "id": "Statistics_0373",
-        "subject": "Statistics",
+        "id": "statistics_0373",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Regression",
         "level": "4",
@@ -27740,8 +27740,8 @@
         ]
     },
     {
-        "id": "Statistics_0374",
-        "subject": "Statistics",
+        "id": "statistics_0374",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Regression",
         "level": "",
@@ -27781,8 +27781,8 @@
         ]
     },
     {
-        "id": "Statistics_0375",
-        "subject": "Statistics",
+        "id": "statistics_0375",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Regression",
         "level": "2",
@@ -27822,8 +27822,8 @@
         ]
     },
     {
-        "id": "Statistics_0376",
-        "subject": "Statistics",
+        "id": "statistics_0376",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Prediction",
         "level": "4",
@@ -27890,8 +27890,8 @@
         ]
     },
     {
-        "id": "Statistics_0377",
-        "subject": "Statistics",
+        "id": "statistics_0377",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Prediction",
         "level": "1",
@@ -27940,13 +27940,13 @@
         ]
     },
     {
-        "id": "Statistics_0378",
-        "subject": "Statistics",
+        "id": "statistics_0378",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Prediction",
         "level": "1",
         "keywords": [
-            "Statistics",
+            "statistics",
             "Regression Equation",
             "Correlation",
             "Regression",
@@ -28002,8 +28002,8 @@
         ]
     },
     {
-        "id": "Statistics_0379",
-        "subject": "Statistics",
+        "id": "statistics_0379",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Prediction",
         "level": "2",
@@ -28098,13 +28098,13 @@
         ]
     },
     {
-        "id": "Statistics_0380",
-        "subject": "Statistics",
+        "id": "statistics_0380",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Prediction",
         "level": "2",
         "keywords": [
-            "Statistics",
+            "statistics",
             "Linear regression",
             "line"
         ],
@@ -28149,13 +28149,13 @@
         ]
     },
     {
-        "id": "Statistics_0381",
-        "subject": "Statistics",
+        "id": "statistics_0381",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Prediction",
         "level": "2",
         "keywords": [
-            "Statistics",
+            "statistics",
             "Linear regression",
             "line"
         ],
@@ -28200,8 +28200,8 @@
         ]
     },
     {
-        "id": "Statistics_0382",
-        "subject": "Statistics",
+        "id": "statistics_0382",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Prediction",
         "level": "2",
@@ -28240,8 +28240,8 @@
         ]
     },
     {
-        "id": "Statistics_0383",
-        "subject": "Statistics",
+        "id": "statistics_0383",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Prediction",
         "level": "4",
@@ -28282,8 +28282,8 @@
         ]
     },
     {
-        "id": "Statistics_0384",
-        "subject": "Statistics",
+        "id": "statistics_0384",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Prediction",
         "level": "4",
@@ -28324,8 +28324,8 @@
         ]
     },
     {
-        "id": "Statistics_0385",
-        "subject": "Statistics",
+        "id": "statistics_0385",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Prediction",
         "level": "3",
@@ -28334,7 +28334,7 @@
             "regression",
             "least squares"
         ],
-        "problem_v1": "A Statistics professor assigned 10 quizzes over the course of the semester. He wanted to see if there was a relationship between the total mark of all 10 quizzes and the final exam mark. There were 276 students who completed all the quizzes and wrote the final exam. The standard deviation of the total quiz marks was 13, and that of the final exam was 19. The correlation between the total quiz mark and the final exam was 0.75. Based on the least squares regression line fitted to the data of the 276 students, if a student scored 18 points above the mean of total quiz marks, then how many points above the mean on the final would you predict her final exam grade to be? The predicted final exam grade is [ANS] above the mean on the final. Round your answer to one decimal place, but do not round in intermediate steps.",
+        "problem_v1": "A statistics professor assigned 10 quizzes over the course of the semester. He wanted to see if there was a relationship between the total mark of all 10 quizzes and the final exam mark. There were 276 students who completed all the quizzes and wrote the final exam. The standard deviation of the total quiz marks was 13, and that of the final exam was 19. The correlation between the total quiz mark and the final exam was 0.75. Based on the least squares regression line fitted to the data of the 276 students, if a student scored 18 points above the mean of total quiz marks, then how many points above the mean on the final would you predict her final exam grade to be? The predicted final exam grade is [ANS] above the mean on the final. Round your answer to one decimal place, but do not round in intermediate steps.",
         "answer_v1": [
             "19.7307692307692"
         ],
@@ -28344,7 +28344,7 @@
         "options_v1": [
             []
         ],
-        "problem_v2": "A Statistics professor assigned 10 quizzes over the course of the semester. He wanted to see if there was a relationship between the total mark of all 10 quizzes and the final exam mark. There were 208 students who completed all the quizzes and wrote the final exam. The standard deviation of the total quiz marks was 15, and that of the final exam was 16. The correlation between the total quiz mark and the final exam was 0.67. Based on the least squares regression line fitted to the data of the 208 students, if a student scored 25 points above the mean of total quiz marks, then how many points above the mean on the final would you predict her final exam grade to be? The predicted final exam grade is [ANS] above the mean on the final. Round your answer to one decimal place, but do not round in intermediate steps.",
+        "problem_v2": "A statistics professor assigned 10 quizzes over the course of the semester. He wanted to see if there was a relationship between the total mark of all 10 quizzes and the final exam mark. There were 208 students who completed all the quizzes and wrote the final exam. The standard deviation of the total quiz marks was 15, and that of the final exam was 16. The correlation between the total quiz mark and the final exam was 0.67. Based on the least squares regression line fitted to the data of the 208 students, if a student scored 25 points above the mean of total quiz marks, then how many points above the mean on the final would you predict her final exam grade to be? The predicted final exam grade is [ANS] above the mean on the final. Round your answer to one decimal place, but do not round in intermediate steps.",
         "answer_v2": [
             "17.8666666666667"
         ],
@@ -28354,7 +28354,7 @@
         "options_v2": [
             []
         ],
-        "problem_v3": "A Statistics professor assigned 10 quizzes over the course of the semester. He wanted to see if there was a relationship between the total mark of all 10 quizzes and the final exam mark. There were 231 students who completed all the quizzes and wrote the final exam. The standard deviation of the total quiz marks was 14, and that of the final exam was 17. The correlation between the total quiz mark and the final exam was 0.71. Based on the least squares regression line fitted to the data of the 231 students, if a student scored 17 points above the mean of total quiz marks, then how many points above the mean on the final would you predict her final exam grade to be? The predicted final exam grade is [ANS] above the mean on the final. Round your answer to one decimal place, but do not round in intermediate steps.",
+        "problem_v3": "A statistics professor assigned 10 quizzes over the course of the semester. He wanted to see if there was a relationship between the total mark of all 10 quizzes and the final exam mark. There were 231 students who completed all the quizzes and wrote the final exam. The standard deviation of the total quiz marks was 14, and that of the final exam was 17. The correlation between the total quiz mark and the final exam was 0.71. Based on the least squares regression line fitted to the data of the 231 students, if a student scored 17 points above the mean of total quiz marks, then how many points above the mean on the final would you predict her final exam grade to be? The predicted final exam grade is [ANS] above the mean on the final. Round your answer to one decimal place, but do not round in intermediate steps.",
         "answer_v3": [
             "14.6564285714286"
         ],
@@ -28366,8 +28366,8 @@
         ]
     },
     {
-        "id": "Statistics_0386",
-        "subject": "Statistics",
+        "id": "statistics_0386",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Residuals",
         "level": "3",
@@ -28407,8 +28407,8 @@
         ]
     },
     {
-        "id": "Statistics_0387",
-        "subject": "Statistics",
+        "id": "statistics_0387",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Hypothesis tests",
         "level": "4",
@@ -28488,8 +28488,8 @@
         ]
     },
     {
-        "id": "Statistics_0388",
-        "subject": "Statistics",
+        "id": "statistics_0388",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Hypothesis tests",
         "level": "2",
@@ -28529,8 +28529,8 @@
         ]
     },
     {
-        "id": "Statistics_0389",
-        "subject": "Statistics",
+        "id": "statistics_0389",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Hypothesis tests",
         "level": "2",
@@ -28579,8 +28579,8 @@
         ]
     },
     {
-        "id": "Statistics_0390",
-        "subject": "Statistics",
+        "id": "statistics_0390",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Hypothesis tests",
         "level": "3",
@@ -28660,8 +28660,8 @@
         ]
     },
     {
-        "id": "Statistics_0391",
-        "subject": "Statistics",
+        "id": "statistics_0391",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Confidence intervals",
         "level": "3",
@@ -28710,8 +28710,8 @@
         ]
     },
     {
-        "id": "Statistics_0392",
-        "subject": "Statistics",
+        "id": "statistics_0392",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Diagnostics",
         "level": "3",
@@ -28796,8 +28796,8 @@
         ]
     },
     {
-        "id": "Statistics_0393",
-        "subject": "Statistics",
+        "id": "statistics_0393",
+        "subject": "statistics",
         "topic": "Simple linear regression",
         "subtopic": "Diagnostics",
         "level": "1",
@@ -28910,8 +28910,8 @@
         ]
     },
     {
-        "id": "Statistics_0394",
-        "subject": "Statistics",
+        "id": "statistics_0394",
+        "subject": "statistics",
         "topic": "Time series",
         "subtopic": "Autocorrelation",
         "level": "4",
@@ -29002,8 +29002,8 @@
         ]
     },
     {
-        "id": "Statistics_0395",
-        "subject": "Statistics",
+        "id": "statistics_0395",
+        "subject": "statistics",
         "topic": "Time series",
         "subtopic": "ARIMA models",
         "level": "4",
@@ -29133,8 +29133,8 @@
         ]
     },
     {
-        "id": "Statistics_0396",
-        "subject": "Statistics",
+        "id": "statistics_0396",
+        "subject": "statistics",
         "topic": "Point estimation",
         "subtopic": "Consistency",
         "level": "3",
@@ -29213,8 +29213,8 @@
         ]
     },
     {
-        "id": "Statistics_0397",
-        "subject": "Statistics",
+        "id": "statistics_0397",
+        "subject": "statistics",
         "topic": "Multiple regression",
         "subtopic": "Nonlinear regression",
         "level": "4",
@@ -29282,8 +29282,8 @@
         ]
     },
     {
-        "id": "Statistics_0398",
-        "subject": "Statistics",
+        "id": "statistics_0398",
+        "subject": "statistics",
         "topic": "Multiple regression",
         "subtopic": "Nonlinear regression",
         "level": "4",
@@ -29510,8 +29510,8 @@
         ]
     },
     {
-        "id": "Statistics_0399",
-        "subject": "Statistics",
+        "id": "statistics_0399",
+        "subject": "statistics",
         "topic": "Multiple regression",
         "subtopic": "Parameter estimates",
         "level": "4",
@@ -29569,8 +29569,8 @@
         ]
     },
     {
-        "id": "Statistics_0400",
-        "subject": "Statistics",
+        "id": "statistics_0400",
+        "subject": "statistics",
         "topic": "Multiple regression",
         "subtopic": "Parameter estimates",
         "level": "4",
@@ -29661,8 +29661,8 @@
         ]
     },
     {
-        "id": "Statistics_0401",
-        "subject": "Statistics",
+        "id": "statistics_0401",
+        "subject": "statistics",
         "topic": "Multiple regression",
         "subtopic": "Parameter estimates",
         "level": "4",
@@ -29712,8 +29712,8 @@
         ]
     },
     {
-        "id": "Statistics_0403",
-        "subject": "Statistics",
+        "id": "statistics_0403",
+        "subject": "statistics",
         "topic": "Multiple regression",
         "subtopic": "Parameter estimates",
         "level": "4",
@@ -29843,8 +29843,8 @@
         ]
     },
     {
-        "id": "Statistics_0404",
-        "subject": "Statistics",
+        "id": "statistics_0404",
+        "subject": "statistics",
         "topic": "Multiple regression",
         "subtopic": "Parameter estimates",
         "level": "4",
@@ -30008,8 +30008,8 @@
         ]
     },
     {
-        "id": "Statistics_0405",
-        "subject": "Statistics",
+        "id": "statistics_0405",
+        "subject": "statistics",
         "topic": "Multiple regression",
         "subtopic": "Parameter estimates",
         "level": "4",
@@ -30179,8 +30179,8 @@
         ]
     },
     {
-        "id": "Statistics_0406",
-        "subject": "Statistics",
+        "id": "statistics_0406",
+        "subject": "statistics",
         "topic": "Multiple regression",
         "subtopic": "Parameter estimates",
         "level": "3",
@@ -30260,8 +30260,8 @@
         ]
     },
     {
-        "id": "Statistics_0407",
-        "subject": "Statistics",
+        "id": "statistics_0407",
+        "subject": "statistics",
         "topic": "Multiple regression",
         "subtopic": "Parameter estimates",
         "level": "1",
@@ -30269,7 +30269,7 @@
             "statistics",
             "hypothesis testing"
         ],
-        "problem_v1": "Below is Excel output from a multiple regression: \\begin{array}{|l|r|r|r|r|r|} \\hline \\multicolumn{2}{|c|}{\\mbox{Regression Statistics}} & & & & \\\\ \\hline \\mbox{Multiple R} & 0.6207 & & & & \\\\ \\hline \\mbox{R Square} & 0.3853 & & & & \\\\ \\hline \\mbox{Adjusted R Square} & 0.3434 & & & & \\\\ \\hline \\mbox{Standard Error} & 5.59 & & & & \\\\ \\hline \\mbox{Observations} & 48 & & & & \\\\ \\hline & & & & & \\\\ \\hline \\mbox{ANOVA} & & & & & \\\\ \\hline & \\mbox{df} &\\mbox{SS} &\\mbox{MS} &\\mbox{F} &\\mbox{Significance F} \\\\ \\hline \\mbox{Regression} & 3 & 862 & 287.33 & 9.19 & 0.0000776348\\\\ \\hline \\mbox{Residual} & 44 & 1375 & 31.25 & & \\\\ \\hline \\mbox{Total} & 47 & 2237 & & & \\\\ \\hline & & & & & \\\\ \\hline & \\mbox{Coefficients} & \\mbox{Standard Error} & \\mbox{t Stat} & \\mbox{P-value} & \\\\ \\hline \\mbox{Intercept} & 4.5 & 3.2 & 1.41 & 0.1656 & \\\\ \\hline \\mbox{x1} &-4 & 2.7 &-1.48 & 0.146 & \\\\ \\hline \\mbox{x2} &-3.4 & 3 &-1.13 & 0.2646 & \\\\ \\hline \\mbox{x3} & 1.4 & 3.3 & 0.42 & 0.6765 & \\\\ \\hline \\end{array} Find the point estimate $\\hat{y}$ when $x_1=-4$, $x_2=-1$, and $x_3=-2$. Point Estimate=[ANS]",
+        "problem_v1": "Below is Excel output from a multiple regression: \\begin{array}{|l|r|r|r|r|r|} \\hline \\multicolumn{2}{|c|}{\\mbox{Regression statistics}} & & & & \\\\ \\hline \\mbox{Multiple R} & 0.6207 & & & & \\\\ \\hline \\mbox{R Square} & 0.3853 & & & & \\\\ \\hline \\mbox{Adjusted R Square} & 0.3434 & & & & \\\\ \\hline \\mbox{Standard Error} & 5.59 & & & & \\\\ \\hline \\mbox{Observations} & 48 & & & & \\\\ \\hline & & & & & \\\\ \\hline \\mbox{ANOVA} & & & & & \\\\ \\hline & \\mbox{df} &\\mbox{SS} &\\mbox{MS} &\\mbox{F} &\\mbox{Significance F} \\\\ \\hline \\mbox{Regression} & 3 & 862 & 287.33 & 9.19 & 0.0000776348\\\\ \\hline \\mbox{Residual} & 44 & 1375 & 31.25 & & \\\\ \\hline \\mbox{Total} & 47 & 2237 & & & \\\\ \\hline & & & & & \\\\ \\hline & \\mbox{Coefficients} & \\mbox{Standard Error} & \\mbox{t Stat} & \\mbox{P-value} & \\\\ \\hline \\mbox{Intercept} & 4.5 & 3.2 & 1.41 & 0.1656 & \\\\ \\hline \\mbox{x1} &-4 & 2.7 &-1.48 & 0.146 & \\\\ \\hline \\mbox{x2} &-3.4 & 3 &-1.13 & 0.2646 & \\\\ \\hline \\mbox{x3} & 1.4 & 3.3 & 0.42 & 0.6765 & \\\\ \\hline \\end{array} Find the point estimate $\\hat{y}$ when $x_1=-4$, $x_2=-1$, and $x_3=-2$. Point Estimate=[ANS]",
         "answer_v1": [
             "21.1"
         ],
@@ -30279,7 +30279,7 @@
         "options_v1": [
             []
         ],
-        "problem_v2": "Below is Excel output from a multiple regression: \\begin{array}{|l|r|r|r|r|r|} \\hline \\multicolumn{2}{|c|}{\\mbox{Regression Statistics}} & & & & \\\\ \\hline \\mbox{Multiple R} & 0.5959 & & & & \\\\ \\hline \\mbox{R Square} & 0.3551 & & & & \\\\ \\hline \\mbox{Adjusted R Square} & 0.3014 & & & & \\\\ \\hline \\mbox{Standard Error} & 6.41 & & & & \\\\ \\hline \\mbox{Observations} & 40 & & & & \\\\ \\hline & & & & & \\\\ \\hline \\mbox{ANOVA} & & & & & \\\\ \\hline & \\mbox{df} &\\mbox{SS} &\\mbox{MS} &\\mbox{F} &\\mbox{Significance F} \\\\ \\hline \\mbox{Regression} & 3 & 815 & 271.67 & 6.61 & 0.00113109\\\\ \\hline \\mbox{Residual} & 36 & 1480 & 41.11 & & \\\\ \\hline \\mbox{Total} & 39 & 2295 & & & \\\\ \\hline & & & & & \\\\ \\hline & \\mbox{Coefficients} & \\mbox{Standard Error} & \\mbox{t Stat} & \\mbox{P-value} & \\\\ \\hline \\mbox{Intercept} &-3.3 & 2.6 &-1.27 & 0.2122 & \\\\ \\hline \\mbox{x1} & 9 & 3.1 & 2.9 & 0.0063 & \\\\ \\hline \\mbox{x2} &-3.7 & 2.1 &-1.76 & 0.0869 & \\\\ \\hline \\mbox{x3} &-6.4 & 3.3 &-1.94 & 0.0602 & \\\\ \\hline \\end{array} Find the point estimate $\\hat{y}$ when $x_1=-1$, $x_2=5$, and $x_3=-5$. Point Estimate=[ANS]",
+        "problem_v2": "Below is Excel output from a multiple regression: \\begin{array}{|l|r|r|r|r|r|} \\hline \\multicolumn{2}{|c|}{\\mbox{Regression statistics}} & & & & \\\\ \\hline \\mbox{Multiple R} & 0.5959 & & & & \\\\ \\hline \\mbox{R Square} & 0.3551 & & & & \\\\ \\hline \\mbox{Adjusted R Square} & 0.3014 & & & & \\\\ \\hline \\mbox{Standard Error} & 6.41 & & & & \\\\ \\hline \\mbox{Observations} & 40 & & & & \\\\ \\hline & & & & & \\\\ \\hline \\mbox{ANOVA} & & & & & \\\\ \\hline & \\mbox{df} &\\mbox{SS} &\\mbox{MS} &\\mbox{F} &\\mbox{Significance F} \\\\ \\hline \\mbox{Regression} & 3 & 815 & 271.67 & 6.61 & 0.00113109\\\\ \\hline \\mbox{Residual} & 36 & 1480 & 41.11 & & \\\\ \\hline \\mbox{Total} & 39 & 2295 & & & \\\\ \\hline & & & & & \\\\ \\hline & \\mbox{Coefficients} & \\mbox{Standard Error} & \\mbox{t Stat} & \\mbox{P-value} & \\\\ \\hline \\mbox{Intercept} &-3.3 & 2.6 &-1.27 & 0.2122 & \\\\ \\hline \\mbox{x1} & 9 & 3.1 & 2.9 & 0.0063 & \\\\ \\hline \\mbox{x2} &-3.7 & 2.1 &-1.76 & 0.0869 & \\\\ \\hline \\mbox{x3} &-6.4 & 3.3 &-1.94 & 0.0602 & \\\\ \\hline \\end{array} Find the point estimate $\\hat{y}$ when $x_1=-1$, $x_2=5$, and $x_3=-5$. Point Estimate=[ANS]",
         "answer_v2": [
             "1.2"
         ],
@@ -30289,7 +30289,7 @@
         "options_v2": [
             []
         ],
-        "problem_v3": "Below is Excel output from a multiple regression: \\begin{array}{|l|r|r|r|r|r|} \\hline \\multicolumn{2}{|c|}{\\mbox{Regression Statistics}} & & & & \\\\ \\hline \\mbox{Multiple R} & 0.6121 & & & & \\\\ \\hline \\mbox{R Square} & 0.3747 & & & & \\\\ \\hline \\mbox{Adjusted R Square} & 0.3266 & & & & \\\\ \\hline \\mbox{Standard Error} & 5.95 & & & & \\\\ \\hline \\mbox{Observations} & 43 & & & & \\\\ \\hline & & & & & \\\\ \\hline \\mbox{ANOVA} & & & & & \\\\ \\hline & \\mbox{df} &\\mbox{SS} &\\mbox{MS} &\\mbox{F} &\\mbox{Significance F} \\\\ \\hline \\mbox{Regression} & 3 & 828 & 276 & 7.79 & 0.000341184\\\\ \\hline \\mbox{Residual} & 39 & 1382 & 35.44 & & \\\\ \\hline \\mbox{Total} & 42 & 2210 & & & \\\\ \\hline & & & & & \\\\ \\hline & \\mbox{Coefficients} & \\mbox{Standard Error} & \\mbox{t Stat} & \\mbox{P-value} & \\\\ \\hline \\mbox{Intercept} & 1 & 3.9 & 0.26 & 0.7962 & \\\\ \\hline \\mbox{x1} &-5.9 & 3.8 &-1.55 & 0.1292 & \\\\ \\hline \\mbox{x2} &-3.1 & 2.4 &-1.29 & 0.2046 & \\\\ \\hline \\mbox{x3} & 6.2 & 2.6 & 2.38 & 0.0223 & \\\\ \\hline \\end{array} Find the point estimate $\\hat{y}$ when $x_1=-4$, $x_2=-8$, and $x_3=1$. Point Estimate=[ANS]",
+        "problem_v3": "Below is Excel output from a multiple regression: \\begin{array}{|l|r|r|r|r|r|} \\hline \\multicolumn{2}{|c|}{\\mbox{Regression statistics}} & & & & \\\\ \\hline \\mbox{Multiple R} & 0.6121 & & & & \\\\ \\hline \\mbox{R Square} & 0.3747 & & & & \\\\ \\hline \\mbox{Adjusted R Square} & 0.3266 & & & & \\\\ \\hline \\mbox{Standard Error} & 5.95 & & & & \\\\ \\hline \\mbox{Observations} & 43 & & & & \\\\ \\hline & & & & & \\\\ \\hline \\mbox{ANOVA} & & & & & \\\\ \\hline & \\mbox{df} &\\mbox{SS} &\\mbox{MS} &\\mbox{F} &\\mbox{Significance F} \\\\ \\hline \\mbox{Regression} & 3 & 828 & 276 & 7.79 & 0.000341184\\\\ \\hline \\mbox{Residual} & 39 & 1382 & 35.44 & & \\\\ \\hline \\mbox{Total} & 42 & 2210 & & & \\\\ \\hline & & & & & \\\\ \\hline & \\mbox{Coefficients} & \\mbox{Standard Error} & \\mbox{t Stat} & \\mbox{P-value} & \\\\ \\hline \\mbox{Intercept} & 1 & 3.9 & 0.26 & 0.7962 & \\\\ \\hline \\mbox{x1} &-5.9 & 3.8 &-1.55 & 0.1292 & \\\\ \\hline \\mbox{x2} &-3.1 & 2.4 &-1.29 & 0.2046 & \\\\ \\hline \\mbox{x3} & 6.2 & 2.6 & 2.38 & 0.0223 & \\\\ \\hline \\end{array} Find the point estimate $\\hat{y}$ when $x_1=-4$, $x_2=-8$, and $x_3=1$. Point Estimate=[ANS]",
         "answer_v3": [
             "55.6"
         ],
@@ -30301,8 +30301,8 @@
         ]
     },
     {
-        "id": "Statistics_0408",
-        "subject": "Statistics",
+        "id": "statistics_0408",
+        "subject": "statistics",
         "topic": "Multiple regression",
         "subtopic": "Parameter estimates",
         "level": "2",
@@ -30310,7 +30310,7 @@
             "statistics",
             "hypothesis testing"
         ],
-        "problem_v1": "Below is partial Excel output from a multiple regression, with some values missing: \\begin{array}{|l|r|r|r|r|r|} \\hline \\multicolumn{2}{|c|}{\\mbox{Regression Statistics}} & & & & \\\\ \\hline \\mbox{Multiple R} & & & & & \\\\ \\hline \\mbox{R Square} & & & & & \\\\ \\hline \\mbox{Adjusted R Square} & & & & & \\\\ \\hline \\mbox{Standard Error} & 5.89 & & & & \\\\ \\hline \\mbox{Observations} & 48 & & & & \\\\ \\hline & & & & & \\\\ \\hline \\mbox{ANOVA} & & & & & \\\\ \\hline & \\mbox{df} &\\mbox{SS} &\\mbox{MS} &\\mbox{F} &\\mbox{Significance F} \\\\ \\hline \\mbox{Regression} & 7 & 872 & 124.57 & 3.6 & 0.00425129\\\\ \\hline \\mbox{Residual} & 40 & 1386 & 34.65 & & \\\\ \\hline \\mbox{Total} & 47 & 2258 & & & \\\\ \\hline \\end{array} Determine each of the following from the output: $R^2$=[ANS]\nAdjusted $R^2$=[ANS]",
+        "problem_v1": "Below is partial Excel output from a multiple regression, with some values missing: \\begin{array}{|l|r|r|r|r|r|} \\hline \\multicolumn{2}{|c|}{\\mbox{Regression statistics}} & & & & \\\\ \\hline \\mbox{Multiple R} & & & & & \\\\ \\hline \\mbox{R Square} & & & & & \\\\ \\hline \\mbox{Adjusted R Square} & & & & & \\\\ \\hline \\mbox{Standard Error} & 5.89 & & & & \\\\ \\hline \\mbox{Observations} & 48 & & & & \\\\ \\hline & & & & & \\\\ \\hline \\mbox{ANOVA} & & & & & \\\\ \\hline & \\mbox{df} &\\mbox{SS} &\\mbox{MS} &\\mbox{F} &\\mbox{Significance F} \\\\ \\hline \\mbox{Regression} & 7 & 872 & 124.57 & 3.6 & 0.00425129\\\\ \\hline \\mbox{Residual} & 40 & 1386 & 34.65 & & \\\\ \\hline \\mbox{Total} & 47 & 2258 & & & \\\\ \\hline \\end{array} Determine each of the following from the output: $R^2$=[ANS]\nAdjusted $R^2$=[ANS]",
         "answer_v1": [
             "0.3862",
             "0.2788"
@@ -30323,7 +30323,7 @@
             [],
             []
         ],
-        "problem_v2": "Below is partial Excel output from a multiple regression, with some values missing: \\begin{array}{|l|r|r|r|r|r|} \\hline \\multicolumn{2}{|c|}{\\mbox{Regression Statistics}} & & & & \\\\ \\hline \\mbox{Multiple R} & & & & & \\\\ \\hline \\mbox{R Square} & & & & & \\\\ \\hline \\mbox{Adjusted R Square} & & & & & \\\\ \\hline \\mbox{Standard Error} & 6.44 & & & & \\\\ \\hline \\mbox{Observations} & 40 & & & & \\\\ \\hline & & & & & \\\\ \\hline \\mbox{ANOVA} & & & & & \\\\ \\hline & \\mbox{df} &\\mbox{SS} &\\mbox{MS} &\\mbox{F} &\\mbox{Significance F} \\\\ \\hline \\mbox{Regression} & 9 & 833 & 92.56 & 2.23 & 0.0481854\\\\ \\hline \\mbox{Residual} & 30 & 1245 & 41.5 & & \\\\ \\hline \\mbox{Total} & 39 & 2078 & & & \\\\ \\hline \\end{array} Determine each of the following from the output: $R^2$=[ANS]\nAdjusted $R^2$=[ANS]",
+        "problem_v2": "Below is partial Excel output from a multiple regression, with some values missing: \\begin{array}{|l|r|r|r|r|r|} \\hline \\multicolumn{2}{|c|}{\\mbox{Regression statistics}} & & & & \\\\ \\hline \\mbox{Multiple R} & & & & & \\\\ \\hline \\mbox{R Square} & & & & & \\\\ \\hline \\mbox{Adjusted R Square} & & & & & \\\\ \\hline \\mbox{Standard Error} & 6.44 & & & & \\\\ \\hline \\mbox{Observations} & 40 & & & & \\\\ \\hline & & & & & \\\\ \\hline \\mbox{ANOVA} & & & & & \\\\ \\hline & \\mbox{df} &\\mbox{SS} &\\mbox{MS} &\\mbox{F} &\\mbox{Significance F} \\\\ \\hline \\mbox{Regression} & 9 & 833 & 92.56 & 2.23 & 0.0481854\\\\ \\hline \\mbox{Residual} & 30 & 1245 & 41.5 & & \\\\ \\hline \\mbox{Total} & 39 & 2078 & & & \\\\ \\hline \\end{array} Determine each of the following from the output: $R^2$=[ANS]\nAdjusted $R^2$=[ANS]",
         "answer_v2": [
             "0.4009",
             "0.2211"
@@ -30336,7 +30336,7 @@
             [],
             []
         ],
-        "problem_v3": "Below is partial Excel output from a multiple regression, with some values missing: \\begin{array}{|l|r|r|r|r|r|} \\hline \\multicolumn{2}{|c|}{\\mbox{Regression Statistics}} & & & & \\\\ \\hline \\mbox{Multiple R} & & & & & \\\\ \\hline \\mbox{R Square} & & & & & \\\\ \\hline \\mbox{Adjusted R Square} & & & & & \\\\ \\hline \\mbox{Standard Error} & 6.14 & & & & \\\\ \\hline \\mbox{Observations} & 43 & & & & \\\\ \\hline & & & & & \\\\ \\hline \\mbox{ANOVA} & & & & & \\\\ \\hline & \\mbox{df} &\\mbox{SS} &\\mbox{MS} &\\mbox{F} &\\mbox{Significance F} \\\\ \\hline \\mbox{Regression} & 8 & 855 & 106.88 & 2.83 & 0.0160603\\\\ \\hline \\mbox{Residual} & 34 & 1283 & 37.74 & & \\\\ \\hline \\mbox{Total} & 42 & 2138 & & & \\\\ \\hline \\end{array} Determine each of the following from the output: $R^2$=[ANS]\nAdjusted $R^2$=[ANS]",
+        "problem_v3": "Below is partial Excel output from a multiple regression, with some values missing: \\begin{array}{|l|r|r|r|r|r|} \\hline \\multicolumn{2}{|c|}{\\mbox{Regression statistics}} & & & & \\\\ \\hline \\mbox{Multiple R} & & & & & \\\\ \\hline \\mbox{R Square} & & & & & \\\\ \\hline \\mbox{Adjusted R Square} & & & & & \\\\ \\hline \\mbox{Standard Error} & 6.14 & & & & \\\\ \\hline \\mbox{Observations} & 43 & & & & \\\\ \\hline & & & & & \\\\ \\hline \\mbox{ANOVA} & & & & & \\\\ \\hline & \\mbox{df} &\\mbox{SS} &\\mbox{MS} &\\mbox{F} &\\mbox{Significance F} \\\\ \\hline \\mbox{Regression} & 8 & 855 & 106.88 & 2.83 & 0.0160603\\\\ \\hline \\mbox{Residual} & 34 & 1283 & 37.74 & & \\\\ \\hline \\mbox{Total} & 42 & 2138 & & & \\\\ \\hline \\end{array} Determine each of the following from the output: $R^2$=[ANS]\nAdjusted $R^2$=[ANS]",
         "answer_v3": [
             "0.3999",
             "0.2587"
@@ -30351,8 +30351,8 @@
         ]
     },
     {
-        "id": "Statistics_0409",
-        "subject": "Statistics",
+        "id": "statistics_0409",
+        "subject": "statistics",
         "topic": "Multiple regression",
         "subtopic": "Parameter estimates",
         "level": "3",
@@ -30432,8 +30432,8 @@
         ]
     },
     {
-        "id": "Statistics_0410",
-        "subject": "Statistics",
+        "id": "statistics_0410",
+        "subject": "statistics",
         "topic": "Multiple regression",
         "subtopic": "Parameter estimates",
         "level": "",
@@ -30537,8 +30537,8 @@
         ]
     },
     {
-        "id": "Statistics_0411",
-        "subject": "Statistics",
+        "id": "statistics_0411",
+        "subject": "statistics",
         "topic": "Multiple regression",
         "subtopic": "Parameter estimates",
         "level": "3",
@@ -30618,8 +30618,8 @@
         ]
     },
     {
-        "id": "Statistics_0412",
-        "subject": "Statistics",
+        "id": "statistics_0412",
+        "subject": "statistics",
         "topic": "Multiple regression",
         "subtopic": "Parameter estimates",
         "level": "3",
@@ -30668,8 +30668,8 @@
         ]
     },
     {
-        "id": "Statistics_0413",
-        "subject": "Statistics",
+        "id": "statistics_0413",
+        "subject": "statistics",
         "topic": "Multiple regression",
         "subtopic": "Hypothesis tests",
         "level": "3",
@@ -30749,8 +30749,8 @@
         ]
     },
     {
-        "id": "Statistics_0414",
-        "subject": "Statistics",
+        "id": "statistics_0414",
+        "subject": "statistics",
         "topic": "Multiple regression",
         "subtopic": "Multiple selection",
         "level": "3",
@@ -30853,8 +30853,8 @@
         ]
     },
     {
-        "id": "Statistics_0415",
-        "subject": "Statistics",
+        "id": "statistics_0415",
+        "subject": "statistics",
         "topic": "Multiple regression",
         "subtopic": "Model selection",
         "level": "4",
@@ -30976,8 +30976,8 @@
         ]
     },
     {
-        "id": "Statistics_0416",
-        "subject": "Statistics",
+        "id": "statistics_0416",
+        "subject": "statistics",
         "topic": "Multiple regression",
         "subtopic": "Model selection",
         "level": "4",
@@ -31069,8 +31069,8 @@
         ]
     },
     {
-        "id": "Statistics_0417",
-        "subject": "Statistics",
+        "id": "statistics_0417",
+        "subject": "statistics",
         "topic": "Multiple regression",
         "subtopic": "Model selection",
         "level": "3",
@@ -31150,8 +31150,8 @@
         ]
     },
     {
-        "id": "Statistics_0418",
-        "subject": "Statistics",
+        "id": "statistics_0418",
+        "subject": "statistics",
         "topic": "Generalized linear methods",
         "subtopic": "Logistic regression",
         "level": "3",
@@ -31200,8 +31200,8 @@
         ]
     },
     {
-        "id": "Statistics_0419",
-        "subject": "Statistics",
+        "id": "statistics_0419",
+        "subject": "statistics",
         "topic": "Generalized linear methods",
         "subtopic": "Logistic regression",
         "level": "4",
@@ -31313,8 +31313,8 @@
         ]
     },
     {
-        "id": "Statistics_0420",
-        "subject": "Statistics",
+        "id": "statistics_0420",
+        "subject": "statistics",
         "topic": "Generalized linear methods",
         "subtopic": "Logistic regression",
         "level": "3",
