@@ -1,7 +1,7 @@
 [
     {
-        "id": "Combinatorics_0000",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0000",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Factorial arithmetic",
         "level": "1",
@@ -41,8 +41,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0001",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0001",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Factorial arithmetic",
         "level": "2",
@@ -82,8 +82,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0002",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0002",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Factorial arithmetic",
         "level": "2",
@@ -140,8 +140,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0003",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0003",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Permutations",
         "level": "4",
@@ -181,8 +181,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0004",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0004",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Permutations",
         "level": "3",
@@ -239,8 +239,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0005",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0005",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Permutations",
         "level": "3",
@@ -279,8 +279,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0006",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0006",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Permutations",
         "level": "2",
@@ -322,8 +322,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0007",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0007",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Permutations",
         "level": "2",
@@ -362,8 +362,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0008",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0008",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Permutations",
         "level": "3",
@@ -415,8 +415,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0009",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0009",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Permutations",
         "level": "2",
@@ -456,8 +456,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0010",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0010",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Permutations",
         "level": "2",
@@ -497,8 +497,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0011",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0011",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Permutations",
         "level": "2",
@@ -538,8 +538,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0012",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0012",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Permutations",
         "level": "3",
@@ -579,8 +579,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0013",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0013",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Permutations",
         "level": "5",
@@ -638,8 +638,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0014",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0014",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Permutations",
         "level": "3",
@@ -697,8 +697,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0015",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0015",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Permutations",
         "level": "3",
@@ -748,8 +748,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0016",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0016",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Permutations",
         "level": "3",
@@ -793,8 +793,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0017",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0017",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Permutations",
         "level": "2",
@@ -834,8 +834,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0018",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0018",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Permutations",
         "level": "3",
@@ -876,8 +876,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0019",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0019",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Combinations",
         "level": "3",
@@ -916,8 +916,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0020",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0020",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Combinations",
         "level": "3",
@@ -974,8 +974,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0021",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0021",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Combinations",
         "level": "3",
@@ -1032,8 +1032,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0022",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0022",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Combinations",
         "level": "2",
@@ -1117,8 +1117,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0023",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0023",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Combinations",
         "level": "3",
@@ -1157,8 +1157,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0024",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0024",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Combinations",
         "level": "3",
@@ -1215,8 +1215,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0025",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0025",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Combinations",
         "level": "2",
@@ -1256,8 +1256,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0026",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0026",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Combinations",
         "level": "3",
@@ -1297,8 +1297,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0027",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0027",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Combinations",
         "level": "3",
@@ -1338,8 +1338,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0028",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0028",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Combinations",
         "level": "3",
@@ -1379,8 +1379,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0029",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0029",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Combinations",
         "level": "3",
@@ -1420,8 +1420,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0030",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0030",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Combinations",
         "level": "2",
@@ -1462,8 +1462,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0031",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0031",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Combinations",
         "level": "3",
@@ -1531,8 +1531,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0032",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0032",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Combinations",
         "level": "3",
@@ -1582,8 +1582,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0033",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0033",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Combinations",
         "level": "3",
@@ -1631,8 +1631,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0034",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0034",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Combinations",
         "level": "3",
@@ -1672,8 +1672,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0035",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0035",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Combinations",
         "level": "3",
@@ -1714,8 +1714,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0036",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0036",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Combinations",
         "level": "2",
@@ -1756,8 +1756,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0037",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0037",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Combinations",
         "level": "3",
@@ -1807,8 +1807,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0038",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0038",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Combinations",
         "level": "2",
@@ -1849,8 +1849,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0039",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0039",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Combinations",
         "level": "3",
@@ -1891,8 +1891,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0040",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0040",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Pigeonhole principle",
         "level": "3",
@@ -1940,8 +1940,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0041",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0041",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Pigeonhole principle",
         "level": "2",
@@ -1990,8 +1990,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0042",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0042",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Pigeonhole principle",
         "level": "2",
@@ -2040,8 +2040,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0043",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0043",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Inclusion/exclusion",
         "level": "3",
@@ -2089,8 +2089,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0044",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0044",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Inclusion/exclusion",
         "level": "3",
@@ -2134,8 +2134,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0045",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0045",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Inclusion/exclusion",
         "level": "3",
@@ -2185,8 +2185,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0046",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0046",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Inclusion/exclusion",
         "level": "3",
@@ -2227,8 +2227,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0047",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0047",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Inclusion/exclusion",
         "level": "4",
@@ -2277,8 +2277,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0048",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0048",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Inclusion/exclusion",
         "level": "5",
@@ -2336,8 +2336,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0049",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0049",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Inclusion/exclusion",
         "level": "5",
@@ -2386,8 +2386,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0050",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0050",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Inclusion/exclusion",
         "level": "5",
@@ -2445,8 +2445,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0051",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0051",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Inclusion/exclusion",
         "level": "3",
@@ -2494,8 +2494,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0052",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0052",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Inclusion/exclusion",
         "level": "3",
@@ -2540,8 +2540,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0053",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0053",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Inclusion/exclusion",
         "level": "3",
@@ -2586,8 +2586,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0054",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0054",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Inclusion/exclusion",
         "level": "3",
@@ -2645,8 +2645,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0055",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0055",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Inclusion/exclusion",
         "level": "3",
@@ -2704,8 +2704,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0056",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0056",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Inclusion/exclusion",
         "level": "2",
@@ -2746,8 +2746,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0057",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0057",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Inclusion/exclusion",
         "level": "2",
@@ -2788,8 +2788,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0058",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0058",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Inclusion/exclusion",
         "level": "2",
@@ -2830,8 +2830,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0059",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0059",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Inclusion/exclusion",
         "level": "3",
@@ -2881,8 +2881,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0060",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0060",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Inclusion/exclusion",
         "level": "3",
@@ -2932,8 +2932,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0061",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0061",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Inclusion/exclusion",
         "level": "2",
@@ -2974,8 +2974,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0062",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0062",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Inclusion/exclusion",
         "level": "2",
@@ -3025,8 +3025,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0063",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0063",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Inclusion/exclusion",
         "level": "2",
@@ -3076,8 +3076,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0064",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0064",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Inclusion/exclusion",
         "level": "2",
@@ -3127,8 +3127,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0065",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0065",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Stars and bars",
         "level": "4",
@@ -3178,8 +3178,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0066",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0066",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Stars and bars",
         "level": "3",
@@ -3237,8 +3237,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0067",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0067",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Stars and bars",
         "level": "3",
@@ -3287,8 +3287,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0068",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0068",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Stars and bars",
         "level": "3",
@@ -3337,8 +3337,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0069",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0069",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Recursive",
         "level": "3",
@@ -3379,8 +3379,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0070",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0070",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Multiple techniques",
         "level": "3",
@@ -3538,8 +3538,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0071",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0071",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Multiple techniques",
         "level": "3",
@@ -3606,8 +3606,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0072",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0072",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Multiple techniques",
         "level": "2",
@@ -3665,8 +3665,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0073",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0073",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Multiple techniques",
         "level": "3",
@@ -3732,8 +3732,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0074",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0074",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Multiple techniques",
         "level": "3",
@@ -3773,8 +3773,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0075",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0075",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Multiple techniques",
         "level": "3",
@@ -3815,8 +3815,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0076",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0076",
+        "subject": "combinatorics",
         "topic": "Counting",
         "subtopic": "Multiple techniques",
         "level": "2",
@@ -3871,8 +3871,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0077",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0077",
+        "subject": "combinatorics",
         "topic": "Recurrence relations",
         "subtopic": "Concepts",
         "level": "2",
@@ -4011,8 +4011,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0078",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0078",
+        "subject": "combinatorics",
         "topic": "Recurrence relations",
         "subtopic": "Concepts",
         "level": "5",
@@ -4098,8 +4098,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0079",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0079",
+        "subject": "combinatorics",
         "topic": "Recurrence relations",
         "subtopic": "Concepts",
         "level": "1",
@@ -4149,8 +4149,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0080",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0080",
+        "subject": "combinatorics",
         "topic": "Recurrence relations",
         "subtopic": "Concepts",
         "level": "2",
@@ -4227,8 +4227,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0081",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0081",
+        "subject": "combinatorics",
         "topic": "Recurrence relations",
         "subtopic": "Concepts",
         "level": "2",
@@ -4285,8 +4285,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0082",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0082",
+        "subject": "combinatorics",
         "topic": "Recurrence relations",
         "subtopic": "Concepts",
         "level": "2",
@@ -4406,8 +4406,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0083",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0083",
+        "subject": "combinatorics",
         "topic": "Recurrence relations",
         "subtopic": "Concepts",
         "level": "4",
@@ -4617,8 +4617,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0084",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0084",
+        "subject": "combinatorics",
         "topic": "Recurrence relations",
         "subtopic": "Concepts",
         "level": "1",
@@ -4676,8 +4676,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0085",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0085",
+        "subject": "combinatorics",
         "topic": "Recurrence relations",
         "subtopic": "Concepts",
         "level": "6",
@@ -4717,8 +4717,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0086",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0086",
+        "subject": "combinatorics",
         "topic": "Recurrence relations",
         "subtopic": "Solving homogeneous",
         "level": "3",
@@ -4784,8 +4784,8 @@
         ]
     },
     {
-        "id": "Combinatorics_0087",
-        "subject": "Combinatorics",
+        "id": "combinatorics_0087",
+        "subject": "combinatorics",
         "topic": "Recurrence relations",
         "subtopic": "Solving nonhomogeneous",
         "level": "3",

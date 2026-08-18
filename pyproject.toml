@@ -1,7 +1,7 @@
 [project]
-name = "ugmathbench-variant-lyc"
-version = "0.5.0"
-description = "Add your description here"
+name = "ugmb-vlyc"
+version = "0.6.0"
+description = "uvmb-vlyc: UGMathBench variant LYC."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
@@ -11,7 +11,7 @@ dependencies = [
     "datasets>=5.0.0",
     "dotenv>=0.9.9",
     "langchain-core>=1.4.8",
-    "math-capable-agents",
+    "mcma",
     "numpy>=2.5.0",
     "openai>=2.44.0",
     "requests>=2.34.2",
@@ -29,7 +29,7 @@ allow-direct-references = true
 packages = ["ugmb_vlyc"]
 
 [tool.uv.sources]
-math-capable-agents = { path = "../Math-Capable-Agents", editable = true }
+mcma = { path = "../agents", editable = true }
 
 [dependency-groups]
 dev = [
