@@ -3,6 +3,7 @@
 !**/.git*
 !.env.example
 !.data
+!.py*
 
 # Project specific ignored files
 **/.vscode/
