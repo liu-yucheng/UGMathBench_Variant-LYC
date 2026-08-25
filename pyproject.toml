@@ -1,6 +1,6 @@
 [project]
 name = "ugmb-vlyc"
-version = "0.6.0"
+version = "0.7.0"
 description = "uvmb-vlyc: UGMathBench variant LYC."
 readme = "README.md"
 requires-python = ">=3.12"
