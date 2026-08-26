@@ -35,7 +35,6 @@ mcma = { path = "../agents", editable = true }
 dev = [
     "autopep8>=2.3.2",
     "isort>=8.0.1",
-    "pylance>=10.0.0",
     "pylint>=4.0.7",
     "pyreadline3>=3.5.6",
     "ruff>=0.16.1",
