@@ -1,6 +1,6 @@
 [project]
 name = "ugmb-vlyc"
-version = "0.7.0"
+version = "0.8.2"
 description = "uvmb-vlyc: UGMathBench variant LYC."
 readme = "README.md"
 requires-python = ">=3.12"
@@ -31,12 +31,26 @@ packages = ["ugmb_vlyc"]
 [tool.uv.sources]
 mcma = { path = "../agents", editable = true }
 
+[tool.pylint.main]
+ignore-patterns = [
+    "__pycache__",
+    "\\..*",
+]
+
+[tool.isort]
+extend_skip_glob = [
+    "**/__pycache__",
+    "**/.*",
+]
+filter_files = true
+
 [dependency-groups]
 dev = [
     "autopep8>=2.3.2",
     "isort>=8.0.1",
     "pylint>=4.0.7",
     "pyreadline3>=3.5.6",
+    "pyrefly>=1.2.0",
     "ruff>=0.16.1",
     "ty>=0.0.65",
 ]
